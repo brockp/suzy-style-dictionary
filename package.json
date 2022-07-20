@@ -5,7 +5,7 @@
 	"main": "build.js",
 	"scripts": {
 		"build": "node ./build.js",
-		"buildsd": "node_modules/.bin/style-dictionary build",
+		"build-og": "node_modules/.bin/style-dictionary build",
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"watch": "chokidar 'src/**/*.json' -c 'node ./build.js'"
 	},
