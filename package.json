@@ -1,0 +1,20 @@
+{
+	"name": "suzy-style-dictionary",
+	"version": "1.0.0",
+	"description": "",
+	"main": "build.js",
+	"scripts": {
+		"build": "node ./build.js",
+		"buildsd": "node_modules/.bin/style-dictionary build",
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"watch": "chokidar 'src/**/*.json' -c 'node ./build.js'"
+	},
+	"author": "Brock Prescott",
+	"license": "Apache-2.0",
+	"devDependencies": {
+		"chokidar-cli": "^1.2.0",
+		"handlebars": "^4.0.11",
+		"style-dictionary": "^2.10.2"
+	},
+	"dependencies": {}
+}
