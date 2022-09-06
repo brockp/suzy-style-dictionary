@@ -3,8 +3,8 @@
  * Generated on Fri, 19 Aug 2022 15:37:50 GMT
  */
 
-export const TOKEN_ALIAS_COLOR_BRAND_PRIMARY = "#3B5998"; // this is a comment
-export const TOKEN_ALIAS_COLOR_BRAND_SECONDARY = "#4267B2"; // this one is a comment too
+export const TOKEN_ALIAS_COLOR_BRAND_PRIMARY = "#1DA1F2";
+export const TOKEN_ALIAS_COLOR_BRAND_SECONDARY = "#AAB8C2";
 export const TOKEN_AVATAR_SIZE_XXSM = "36px";
 export const TOKEN_AVATAR_SIZE_SM = "72px";
 export const TOKEN_AVATAR_SIZE_MD = "90px";

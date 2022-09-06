@@ -15,15 +15,14 @@ function getStyleDictionaryConfig(brand, platform) {
 				buildPath: `dist/web/${brand}/`,
 				prefix: "token",
 				files: [
-					// uncomment these ones if you need to generate more formats
-					// {
-					//     "destination": "tokens.module.js",
-					//     "format": "javascript/module"
-					// },
-					// {
-					//     "destination": "tokens.object.js",
-					//     "format": "javascript/object"
-					// },
+					{
+						destination: "tokens.module.js",
+						format: "javascript/module"
+					},
+					{
+						destination: "tokens.object.js",
+						format: "javascript/object"
+					},
 					{
 						destination: "tokens.es6.js",
 						format: "javascript/es6"
@@ -52,18 +51,29 @@ function getStyleDictionaryConfig(brand, platform) {
 					}
 				]
 			},
+			"web/css": {
+				transformGroup: "tokens-css",
+				buildPath: `dist/web/${brand}/`,
+				prefix: "token",
+				files: [
+					{
+						destination: "tokens.css",
+						format: "css/variables"
+					}
+				]
+			},
 			styleguide: {
 				transformGroup: "styleguide",
 				buildPath: `dist/styleguide/`,
 				prefix: "token",
 				files: [
+					// {
+					// 	destination: `${platform}_${brand}.json`,
+					// 	format: "json/flat"
+					// },
 					{
-						destination: `${platform}_${brand}.json`,
-						format: "json/flat"
-					},
-					{
-						destination: `${platform}_${brand}.scss`,
-						format: "scss/variables"
+						destination: `${platform}_${brand}.css`,
+						format: "css/variables"
 					}
 				]
 			},
@@ -121,7 +131,11 @@ function getStyleDictionaryConfig(brand, platform) {
 StyleDictionaryPackage.registerFormat({
 	name: "json/flat",
 	formatter: function (dictionary) {
-		return JSON.stringify(dictionary.allProperties, null, 2);
+		return JSON.stringify(
+			dictionary.allProperties,
+			null,
+			2
+		);
 	}
 });
 
@@ -181,7 +195,12 @@ StyleDictionaryPackage.registerTransform({
 
 StyleDictionaryPackage.registerTransformGroup({
 	name: "styleguide",
-	transforms: ["attribute/cti", "name/cti/kebab", "size/px", "color/css"]
+	transforms: [
+		"attribute/cti",
+		"name/cti/kebab",
+		"size/px",
+		"color/css"
+	]
 });
 
 StyleDictionaryPackage.registerTransformGroup({
@@ -191,25 +210,54 @@ StyleDictionaryPackage.registerTransformGroup({
 
 StyleDictionaryPackage.registerTransformGroup({
 	name: "tokens-json",
-	transforms: ["attribute/cti", "name/cti/kebab", "size/px", "color/css"]
+	transforms: [
+		"attribute/cti",
+		"name/cti/kebab",
+		"size/px",
+		"color/css"
+	]
 });
 
 StyleDictionaryPackage.registerTransformGroup({
 	name: "tokens-scss",
 	// to see the pre-defined "scss" transformation use: console.log(StyleDictionaryPackage.transformGroup['scss']);
-	transforms: ["name/cti/kebab", "time/seconds", "size/px", "color/css"]
+	transforms: [
+		"name/cti/kebab",
+		"time/seconds",
+		"size/px",
+		"color/css"
+	]
+});
+
+StyleDictionaryPackage.registerTransformGroup({
+	name: "tokens-css",
+	// to see the pre-defined "css" transformation use: console.log(StyleDictionaryPackage.transformGroup['css']);
+	transforms: [
+		"name/cti/kebab",
+		"time/seconds",
+		"size/px",
+		"color/css"
+	]
 });
 
 StyleDictionaryPackage.registerTransformGroup({
 	name: "tokens-ios",
 	// to see the pre-defined "ios" transformation use: console.log(StyleDictionaryPackage.transformGroup['ios']);
-	transforms: ["attribute/cti", "name/cti/camel", "size/pxToPt"]
+	transforms: [
+		"attribute/cti",
+		"name/cti/camel",
+		"size/pxToPt"
+	]
 });
 
 StyleDictionaryPackage.registerTransformGroup({
 	name: "tokens-android",
 	// to see the pre-defined "android" transformation use: console.log(StyleDictionaryPackage.transformGroup['android']);
-	transforms: ["attribute/cti", "name/cti/camel", "size/pxToDp"]
+	transforms: [
+		"attribute/cti",
+		"name/cti/camel",
+		"size/pxToDp"
+	]
 });
 
 StyleDictionaryPackage.transformGroup["android"];
@@ -219,8 +267,12 @@ console.log("Build started...");
 // PROCESS THE DESIGN TOKENS FOR THE DIFFEREN BRANDS AND PLATFORMS
 
 ["web", "ios", "android"].map(function (platform) {
-	["crowdtap", "brand#2", "brand#3"].map(function (brand) {
-		console.log("\n==============================================");
+	["crowdtap", "suzy-core", "suzy-live"].map(function (
+		brand
+	) {
+		console.log(
+			"\n=============================================="
+		);
 		console.log(`\nProcessing: [${platform}] [${brand}]`);
 
 		const StyleDictionary = StyleDictionaryPackage.extend(
@@ -231,6 +283,7 @@ console.log("Build started...");
 			StyleDictionary.buildPlatform("web/js");
 			StyleDictionary.buildPlatform("web/json");
 			StyleDictionary.buildPlatform("web/scss");
+			StyleDictionary.buildPlatform("web/css");
 		} else if (platform === "ios") {
 			StyleDictionary.buildPlatform("ios");
 		} else if (platform === "android") {
@@ -242,5 +295,7 @@ console.log("Build started...");
 	});
 });
 
-console.log("\n==============================================");
+console.log(
+	"\n=============================================="
+);
 console.log("\nBuild completed!");

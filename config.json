@@ -1,5 +1,5 @@
 {
-	"source": ["properties/**/*.json"],
+	"source": ["src/*.json"],
 	"platforms": {
 		"css-variables": {
 			"transformGroup": "css",
@@ -37,7 +37,6 @@
 				}
 			]
 		},
-
 		"sketch": {
 			"transformGroup": "web",
 			"buildPath": "build/sketch/",
@@ -48,7 +47,6 @@
 				}
 			]
 		},
-
 		"json": {
 			"transformGroup": "js",
 			"buildPath": "build/json/",

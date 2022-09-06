@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <resources>
-    <color name="tokenAliasColorBrandPrimary">#3B5998</color><!-- this is a comment -->
-    <color name="tokenAliasColorBrandSecondary">#4267B2</color><!-- this one is a comment too -->
+    <color name="tokenAliasColorBrandPrimary">#1DA1F2</color>
+    <color name="tokenAliasColorBrandSecondary">#AAB8C2</color>
     <item name="tokenAvatarSizeXxsm">36dp</item>
     <item name="tokenAvatarSizeSm">72dp</item>
     <item name="tokenAvatarSizeMd">90dp</item>

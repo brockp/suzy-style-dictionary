@@ -3,8 +3,8 @@
 <plist version="1.0">
 
 <dict>
-    <key>tokenAliasColorBrandPrimary</key><string>#3B5998</string><!-- this is a comment -->
-    <key>tokenAliasColorBrandSecondary</key><string>#4267B2</string><!-- this one is a comment too -->
+    <key>tokenAliasColorBrandPrimary</key><string>#1DA1F2</string>
+    <key>tokenAliasColorBrandSecondary</key><string>#AAB8C2</string>
     <key>tokenAvatarSizeXxsm</key><string>36pt</string>
     <key>tokenAvatarSizeSm</key><string>72pt</string>
     <key>tokenAvatarSizeMd</key><string>90pt</string>
