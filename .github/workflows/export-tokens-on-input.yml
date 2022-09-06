@@ -16,9 +16,10 @@ jobs:
           node-version: "12"
       - name: Install Node Dependencies
         run: npm install
+      - name: Generate Tokens
+        run: npm run transform
       - name: Build Style Dictionary
-        run: token-transformer src/tokens.json tokens.json
-          npm run build
+        run: npm run build
       - name: Commit Generated Platform Deliverables
         id: "auto-commit-action"
         uses: stefanzweifel/git-auto-commit-action@v4

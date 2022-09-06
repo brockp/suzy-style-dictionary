@@ -6,7 +6,7 @@
 	"scripts": {
 		"build-custom": "node ./build.js",
 		"build": "node_modules/.bin/style-dictionary build",
-		"transform": "token-transformer src/tokens.json src/ready.json",
+		"transform": "token-transformer src/tokens.json tokens.json",
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"watch": "chokidar 'src/**/*.json' -c 'node ./build.js'"
 	},
