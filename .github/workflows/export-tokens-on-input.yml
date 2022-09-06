@@ -1,0 +1,27 @@
+# .github/workflows/export-tokens-on-input.yml
+name: Generate Tokens On Input
+
+on:
+  push:
+    paths:
+      - "src/tokens.json"
+
+jobs:
+  generate_tokens:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: "12"
+      - name: Install Node Dependencies
+        run: npm install
+      - name: Transform Tokens
+        run: token-transformer tokens.json ready.json
+      - name: Build Style Dictionary
+        run: npm run build
+      - name: Commit Generated Platform Deliverables
+        id: "auto-commit-action"
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update platform deliverables
