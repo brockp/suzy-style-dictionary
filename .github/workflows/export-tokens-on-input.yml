@@ -18,10 +18,10 @@ jobs:
         run: npm install
       - name: Transform Tokens
         run: cd src/
-        run: token-transformer tokens.json ready.json
+          token-transformer tokens.json ready.json
       - name: Build Style Dictionary
         run: cd ..
-        run: style-dictionary build --config config.json
+          style-dictionary build --config config.json
       - name: Commit Generated Platform Deliverables
         id: "auto-commit-action"
         uses: stefanzweifel/git-auto-commit-action@v4
