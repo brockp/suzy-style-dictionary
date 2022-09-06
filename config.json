@@ -96,7 +96,6 @@
 				}
 			]
 		},
-
 		"ios": {
 			"transformGroup": "ios",
 			"buildPath": "build/ios/Classes/Generated/",
@@ -211,7 +210,6 @@
 				}
 			]
 		},
-
 		"android": {
 			"transformGroup": "android",
 			"buildPath": "build/android/styledictionary/src/main/res/values/",
