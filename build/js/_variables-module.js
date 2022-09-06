@@ -37,10 +37,10 @@ module.exports = {
   },
   "Colors": {
     "White": {
-      "value": "#ffffff",
+      "value": "#900",
       "type": "color",
       "original": {
-        "value": "#ffffff",
+        "value": "#900",
         "type": "color"
       },
       "name": "ColorsWhite",

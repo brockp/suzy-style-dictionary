@@ -3,7 +3,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
   Do not edit directly
-  Generated on Tue, 06 Sep 2022 18:35:49 GMT
+  Generated on Tue, 06 Sep 2022 19:09:07 GMT
 -->
 <plist version="1.0">
   <dict>
@@ -15,7 +15,7 @@
       <string>card</string>
     <key>StyleDictionaryColorsWhite</key>
     </dict>
-      <string>#ffffff</string>
+      <string>#900</string>
     <key>StyleDictionaryColorsBlack</key>
     </dict>
       <string>#1a152e</string>

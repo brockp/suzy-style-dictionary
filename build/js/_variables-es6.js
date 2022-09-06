@@ -1,6 +1,6 @@
 export const TokenSetOrder0 = "global";
 export const TokenSetOrder1 = "card";
-export const ColorsWhite = "#ffffff";
+export const ColorsWhite = "#900";
 export const ColorsBlack = "#1a152e";
 export const ColorsBlue = "#3589f9";
 export const ColorsLightBlue = "#62b4ff";
