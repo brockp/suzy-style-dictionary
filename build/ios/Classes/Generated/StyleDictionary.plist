@@ -3,922 +3,586 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
   Do not edit directly
-  Generated on Thu, 08 Sep 2022 15:41:28 GMT
+  Generated on Thu, 08 Sep 2022 16:20:30 GMT
 -->
 <plist version="1.0">
   <dict>
+    <key>StyleDictionary0</key>
+    </dict>
+      <string>0</string>
+    <key>StyleDictionary1</key>
+    </dict>
+      <string>12</string>
+    <key>StyleDictionary2</key>
+    </dict>
+      <string>14</string>
+    <key>StyleDictionary3</key>
+    </dict>
+      <string>16</string>
+    <key>StyleDictionary4</key>
+    </dict>
+      <string>18</string>
+    <key>StyleDictionary5</key>
+    </dict>
+      <string>20</string>
+    <key>StyleDictionary6</key>
+    </dict>
+      <string>24</string>
+    <key>StyleDictionary7</key>
+    </dict>
+      <string>32</string>
     <key>StyleDictionaryTokenSetOrder0</key>
     </dict>
-      <string>global</string>
-    <key>StyleDictionaryColorsGray</key>
+      <string>tokenSetOrder</string>
+    <key>StyleDictionaryTokenSetOrder1</key>
     </dict>
-      <string>#cecece</string>
-    <key>StyleDictionaryColorsLightGray</key>
+      <string>Colors</string>
+    <key>StyleDictionaryTokenSetOrder2</key>
     </dict>
-      <string>#e4e4e4</string>
-    <key>StyleDictionaryColorsWhite</key>
+      <string>Shadow</string>
+    <key>StyleDictionaryTokenSetOrder3</key>
     </dict>
-      <string>#ffffff</string>
-    <key>StyleDictionaryColorsBlack</key>
+      <string>fontFamilies</string>
+    <key>StyleDictionaryTokenSetOrder4</key>
     </dict>
-      <string>#1a152e</string>
-    <key>StyleDictionaryColorsBlue</key>
+      <string>lineHeights</string>
+    <key>StyleDictionaryTokenSetOrder5</key>
     </dict>
-      <string>#3589f9</string>
-    <key>StyleDictionaryColorsLightBlue</key>
+      <string>fontWeights</string>
+    <key>StyleDictionaryTokenSetOrder6</key>
     </dict>
-      <string>#62b4ff</string>
-    <key>StyleDictionaryColorsDarkPurple</key>
+      <string>fontSize</string>
+    <key>StyleDictionaryTokenSetOrder7</key>
     </dict>
-      <string>#654cff</string>
-    <key>StyleDictionaryColorsPurple</key>
+      <string>letterSpacing</string>
+    <key>StyleDictionaryTokenSetOrder8</key>
     </dict>
-      <string>#ac6dfd</string>
-    <key>StyleDictionaryColorsLavender</key>
+      <string>paragraphSpacing</string>
+    <key>StyleDictionaryTokenSetOrder9</key>
     </dict>
-      <string>#dac4ff</string>
-    <key>StyleDictionaryColorsEmerald</key>
+      <string>Desktop</string>
+    <key>StyleDictionaryTokenSetOrder10</key>
     </dict>
-      <string>#19a9a5</string>
-    <key>StyleDictionaryColorsGreen</key>
+      <string>Tablet</string>
+    <key>StyleDictionaryTokenSetOrder11</key>
     </dict>
-      <string>#68c97f</string>
-    <key>StyleDictionaryColorsMint</key>
+      <string>Mobile</string>
+    <key>StyleDictionaryTokenSetOrder12</key>
     </dict>
-      <string>#8fd2c6</string>
-    <key>StyleDictionaryColorsOrange</key>
+      <string>textCase</string>
+    <key>StyleDictionaryTokenSetOrder13</key>
     </dict>
-      <string>#ff8840</string>
-    <key>StyleDictionaryColorsLightOrange</key>
+      <string>textDecoration</string>
+    <key>StyleDictionaryNone</key>
     </dict>
-      <string>#ffbd2e</string>
-    <key>StyleDictionaryColorsYellow</key>
+      <string>none</string>
+    <key>StyleDictionaryH1FontFamily</key>
     </dict>
-      <string>#feec4b</string>
-    <key>StyleDictionaryColorsPink</key>
+      <string>"Quicksand", Helvetica, sans-serif</string>
+    <key>StyleDictionaryH1FontWeight</key>
     </dict>
-      <string>#ff7092</string>
-    <key>StyleDictionaryColorsPeach</key>
+      <string>Bold</string>
+    <key>StyleDictionaryH1LineHeight</key>
     </dict>
-      <string>#ffa4a4</string>
-    <key>StyleDictionaryColorsRed</key>
+      <string>150%</string>
+    <key>StyleDictionaryH1FontSize</key>
     </dict>
-      <string>#ff5f57</string>
-    <key>StyleDictionaryColorsButtonStatesHover</key>
+      <string>24</string>
+    <key>StyleDictionaryH1LetterSpacing</key>
     </dict>
-      <string>#1e6fdb</string>
-    <key>StyleDictionaryColorsButtonStatesFocus</key>
+      <string>0%</string>
+    <key>StyleDictionaryH1ParagraphSpacing</key>
     </dict>
-      <string>#1e6fdb</string>
-    <key>StyleDictionaryColorsButtonStatesPressed</key>
+      <string>0</string>
+    <key>StyleDictionaryH1TextCase</key>
     </dict>
-      <string>#105ec6</string>
-    <key>StyleDictionaryColorsButtonStatesDisabled</key>
+      <string>none</string>
+    <key>StyleDictionaryH1TextDecoration</key>
     </dict>
-      <string>#b0b5bf</string>
-    <key>StyleDictionaryColorsSkinToneSkinTone1</key>
+      <string>none</string>
+    <key>StyleDictionaryH2FontFamily</key>
     </dict>
-      <string>#c9a27d</string>
-    <key>StyleDictionaryColorsSkinToneSkinTone2</key>
+      <string>"Quicksand", Helvetica, sans-serif</string>
+    <key>StyleDictionaryH2FontWeight</key>
     </dict>
-      <string>#b28b67</string>
-    <key>StyleDictionaryColorsSkinToneSkinTone3</key>
+      <string>Bold</string>
+    <key>StyleDictionaryH2LineHeight</key>
     </dict>
-      <string>#965f27</string>
-    <key>StyleDictionaryShadowLightmodeXLightColor</key>
+      <string>150%</string>
+    <key>StyleDictionaryH2FontSize</key>
+    </dict>
+      <string>20</string>
+    <key>StyleDictionaryH2LetterSpacing</key>
+    </dict>
+      <string>0%</string>
+    <key>StyleDictionaryH2ParagraphSpacing</key>
+    </dict>
+      <string>0</string>
+    <key>StyleDictionaryH2TextCase</key>
+    </dict>
+      <string>none</string>
+    <key>StyleDictionaryH2TextDecoration</key>
+    </dict>
+      <string>none</string>
+    <key>StyleDictionaryH3FontFamily</key>
+    </dict>
+      <string>"Quicksand", Helvetica, sans-serif</string>
+    <key>StyleDictionaryH3FontWeight</key>
+    </dict>
+      <string>Bold</string>
+    <key>StyleDictionaryH3LineHeight</key>
+    </dict>
+      <string>150%</string>
+    <key>StyleDictionaryH3FontSize</key>
+    </dict>
+      <string>18</string>
+    <key>StyleDictionaryH3LetterSpacing</key>
+    </dict>
+      <string>0%</string>
+    <key>StyleDictionaryH3ParagraphSpacing</key>
+    </dict>
+      <string>0</string>
+    <key>StyleDictionaryH3TextCase</key>
+    </dict>
+      <string>none</string>
+    <key>StyleDictionaryH3TextDecoration</key>
+    </dict>
+      <string>none</string>
+    <key>StyleDictionarySubheaderFontFamily</key>
+    </dict>
+      <string>"Quicksand", Helvetica, sans-serif</string>
+    <key>StyleDictionarySubheaderFontWeight</key>
+    </dict>
+      <string>SemiBold</string>
+    <key>StyleDictionarySubheaderLineHeight</key>
+    </dict>
+      <string>150%</string>
+    <key>StyleDictionarySubheaderFontSize</key>
+    </dict>
+      <string>16</string>
+    <key>StyleDictionarySubheaderLetterSpacing</key>
+    </dict>
+      <string>0%</string>
+    <key>StyleDictionarySubheaderParagraphSpacing</key>
+    </dict>
+      <string>0</string>
+    <key>StyleDictionarySubheaderTextCase</key>
+    </dict>
+      <string>none</string>
+    <key>StyleDictionarySubheaderTextDecoration</key>
+    </dict>
+      <string>none</string>
+    <key>StyleDictionaryBodyCopyFontFamily</key>
+    </dict>
+      <string>"Quicksand", Helvetica, sans-serif</string>
+    <key>StyleDictionaryBodyCopyFontWeight</key>
+    </dict>
+      <string>Medium</string>
+    <key>StyleDictionaryBodyCopyLineHeight</key>
+    </dict>
+      <string>150%</string>
+    <key>StyleDictionaryBodyCopyFontSize</key>
+    </dict>
+      <string>14</string>
+    <key>StyleDictionaryBodyCopyLetterSpacing</key>
+    </dict>
+      <string>0%</string>
+    <key>StyleDictionaryBodyCopyParagraphSpacing</key>
+    </dict>
+      <string>0</string>
+    <key>StyleDictionaryBodyCopyTextCase</key>
+    </dict>
+      <string>none</string>
+    <key>StyleDictionaryBodyCopyTextDecoration</key>
+    </dict>
+      <string>none</string>
+    <key>StyleDictionaryBodyCopySmallFontFamily</key>
+    </dict>
+      <string>"Quicksand", Helvetica, sans-serif</string>
+    <key>StyleDictionaryBodyCopySmallFontWeight</key>
+    </dict>
+      <string>SemiBold</string>
+    <key>StyleDictionaryBodyCopySmallLineHeight</key>
+    </dict>
+      <string>150%</string>
+    <key>StyleDictionaryBodyCopySmallFontSize</key>
+    </dict>
+      <string>12</string>
+    <key>StyleDictionaryBodyCopySmallLetterSpacing</key>
+    </dict>
+      <string>0%</string>
+    <key>StyleDictionaryBodyCopySmallParagraphSpacing</key>
+    </dict>
+      <string>0</string>
+    <key>StyleDictionaryBodyCopySmallTextCase</key>
+    </dict>
+      <string>none</string>
+    <key>StyleDictionaryBodyCopySmallTextDecoration</key>
+    </dict>
+      <string>none</string>
+    <key>StyleDictionaryButtonTextFontFamily</key>
+    </dict>
+      <string>"Quicksand", Helvetica, sans-serif</string>
+    <key>StyleDictionaryButtonTextFontWeight</key>
+    </dict>
+      <string>Bold</string>
+    <key>StyleDictionaryButtonTextLineHeight</key>
+    </dict>
+      <string>150%</string>
+    <key>StyleDictionaryButtonTextFontSize</key>
+    </dict>
+      <string>14</string>
+    <key>StyleDictionaryButtonTextLetterSpacing</key>
+    </dict>
+      <string>0%</string>
+    <key>StyleDictionaryButtonTextParagraphSpacing</key>
+    </dict>
+      <string>0</string>
+    <key>StyleDictionaryButtonTextTextCase</key>
+    </dict>
+      <string>none</string>
+    <key>StyleDictionaryButtonTextTextDecoration</key>
+    </dict>
+      <string>none</string>
+    <key>StyleDictionaryLinksOrTooltipsFontFamily</key>
+    </dict>
+      <string>"Quicksand", Helvetica, sans-serif</string>
+    <key>StyleDictionaryLinksOrTooltipsFontWeight</key>
+    </dict>
+      <string>SemiBold</string>
+    <key>StyleDictionaryLinksOrTooltipsLineHeight</key>
+    </dict>
+      <string>150%</string>
+    <key>StyleDictionaryLinksOrTooltipsFontSize</key>
+    </dict>
+      <string>14</string>
+    <key>StyleDictionaryLinksOrTooltipsLetterSpacing</key>
+    </dict>
+      <string>0%</string>
+    <key>StyleDictionaryLinksOrTooltipsParagraphSpacing</key>
+    </dict>
+      <string>0</string>
+    <key>StyleDictionaryLinksOrTooltipsTextCase</key>
+    </dict>
+      <string>none</string>
+    <key>StyleDictionaryLinksOrTooltipsTextDecoration</key>
+    </dict>
+      <string>none</string>
+    <key>StyleDictionaryCaptionFontFamily</key>
+    </dict>
+      <string>"Quicksand", Helvetica, sans-serif</string>
+    <key>StyleDictionaryCaptionFontWeight</key>
+    </dict>
+      <string>SemiBold</string>
+    <key>StyleDictionaryCaptionLineHeight</key>
+    </dict>
+      <string>150%</string>
+    <key>StyleDictionaryCaptionFontSize</key>
+    </dict>
+      <string>12</string>
+    <key>StyleDictionaryCaptionLetterSpacing</key>
+    </dict>
+      <string>0%</string>
+    <key>StyleDictionaryCaptionParagraphSpacing</key>
+    </dict>
+      <string>0</string>
+    <key>StyleDictionaryCaptionTextCase</key>
+    </dict>
+      <string>none</string>
+    <key>StyleDictionaryCaptionTextDecoration</key>
+    </dict>
+      <string>none</string>
+    <key>StyleDictionaryCaptionSmallFontFamily</key>
+    </dict>
+      <string>"Quicksand", Helvetica, sans-serif</string>
+    <key>StyleDictionaryCaptionSmallFontWeight</key>
+    </dict>
+      <string>SemiBold</string>
+    <key>StyleDictionaryCaptionSmallLineHeight</key>
+    </dict>
+      <string>150%</string>
+    <key>StyleDictionaryCaptionSmallFontSize</key>
+    </dict>
+      <string>10</string>
+    <key>StyleDictionaryCaptionSmallLetterSpacing</key>
+    </dict>
+      <string>0%</string>
+    <key>StyleDictionaryCaptionSmallParagraphSpacing</key>
+    </dict>
+      <string>0</string>
+    <key>StyleDictionaryCaptionSmallTextCase</key>
+    </dict>
+      <string>none</string>
+    <key>StyleDictionaryCaptionSmallTextDecoration</key>
+    </dict>
+      <string>none</string>
+    <key>StyleDictionarySubHeaderFontFamily</key>
+    </dict>
+      <string>"Quicksand", Helvetica, sans-serif</string>
+    <key>StyleDictionarySubHeaderFontWeight</key>
+    </dict>
+      <string>SemiBold</string>
+    <key>StyleDictionarySubHeaderLineHeight</key>
+    </dict>
+      <string>150%</string>
+    <key>StyleDictionarySubHeaderFontSize</key>
+    </dict>
+      <string>18</string>
+    <key>StyleDictionarySubHeaderLetterSpacing</key>
+    </dict>
+      <string>0%</string>
+    <key>StyleDictionarySubHeaderParagraphSpacing</key>
+    </dict>
+      <string>0</string>
+    <key>StyleDictionarySubHeaderTextCase</key>
+    </dict>
+      <string>none</string>
+    <key>StyleDictionarySubHeaderTextDecoration</key>
+    </dict>
+      <string>none</string>
+    <key>StyleDictionaryBodyCopySmallFontFamily</key>
+    </dict>
+      <string>"Quicksand", Helvetica, sans-serif</string>
+    <key>StyleDictionaryBodyCopySmallFontWeight</key>
+    </dict>
+      <string>SemiBold</string>
+    <key>StyleDictionaryBodyCopySmallLineHeight</key>
+    </dict>
+      <string>150%</string>
+    <key>StyleDictionaryBodyCopySmallFontSize</key>
+    </dict>
+      <string>12</string>
+    <key>StyleDictionaryBodyCopySmallLetterSpacing</key>
+    </dict>
+      <string>0%</string>
+    <key>StyleDictionaryBodyCopySmallParagraphSpacing</key>
+    </dict>
+      <string>0</string>
+    <key>StyleDictionaryBodyCopySmallTextCase</key>
+    </dict>
+      <string>none</string>
+    <key>StyleDictionaryBodyCopySmallTextDecoration</key>
+    </dict>
+      <string>none</string>
+    <key>StyleDictionaryButtonTextFontFamily</key>
+    </dict>
+      <string>"Quicksand", Helvetica, sans-serif</string>
+    <key>StyleDictionaryButtonTextFontWeight</key>
+    </dict>
+      <string>Bold</string>
+    <key>StyleDictionaryButtonTextLineHeight</key>
+    </dict>
+      <string>150%</string>
+    <key>StyleDictionaryButtonTextFontSize</key>
+    </dict>
+      <string>16</string>
+    <key>StyleDictionaryButtonTextLetterSpacing</key>
+    </dict>
+      <string>0%</string>
+    <key>StyleDictionaryButtonTextParagraphSpacing</key>
+    </dict>
+      <string>0</string>
+    <key>StyleDictionaryButtonTextTextCase</key>
+    </dict>
+      <string>none</string>
+    <key>StyleDictionaryButtonTextTextDecoration</key>
+    </dict>
+      <string>none</string>
+    <key>StyleDictionaryQuicksand0</key>
+    </dict>
+      <string>Bold</string>
+    <key>StyleDictionaryQuicksand1</key>
+    </dict>
+      <string>SemiBold</string>
+    <key>StyleDictionaryQuicksand2</key>
+    </dict>
+      <string>Medium</string>
+    <key>StyleDictionaryQuicksand</key>
+    </dict>
+      <string>"Quicksand", Helvetica, sans-serif</string>
+    <key>StyleDictionaryLightmodeXLightColor</key>
     </dict>
       <string>#0000004d</string>
-    <key>StyleDictionaryShadowLightmodeXLightType</key>
+    <key>StyleDictionaryLightmodeXLightType</key>
     </dict>
       <string>dropShadow</string>
-    <key>StyleDictionaryShadowLightmodeXLightX</key>
+    <key>StyleDictionaryLightmodeXLightX</key>
     </dict>
       <string>0</string>
-    <key>StyleDictionaryShadowLightmodeXLightY</key>
+    <key>StyleDictionaryLightmodeXLightY</key>
     </dict>
       <string>0.8</string>
-    <key>StyleDictionaryShadowLightmodeXLightBlur</key>
+    <key>StyleDictionaryLightmodeXLightBlur</key>
     </dict>
       <string>6</string>
-    <key>StyleDictionaryShadowLightmodeXLightSpread</key>
+    <key>StyleDictionaryLightmodeXLightSpread</key>
     </dict>
       <string>0</string>
-    <key>StyleDictionaryShadowLightmodeLightColor</key>
+    <key>StyleDictionaryLightmodeLightColor</key>
     </dict>
       <string>#00000040</string>
-    <key>StyleDictionaryShadowLightmodeLightType</key>
+    <key>StyleDictionaryLightmodeLightType</key>
     </dict>
       <string>dropShadow</string>
-    <key>StyleDictionaryShadowLightmodeLightX</key>
+    <key>StyleDictionaryLightmodeLightX</key>
     </dict>
       <string>0</string>
-    <key>StyleDictionaryShadowLightmodeLightY</key>
+    <key>StyleDictionaryLightmodeLightY</key>
     </dict>
       <string>6.6</string>
-    <key>StyleDictionaryShadowLightmodeLightBlur</key>
+    <key>StyleDictionaryLightmodeLightBlur</key>
     </dict>
       <string>18</string>
-    <key>StyleDictionaryShadowLightmodeLightSpread</key>
+    <key>StyleDictionaryLightmodeLightSpread</key>
     </dict>
       <string>0</string>
-    <key>StyleDictionaryShadowLightmodeDarkColor</key>
+    <key>StyleDictionaryLightmodeDarkColor</key>
     </dict>
       <string>#00000073</string>
-    <key>StyleDictionaryShadowLightmodeDarkType</key>
+    <key>StyleDictionaryLightmodeDarkType</key>
     </dict>
       <string>dropShadow</string>
-    <key>StyleDictionaryShadowLightmodeDarkX</key>
+    <key>StyleDictionaryLightmodeDarkX</key>
     </dict>
       <string>0</string>
-    <key>StyleDictionaryShadowLightmodeDarkY</key>
+    <key>StyleDictionaryLightmodeDarkY</key>
     </dict>
       <string>8</string>
-    <key>StyleDictionaryShadowLightmodeDarkBlur</key>
+    <key>StyleDictionaryLightmodeDarkBlur</key>
     </dict>
       <string>19</string>
-    <key>StyleDictionaryShadowLightmodeDarkSpread</key>
+    <key>StyleDictionaryLightmodeDarkSpread</key>
     </dict>
       <string>0</string>
-    <key>StyleDictionaryShadowDarkmodeXLightColor</key>
+    <key>StyleDictionaryDarkmodeXLightColor</key>
     </dict>
       <string>#00000066</string>
-    <key>StyleDictionaryShadowDarkmodeXLightType</key>
+    <key>StyleDictionaryDarkmodeXLightType</key>
     </dict>
       <string>dropShadow</string>
-    <key>StyleDictionaryShadowDarkmodeXLightX</key>
+    <key>StyleDictionaryDarkmodeXLightX</key>
     </dict>
       <string>0</string>
-    <key>StyleDictionaryShadowDarkmodeXLightY</key>
+    <key>StyleDictionaryDarkmodeXLightY</key>
     </dict>
       <string>4</string>
-    <key>StyleDictionaryShadowDarkmodeXLightBlur</key>
+    <key>StyleDictionaryDarkmodeXLightBlur</key>
     </dict>
       <string>10</string>
-    <key>StyleDictionaryShadowDarkmodeXLightSpread</key>
+    <key>StyleDictionaryDarkmodeXLightSpread</key>
     </dict>
       <string>0</string>
-    <key>StyleDictionaryShadowDarkmodeLightColor</key>
+    <key>StyleDictionaryDarkmodeLightColor</key>
     </dict>
       <string>#00000080</string>
-    <key>StyleDictionaryShadowDarkmodeLightType</key>
+    <key>StyleDictionaryDarkmodeLightType</key>
     </dict>
       <string>dropShadow</string>
-    <key>StyleDictionaryShadowDarkmodeLightX</key>
+    <key>StyleDictionaryDarkmodeLightX</key>
     </dict>
       <string>0</string>
-    <key>StyleDictionaryShadowDarkmodeLightY</key>
+    <key>StyleDictionaryDarkmodeLightY</key>
     </dict>
       <string>8</string>
-    <key>StyleDictionaryShadowDarkmodeLightBlur</key>
+    <key>StyleDictionaryDarkmodeLightBlur</key>
     </dict>
       <string>10</string>
-    <key>StyleDictionaryShadowDarkmodeLightSpread</key>
+    <key>StyleDictionaryDarkmodeLightSpread</key>
     </dict>
       <string>0</string>
-    <key>StyleDictionaryShadowDarkmodeDarkColor</key>
+    <key>StyleDictionaryDarkmodeDarkColor</key>
     </dict>
       <string>#000000</string>
-    <key>StyleDictionaryShadowDarkmodeDarkType</key>
+    <key>StyleDictionaryDarkmodeDarkType</key>
     </dict>
       <string>dropShadow</string>
-    <key>StyleDictionaryShadowDarkmodeDarkX</key>
+    <key>StyleDictionaryDarkmodeDarkX</key>
     </dict>
       <string>0</string>
-    <key>StyleDictionaryShadowDarkmodeDarkY</key>
+    <key>StyleDictionaryDarkmodeDarkY</key>
     </dict>
       <string>6</string>
-    <key>StyleDictionaryShadowDarkmodeDarkBlur</key>
+    <key>StyleDictionaryDarkmodeDarkBlur</key>
     </dict>
       <string>11</string>
-    <key>StyleDictionaryShadowDarkmodeDarkSpread</key>
+    <key>StyleDictionaryDarkmodeDarkSpread</key>
     </dict>
       <string>2</string>
-    <key>StyleDictionaryFontFamiliesQuicksand</key>
+    <key>StyleDictionaryGray</key>
     </dict>
-      <string>"Quicksand", Helvetica, sans-serif</string>
-    <key>StyleDictionaryLineHeights0</key>
+      <string>#cecece</string>
+    <key>StyleDictionaryLightGray</key>
     </dict>
-      <string>130%</string>
-    <key>StyleDictionaryLineHeights1</key>
+      <string>#e4e4e4</string>
+    <key>StyleDictionaryWhiteish</key>
     </dict>
-      <string>150%</string>
-    <key>StyleDictionaryFontWeightsQuicksand0</key>
+      <string>#fff000</string>
+    <key>StyleDictionaryBlack</key>
     </dict>
-      <string>Bold</string>
-    <key>StyleDictionaryFontWeightsQuicksand1</key>
+      <string>#1a152e</string>
+    <key>StyleDictionaryBlue</key>
     </dict>
-      <string>SemiBold</string>
-    <key>StyleDictionaryFontWeightsQuicksand2</key>
+      <string>#3589f9</string>
+    <key>StyleDictionaryLightBlue</key>
     </dict>
-      <string>Medium</string>
-    <key>StyleDictionaryFontSize0</key>
+      <string>#62b4ff</string>
+    <key>StyleDictionaryDarkPurple</key>
     </dict>
-      <string>10</string>
-    <key>StyleDictionaryFontSize1</key>
+      <string>#654cff</string>
+    <key>StyleDictionaryPurple</key>
     </dict>
-      <string>12</string>
-    <key>StyleDictionaryFontSize2</key>
+      <string>#ac6dfd</string>
+    <key>StyleDictionaryLavender</key>
     </dict>
-      <string>14</string>
-    <key>StyleDictionaryFontSize3</key>
+      <string>#dac4ff</string>
+    <key>StyleDictionaryEmerald</key>
     </dict>
-      <string>16</string>
-    <key>StyleDictionaryFontSize4</key>
+      <string>#19a9a5</string>
+    <key>StyleDictionaryGreen</key>
     </dict>
-      <string>18</string>
-    <key>StyleDictionaryFontSize5</key>
+      <string>#68c97f</string>
+    <key>StyleDictionaryMint</key>
     </dict>
-      <string>20</string>
-    <key>StyleDictionaryFontSize6</key>
+      <string>#8fd2c6</string>
+    <key>StyleDictionaryOrange</key>
     </dict>
-      <string>24</string>
-    <key>StyleDictionaryFontSize7</key>
+      <string>#ff8840</string>
+    <key>StyleDictionaryLightOrange</key>
     </dict>
-      <string>32</string>
-    <key>StyleDictionaryLetterSpacing0</key>
+      <string>#ffbd2e</string>
+    <key>StyleDictionaryYellow</key>
     </dict>
-      <string>0%</string>
-    <key>StyleDictionaryParagraphSpacing0</key>
+      <string>#feec4b</string>
+    <key>StyleDictionaryPink</key>
     </dict>
-      <string>0</string>
-    <key>StyleDictionaryDesktopH1FontFamily</key>
+      <string>#ff7092</string>
+    <key>StyleDictionaryPeach</key>
     </dict>
-      <string>"Quicksand", Helvetica, sans-serif</string>
-    <key>StyleDictionaryDesktopH1FontWeight</key>
+      <string>#ffa4a4</string>
+    <key>StyleDictionaryRed</key>
     </dict>
-      <string>Bold</string>
-    <key>StyleDictionaryDesktopH1LineHeight</key>
+      <string>#ff5f57</string>
+    <key>StyleDictionaryButtonStatesHover</key>
     </dict>
-      <string>130%</string>
-    <key>StyleDictionaryDesktopH1FontSize</key>
+      <string>#1e6fdb</string>
+    <key>StyleDictionaryButtonStatesFocus</key>
     </dict>
-      <string>32</string>
-    <key>StyleDictionaryDesktopH1LetterSpacing</key>
+      <string>#1e6fdb</string>
+    <key>StyleDictionaryButtonStatesPressed</key>
     </dict>
-      <string>0%</string>
-    <key>StyleDictionaryDesktopH1ParagraphSpacing</key>
+      <string>#105ec6</string>
+    <key>StyleDictionaryButtonStatesDisabled</key>
     </dict>
-      <string>0</string>
-    <key>StyleDictionaryDesktopH1TextCase</key>
+      <string>#b0b5bf</string>
+    <key>StyleDictionarySkinToneSkinTone1</key>
     </dict>
-      <string>none</string>
-    <key>StyleDictionaryDesktopH1TextDecoration</key>
+      <string>#c9a27d</string>
+    <key>StyleDictionarySkinToneSkinTone2</key>
     </dict>
-      <string>none</string>
-    <key>StyleDictionaryDesktopH2FontFamily</key>
+      <string>#b28b67</string>
+    <key>StyleDictionarySkinToneSkinTone3</key>
     </dict>
-      <string>"Quicksand", Helvetica, sans-serif</string>
-    <key>StyleDictionaryDesktopH2FontWeight</key>
-    </dict>
-      <string>Bold</string>
-    <key>StyleDictionaryDesktopH2LineHeight</key>
-    </dict>
-      <string>150%</string>
-    <key>StyleDictionaryDesktopH2FontSize</key>
-    </dict>
-      <string>24</string>
-    <key>StyleDictionaryDesktopH2LetterSpacing</key>
-    </dict>
-      <string>0%</string>
-    <key>StyleDictionaryDesktopH2ParagraphSpacing</key>
-    </dict>
-      <string>0</string>
-    <key>StyleDictionaryDesktopH2TextCase</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryDesktopH2TextDecoration</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryDesktopH3FontFamily</key>
-    </dict>
-      <string>"Quicksand", Helvetica, sans-serif</string>
-    <key>StyleDictionaryDesktopH3FontWeight</key>
-    </dict>
-      <string>Bold</string>
-    <key>StyleDictionaryDesktopH3LineHeight</key>
-    </dict>
-      <string>150%</string>
-    <key>StyleDictionaryDesktopH3FontSize</key>
-    </dict>
-      <string>20</string>
-    <key>StyleDictionaryDesktopH3LetterSpacing</key>
-    </dict>
-      <string>0%</string>
-    <key>StyleDictionaryDesktopH3ParagraphSpacing</key>
-    </dict>
-      <string>0</string>
-    <key>StyleDictionaryDesktopH3TextCase</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryDesktopH3TextDecoration</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryDesktopSubHeaderFontFamily</key>
-    </dict>
-      <string>"Quicksand", Helvetica, sans-serif</string>
-    <key>StyleDictionaryDesktopSubHeaderFontWeight</key>
-    </dict>
-      <string>SemiBold</string>
-    <key>StyleDictionaryDesktopSubHeaderLineHeight</key>
-    </dict>
-      <string>150%</string>
-    <key>StyleDictionaryDesktopSubHeaderFontSize</key>
-    </dict>
-      <string>18</string>
-    <key>StyleDictionaryDesktopSubHeaderLetterSpacing</key>
-    </dict>
-      <string>0%</string>
-    <key>StyleDictionaryDesktopSubHeaderParagraphSpacing</key>
-    </dict>
-      <string>0</string>
-    <key>StyleDictionaryDesktopSubHeaderTextCase</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryDesktopSubHeaderTextDecoration</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryDesktopBodyCopyFontFamily</key>
-    </dict>
-      <string>"Quicksand", Helvetica, sans-serif</string>
-    <key>StyleDictionaryDesktopBodyCopyFontWeight</key>
-    </dict>
-      <string>Medium</string>
-    <key>StyleDictionaryDesktopBodyCopyLineHeight</key>
-    </dict>
-      <string>150%</string>
-    <key>StyleDictionaryDesktopBodyCopyFontSize</key>
-    </dict>
-      <string>14</string>
-    <key>StyleDictionaryDesktopBodyCopyLetterSpacing</key>
-    </dict>
-      <string>0%</string>
-    <key>StyleDictionaryDesktopBodyCopyParagraphSpacing</key>
-    </dict>
-      <string>0</string>
-    <key>StyleDictionaryDesktopBodyCopyTextCase</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryDesktopBodyCopyTextDecoration</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryDesktopBodyCopySmallFontFamily</key>
-    </dict>
-      <string>"Quicksand", Helvetica, sans-serif</string>
-    <key>StyleDictionaryDesktopBodyCopySmallFontWeight</key>
-    </dict>
-      <string>SemiBold</string>
-    <key>StyleDictionaryDesktopBodyCopySmallLineHeight</key>
-    </dict>
-      <string>150%</string>
-    <key>StyleDictionaryDesktopBodyCopySmallFontSize</key>
-    </dict>
-      <string>12</string>
-    <key>StyleDictionaryDesktopBodyCopySmallLetterSpacing</key>
-    </dict>
-      <string>0%</string>
-    <key>StyleDictionaryDesktopBodyCopySmallParagraphSpacing</key>
-    </dict>
-      <string>0</string>
-    <key>StyleDictionaryDesktopBodyCopySmallTextCase</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryDesktopBodyCopySmallTextDecoration</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryDesktopLinksOrTooltipsFontFamily</key>
-    </dict>
-      <string>"Quicksand", Helvetica, sans-serif</string>
-    <key>StyleDictionaryDesktopLinksOrTooltipsFontWeight</key>
-    </dict>
-      <string>SemiBold</string>
-    <key>StyleDictionaryDesktopLinksOrTooltipsLineHeight</key>
-    </dict>
-      <string>150%</string>
-    <key>StyleDictionaryDesktopLinksOrTooltipsFontSize</key>
-    </dict>
-      <string>14</string>
-    <key>StyleDictionaryDesktopLinksOrTooltipsLetterSpacing</key>
-    </dict>
-      <string>0%</string>
-    <key>StyleDictionaryDesktopLinksOrTooltipsParagraphSpacing</key>
-    </dict>
-      <string>0</string>
-    <key>StyleDictionaryDesktopLinksOrTooltipsTextCase</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryDesktopLinksOrTooltipsTextDecoration</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryDesktopCaptionFontFamily</key>
-    </dict>
-      <string>"Quicksand", Helvetica, sans-serif</string>
-    <key>StyleDictionaryDesktopCaptionFontWeight</key>
-    </dict>
-      <string>SemiBold</string>
-    <key>StyleDictionaryDesktopCaptionLineHeight</key>
-    </dict>
-      <string>150%</string>
-    <key>StyleDictionaryDesktopCaptionFontSize</key>
-    </dict>
-      <string>12</string>
-    <key>StyleDictionaryDesktopCaptionLetterSpacing</key>
-    </dict>
-      <string>0%</string>
-    <key>StyleDictionaryDesktopCaptionParagraphSpacing</key>
-    </dict>
-      <string>0</string>
-    <key>StyleDictionaryDesktopCaptionTextCase</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryDesktopCaptionTextDecoration</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryDesktopButtonTextFontFamily</key>
-    </dict>
-      <string>"Quicksand", Helvetica, sans-serif</string>
-    <key>StyleDictionaryDesktopButtonTextFontWeight</key>
-    </dict>
-      <string>Bold</string>
-    <key>StyleDictionaryDesktopButtonTextLineHeight</key>
-    </dict>
-      <string>150%</string>
-    <key>StyleDictionaryDesktopButtonTextFontSize</key>
-    </dict>
-      <string>16</string>
-    <key>StyleDictionaryDesktopButtonTextLetterSpacing</key>
-    </dict>
-      <string>0%</string>
-    <key>StyleDictionaryDesktopButtonTextParagraphSpacing</key>
-    </dict>
-      <string>0</string>
-    <key>StyleDictionaryDesktopButtonTextTextCase</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryDesktopButtonTextTextDecoration</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryTabletH1FontFamily</key>
-    </dict>
-      <string>"Quicksand", Helvetica, sans-serif</string>
-    <key>StyleDictionaryTabletH1FontWeight</key>
-    </dict>
-      <string>Bold</string>
-    <key>StyleDictionaryTabletH1LineHeight</key>
-    </dict>
-      <string>150%</string>
-    <key>StyleDictionaryTabletH1FontSize</key>
-    </dict>
-      <string>24</string>
-    <key>StyleDictionaryTabletH1LetterSpacing</key>
-    </dict>
-      <string>0%</string>
-    <key>StyleDictionaryTabletH1ParagraphSpacing</key>
-    </dict>
-      <string>0</string>
-    <key>StyleDictionaryTabletH1TextCase</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryTabletH1TextDecoration</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryTabletH2FontFamily</key>
-    </dict>
-      <string>"Quicksand", Helvetica, sans-serif</string>
-    <key>StyleDictionaryTabletH2FontWeight</key>
-    </dict>
-      <string>Bold</string>
-    <key>StyleDictionaryTabletH2LineHeight</key>
-    </dict>
-      <string>150%</string>
-    <key>StyleDictionaryTabletH2FontSize</key>
-    </dict>
-      <string>20</string>
-    <key>StyleDictionaryTabletH2LetterSpacing</key>
-    </dict>
-      <string>0%</string>
-    <key>StyleDictionaryTabletH2ParagraphSpacing</key>
-    </dict>
-      <string>0</string>
-    <key>StyleDictionaryTabletH2TextCase</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryTabletH2TextDecoration</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryTabletH3FontFamily</key>
-    </dict>
-      <string>"Quicksand", Helvetica, sans-serif</string>
-    <key>StyleDictionaryTabletH3FontWeight</key>
-    </dict>
-      <string>SemiBold</string>
-    <key>StyleDictionaryTabletH3LineHeight</key>
-    </dict>
-      <string>150%</string>
-    <key>StyleDictionaryTabletH3FontSize</key>
-    </dict>
-      <string>18</string>
-    <key>StyleDictionaryTabletH3LetterSpacing</key>
-    </dict>
-      <string>0%</string>
-    <key>StyleDictionaryTabletH3ParagraphSpacing</key>
-    </dict>
-      <string>0</string>
-    <key>StyleDictionaryTabletH3TextCase</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryTabletH3TextDecoration</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryTabletSubheaderFontFamily</key>
-    </dict>
-      <string>"Quicksand", Helvetica, sans-serif</string>
-    <key>StyleDictionaryTabletSubheaderFontWeight</key>
-    </dict>
-      <string>SemiBold</string>
-    <key>StyleDictionaryTabletSubheaderLineHeight</key>
-    </dict>
-      <string>150%</string>
-    <key>StyleDictionaryTabletSubheaderFontSize</key>
-    </dict>
-      <string>16</string>
-    <key>StyleDictionaryTabletSubheaderLetterSpacing</key>
-    </dict>
-      <string>0%</string>
-    <key>StyleDictionaryTabletSubheaderParagraphSpacing</key>
-    </dict>
-      <string>0</string>
-    <key>StyleDictionaryTabletSubheaderTextCase</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryTabletSubheaderTextDecoration</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryTabletBodyCopyFontFamily</key>
-    </dict>
-      <string>"Quicksand", Helvetica, sans-serif</string>
-    <key>StyleDictionaryTabletBodyCopyFontWeight</key>
-    </dict>
-      <string>Medium</string>
-    <key>StyleDictionaryTabletBodyCopyLineHeight</key>
-    </dict>
-      <string>150%</string>
-    <key>StyleDictionaryTabletBodyCopyFontSize</key>
-    </dict>
-      <string>14</string>
-    <key>StyleDictionaryTabletBodyCopyLetterSpacing</key>
-    </dict>
-      <string>0%</string>
-    <key>StyleDictionaryTabletBodyCopyParagraphSpacing</key>
-    </dict>
-      <string>0</string>
-    <key>StyleDictionaryTabletBodyCopyTextCase</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryTabletBodyCopyTextDecoration</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryTabletBodyCopySmallFontFamily</key>
-    </dict>
-      <string>"Quicksand", Helvetica, sans-serif</string>
-    <key>StyleDictionaryTabletBodyCopySmallFontWeight</key>
-    </dict>
-      <string>SemiBold</string>
-    <key>StyleDictionaryTabletBodyCopySmallLineHeight</key>
-    </dict>
-      <string>150%</string>
-    <key>StyleDictionaryTabletBodyCopySmallFontSize</key>
-    </dict>
-      <string>12</string>
-    <key>StyleDictionaryTabletBodyCopySmallLetterSpacing</key>
-    </dict>
-      <string>0%</string>
-    <key>StyleDictionaryTabletBodyCopySmallParagraphSpacing</key>
-    </dict>
-      <string>0</string>
-    <key>StyleDictionaryTabletBodyCopySmallTextCase</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryTabletBodyCopySmallTextDecoration</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryTabletButtonTextFontFamily</key>
-    </dict>
-      <string>"Quicksand", Helvetica, sans-serif</string>
-    <key>StyleDictionaryTabletButtonTextFontWeight</key>
-    </dict>
-      <string>Bold</string>
-    <key>StyleDictionaryTabletButtonTextLineHeight</key>
-    </dict>
-      <string>150%</string>
-    <key>StyleDictionaryTabletButtonTextFontSize</key>
-    </dict>
-      <string>16</string>
-    <key>StyleDictionaryTabletButtonTextLetterSpacing</key>
-    </dict>
-      <string>0%</string>
-    <key>StyleDictionaryTabletButtonTextParagraphSpacing</key>
-    </dict>
-      <string>0</string>
-    <key>StyleDictionaryTabletButtonTextTextCase</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryTabletButtonTextTextDecoration</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryTabletLinksOrTooltipsFontFamily</key>
-    </dict>
-      <string>"Quicksand", Helvetica, sans-serif</string>
-    <key>StyleDictionaryTabletLinksOrTooltipsFontWeight</key>
-    </dict>
-      <string>SemiBold</string>
-    <key>StyleDictionaryTabletLinksOrTooltipsLineHeight</key>
-    </dict>
-      <string>150%</string>
-    <key>StyleDictionaryTabletLinksOrTooltipsFontSize</key>
-    </dict>
-      <string>14</string>
-    <key>StyleDictionaryTabletLinksOrTooltipsLetterSpacing</key>
-    </dict>
-      <string>0%</string>
-    <key>StyleDictionaryTabletLinksOrTooltipsParagraphSpacing</key>
-    </dict>
-      <string>0</string>
-    <key>StyleDictionaryTabletLinksOrTooltipsTextCase</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryTabletLinksOrTooltipsTextDecoration</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryTabletCaptionFontFamily</key>
-    </dict>
-      <string>"Quicksand", Helvetica, sans-serif</string>
-    <key>StyleDictionaryTabletCaptionFontWeight</key>
-    </dict>
-      <string>SemiBold</string>
-    <key>StyleDictionaryTabletCaptionLineHeight</key>
-    </dict>
-      <string>150%</string>
-    <key>StyleDictionaryTabletCaptionFontSize</key>
-    </dict>
-      <string>12</string>
-    <key>StyleDictionaryTabletCaptionLetterSpacing</key>
-    </dict>
-      <string>0%</string>
-    <key>StyleDictionaryTabletCaptionParagraphSpacing</key>
-    </dict>
-      <string>0</string>
-    <key>StyleDictionaryTabletCaptionTextCase</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryTabletCaptionTextDecoration</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryMobileH1FontFamily</key>
-    </dict>
-      <string>"Quicksand", Helvetica, sans-serif</string>
-    <key>StyleDictionaryMobileH1FontWeight</key>
-    </dict>
-      <string>Bold</string>
-    <key>StyleDictionaryMobileH1LineHeight</key>
-    </dict>
-      <string>150%</string>
-    <key>StyleDictionaryMobileH1FontSize</key>
-    </dict>
-      <string>24</string>
-    <key>StyleDictionaryMobileH1LetterSpacing</key>
-    </dict>
-      <string>0%</string>
-    <key>StyleDictionaryMobileH1ParagraphSpacing</key>
-    </dict>
-      <string>0</string>
-    <key>StyleDictionaryMobileH1TextCase</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryMobileH1TextDecoration</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryMobileH2FontFamily</key>
-    </dict>
-      <string>"Quicksand", Helvetica, sans-serif</string>
-    <key>StyleDictionaryMobileH2FontWeight</key>
-    </dict>
-      <string>Bold</string>
-    <key>StyleDictionaryMobileH2LineHeight</key>
-    </dict>
-      <string>150%</string>
-    <key>StyleDictionaryMobileH2FontSize</key>
-    </dict>
-      <string>20</string>
-    <key>StyleDictionaryMobileH2LetterSpacing</key>
-    </dict>
-      <string>0%</string>
-    <key>StyleDictionaryMobileH2ParagraphSpacing</key>
-    </dict>
-      <string>0</string>
-    <key>StyleDictionaryMobileH2TextCase</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryMobileH2TextDecoration</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryMobileH3FontFamily</key>
-    </dict>
-      <string>"Quicksand", Helvetica, sans-serif</string>
-    <key>StyleDictionaryMobileH3FontWeight</key>
-    </dict>
-      <string>Bold</string>
-    <key>StyleDictionaryMobileH3LineHeight</key>
-    </dict>
-      <string>150%</string>
-    <key>StyleDictionaryMobileH3FontSize</key>
-    </dict>
-      <string>18</string>
-    <key>StyleDictionaryMobileH3LetterSpacing</key>
-    </dict>
-      <string>0%</string>
-    <key>StyleDictionaryMobileH3ParagraphSpacing</key>
-    </dict>
-      <string>0</string>
-    <key>StyleDictionaryMobileH3TextCase</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryMobileH3TextDecoration</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryMobileSubheaderFontFamily</key>
-    </dict>
-      <string>"Quicksand", Helvetica, sans-serif</string>
-    <key>StyleDictionaryMobileSubheaderFontWeight</key>
-    </dict>
-      <string>SemiBold</string>
-    <key>StyleDictionaryMobileSubheaderLineHeight</key>
-    </dict>
-      <string>150%</string>
-    <key>StyleDictionaryMobileSubheaderFontSize</key>
-    </dict>
-      <string>16</string>
-    <key>StyleDictionaryMobileSubheaderLetterSpacing</key>
-    </dict>
-      <string>0%</string>
-    <key>StyleDictionaryMobileSubheaderParagraphSpacing</key>
-    </dict>
-      <string>0</string>
-    <key>StyleDictionaryMobileSubheaderTextCase</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryMobileSubheaderTextDecoration</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryMobileBodyCopyFontFamily</key>
-    </dict>
-      <string>"Quicksand", Helvetica, sans-serif</string>
-    <key>StyleDictionaryMobileBodyCopyFontWeight</key>
-    </dict>
-      <string>Medium</string>
-    <key>StyleDictionaryMobileBodyCopyLineHeight</key>
-    </dict>
-      <string>150%</string>
-    <key>StyleDictionaryMobileBodyCopyFontSize</key>
-    </dict>
-      <string>14</string>
-    <key>StyleDictionaryMobileBodyCopyLetterSpacing</key>
-    </dict>
-      <string>0%</string>
-    <key>StyleDictionaryMobileBodyCopyParagraphSpacing</key>
-    </dict>
-      <string>0</string>
-    <key>StyleDictionaryMobileBodyCopyTextCase</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryMobileBodyCopyTextDecoration</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryMobileBodyCopySmallFontFamily</key>
-    </dict>
-      <string>"Quicksand", Helvetica, sans-serif</string>
-    <key>StyleDictionaryMobileBodyCopySmallFontWeight</key>
-    </dict>
-      <string>SemiBold</string>
-    <key>StyleDictionaryMobileBodyCopySmallLineHeight</key>
-    </dict>
-      <string>150%</string>
-    <key>StyleDictionaryMobileBodyCopySmallFontSize</key>
-    </dict>
-      <string>12</string>
-    <key>StyleDictionaryMobileBodyCopySmallLetterSpacing</key>
-    </dict>
-      <string>0%</string>
-    <key>StyleDictionaryMobileBodyCopySmallParagraphSpacing</key>
-    </dict>
-      <string>0</string>
-    <key>StyleDictionaryMobileBodyCopySmallTextCase</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryMobileBodyCopySmallTextDecoration</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryMobileButtonTextFontFamily</key>
-    </dict>
-      <string>"Quicksand", Helvetica, sans-serif</string>
-    <key>StyleDictionaryMobileButtonTextFontWeight</key>
-    </dict>
-      <string>Bold</string>
-    <key>StyleDictionaryMobileButtonTextLineHeight</key>
-    </dict>
-      <string>150%</string>
-    <key>StyleDictionaryMobileButtonTextFontSize</key>
-    </dict>
-      <string>14</string>
-    <key>StyleDictionaryMobileButtonTextLetterSpacing</key>
-    </dict>
-      <string>0%</string>
-    <key>StyleDictionaryMobileButtonTextParagraphSpacing</key>
-    </dict>
-      <string>0</string>
-    <key>StyleDictionaryMobileButtonTextTextCase</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryMobileButtonTextTextDecoration</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryMobileLinksOrTooltipsFontFamily</key>
-    </dict>
-      <string>"Quicksand", Helvetica, sans-serif</string>
-    <key>StyleDictionaryMobileLinksOrTooltipsFontWeight</key>
-    </dict>
-      <string>SemiBold</string>
-    <key>StyleDictionaryMobileLinksOrTooltipsLineHeight</key>
-    </dict>
-      <string>150%</string>
-    <key>StyleDictionaryMobileLinksOrTooltipsFontSize</key>
-    </dict>
-      <string>14</string>
-    <key>StyleDictionaryMobileLinksOrTooltipsLetterSpacing</key>
-    </dict>
-      <string>0%</string>
-    <key>StyleDictionaryMobileLinksOrTooltipsParagraphSpacing</key>
-    </dict>
-      <string>0</string>
-    <key>StyleDictionaryMobileLinksOrTooltipsTextCase</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryMobileLinksOrTooltipsTextDecoration</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryMobileCaptionFontFamily</key>
-    </dict>
-      <string>"Quicksand", Helvetica, sans-serif</string>
-    <key>StyleDictionaryMobileCaptionFontWeight</key>
-    </dict>
-      <string>SemiBold</string>
-    <key>StyleDictionaryMobileCaptionLineHeight</key>
-    </dict>
-      <string>150%</string>
-    <key>StyleDictionaryMobileCaptionFontSize</key>
-    </dict>
-      <string>12</string>
-    <key>StyleDictionaryMobileCaptionLetterSpacing</key>
-    </dict>
-      <string>0%</string>
-    <key>StyleDictionaryMobileCaptionParagraphSpacing</key>
-    </dict>
-      <string>0</string>
-    <key>StyleDictionaryMobileCaptionTextCase</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryMobileCaptionTextDecoration</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryMobileCaptionSmallFontFamily</key>
-    </dict>
-      <string>"Quicksand", Helvetica, sans-serif</string>
-    <key>StyleDictionaryMobileCaptionSmallFontWeight</key>
-    </dict>
-      <string>SemiBold</string>
-    <key>StyleDictionaryMobileCaptionSmallLineHeight</key>
-    </dict>
-      <string>150%</string>
-    <key>StyleDictionaryMobileCaptionSmallFontSize</key>
-    </dict>
-      <string>10</string>
-    <key>StyleDictionaryMobileCaptionSmallLetterSpacing</key>
-    </dict>
-      <string>0%</string>
-    <key>StyleDictionaryMobileCaptionSmallParagraphSpacing</key>
-    </dict>
-      <string>0</string>
-    <key>StyleDictionaryMobileCaptionSmallTextCase</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryMobileCaptionSmallTextDecoration</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryTextCaseNone</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryTextDecorationNone</key>
-    </dict>
-      <string>none</string>
+      <string>#965f27</string>
     
   </dict>
 </plist>
