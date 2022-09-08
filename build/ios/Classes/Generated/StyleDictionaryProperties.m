@@ -3,7 +3,7 @@
 // StyleDictionaryProperties.m
 //
 // Do not edit directly
-// Generated on Thu, 08 Sep 2022 16:20:30 GMT
+// Generated on Thu, 08 Sep 2022 16:43:08 GMT
 //
 
 #import "StyleDictionaryProperties.h"
@@ -1103,10 +1103,10 @@
     @"name": @"StyleDictionaryLightGray",
     @"category": @"Light Gray"
     },
-  @"Whiteish": @{
-    @"value": #fff000,
-    @"name": @"StyleDictionaryWhiteish",
-    @"category": @"Whiteish"
+  @"White": @{
+    @"value": #ffffff,
+    @"name": @"StyleDictionaryWhite",
+    @"category": @"White"
     },
   @"Black": @{
     @"value": #1a152e,

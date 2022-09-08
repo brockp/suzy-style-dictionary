@@ -2958,19 +2958,19 @@ module.exports = {
       "Light Gray"
     ]
   },
-  "Whiteish": {
-    "value": "#fff000",
+  "White": {
+    "value": "#ffffff",
     "type": "color",
     "original": {
-      "value": "#fff000",
+      "value": "#ffffff",
       "type": "color"
     },
-    "name": "Whiteish",
+    "name": "White",
     "attributes": {
-      "category": "Whiteish"
+      "category": "White"
     },
     "path": [
-      "Whiteish"
+      "White"
     ]
   },
   "Black": {
