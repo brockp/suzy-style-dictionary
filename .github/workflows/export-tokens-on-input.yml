@@ -4,11 +4,7 @@ name: Generate Tokens On Input
 on:
   push:
     paths:
-      - "src/button.json"
-      - "src/colors.json"
-      - "src/icon.json"
-      - "src/shadows.json"
-      - "src/typography.json"
+      - "src/tokens.json"
 
 jobs:
   generate_tokens:
