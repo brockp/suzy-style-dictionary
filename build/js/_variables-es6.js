@@ -44,7 +44,6 @@ export const ButtonStatesDisabled = "#b0b5bf";
 export const SkinToneSkinTone1 = "#c9a27d";
 export const SkinToneSkinTone2 = "#b28b67";
 export const SkinToneSkinTone3 = "#965f27";
-export const Testing = "#a15252";
 export const None = "none";
 export const H1FontFamily = "\"Quicksand\", Helvetica, sans-serif";
 export const H1FontWeight = "Bold";

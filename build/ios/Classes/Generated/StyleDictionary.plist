@@ -3,7 +3,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
   Do not edit directly
-  Generated on Fri, 09 Sep 2022 18:22:45 GMT
+  Generated on Fri, 09 Sep 2022 18:24:29 GMT
 -->
 <plist version="1.0">
   <dict>
@@ -145,9 +145,6 @@
     <key>StyleDictionarySkinToneSkinTone3</key>
     </dict>
       <string>#965f27</string>
-    <key>StyleDictionaryTesting</key>
-    </dict>
-      <string>#a15252</string>
     <key>StyleDictionaryNone</key>
     </dict>
       <string>none</string>

@@ -741,21 +741,6 @@ module.exports = {
       ]
     }
   },
-  "testing": {
-    "value": "#a15252",
-    "type": "color",
-    "original": {
-      "value": "#a15252",
-      "type": "color"
-    },
-    "name": "Testing",
-    "attributes": {
-      "category": "testing"
-    },
-    "path": [
-      "testing"
-    ]
-  },
   "none": {
     "value": "none",
     "type": "textDecoration",

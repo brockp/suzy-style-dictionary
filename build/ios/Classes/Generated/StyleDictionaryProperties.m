@@ -3,7 +3,7 @@
 // StyleDictionaryProperties.m
 //
 // Do not edit directly
-// Generated on Fri, 09 Sep 2022 18:22:45 GMT
+// Generated on Fri, 09 Sep 2022 18:24:29 GMT
 //
 
 #import "StyleDictionaryProperties.h"
@@ -282,11 +282,6 @@
       @"category": @"Skin Tone",
       @"type": @"Skin Tone 3"
       }
-    },
-  @"testing": @{
-    @"value": #a15252,
-    @"name": @"StyleDictionaryTesting",
-    @"category": @"testing"
     },
   @"none": @{
     @"value": none,
