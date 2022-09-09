@@ -1,26 +1,26 @@
 {
-  "icon": {
-    "size": {
-      "small": {
-        "value": "16",
-        "type": "sizing",
-        "description": "Small icon size at 16px (both width and height)"
-      },
-      "default": {
-        "value": "24",
-        "type": "sizing",
-        "description": "Default icon size at 24px (both width and height)"
-      },
-      "large": {
-        "value": "40",
-        "type": "sizing",
-        "description": "Large icon size at 40px (both width and height)"
-      },
-      "extra-large": {
-        "value": "56",
-        "type": "sizing",
-        "description": "Extra large icon size at 56px (both width and height)"
-      }
-    }
-  }
+	"icon": {
+		"size": {
+			"small": {
+				"value": "14",
+				"type": "sizing",
+				"description": "Small icon size at 16px (both width and height)"
+			},
+			"default": {
+				"value": "24",
+				"type": "sizing",
+				"description": "Default icon size at 24px (both width and height)"
+			},
+			"large": {
+				"value": "40",
+				"type": "sizing",
+				"description": "Large icon size at 40px (both width and height)"
+			},
+			"extra-large": {
+				"value": "56",
+				"type": "sizing",
+				"description": "Extra large icon size at 56px (both width and height)"
+			}
+		}
+	}
 }
