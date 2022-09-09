@@ -3,7 +3,7 @@
 // StyleDictionaryProperties.m
 //
 // Do not edit directly
-// Generated on Fri, 09 Sep 2022 15:40:05 GMT
+// Generated on Fri, 09 Sep 2022 16:03:51 GMT
 //
 
 #import "StyleDictionaryProperties.h"
@@ -488,7 +488,7 @@
     },
   @"size": @{
     @"small": @{
-      @"value": @224.00f,
+      @"value": @288.00f,
       @"name": @"StyleDictionarySizeSmall",
       @"category": @"size",
       @"type": @"small"

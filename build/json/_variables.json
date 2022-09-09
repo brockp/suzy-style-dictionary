@@ -1649,11 +1649,11 @@
   },
   "size": {
     "small": {
-      "value": "14rem",
+      "value": "18rem",
       "type": "sizing",
       "description": "Small icon size at 16px (both width and height)",
       "original": {
-        "value": 14,
+        "value": 18,
         "type": "sizing",
         "description": "Small icon size at 16px (both width and height)"
       },

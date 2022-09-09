@@ -3,7 +3,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
   Do not edit directly
-  Generated on Fri, 09 Sep 2022 15:40:05 GMT
+  Generated on Fri, 09 Sep 2022 16:03:51 GMT
 -->
 <plist version="1.0">
   <dict>
@@ -249,7 +249,7 @@
       <string>56</string>
     <key>StyleDictionarySizeSmall</key>
     </dict>
-      <integer>224.00f</integer>
+      <integer>288.00f</integer>
     <key>StyleDictionarySizeDefault</key>
     </dict>
       <integer>384.00f</integer>
