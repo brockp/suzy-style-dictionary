@@ -3,316 +3,262 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
   Do not edit directly
-  Generated on Fri, 09 Sep 2022 15:36:59 GMT
+  Generated on Fri, 09 Sep 2022 15:40:05 GMT
 -->
 <plist version="1.0">
   <dict>
-    <key>StyleDictionaryTokenSetOrder0</key>
+    <key>StyleDictionary0</key>
     </dict>
-      <string>colors</string>
-    <key>StyleDictionaryTokenSetOrder1</key>
+      <string>0%</string>
+    <key>StyleDictionary1</key>
     </dict>
       <string>typography</string>
-    <key>StyleDictionaryTokenSetOrder2</key>
+    <key>StyleDictionary2</key>
     </dict>
       <string>shadows</string>
-    <key>StyleDictionaryTokenSetOrder3</key>
+    <key>StyleDictionary3</key>
     </dict>
       <string>button</string>
-    <key>StyleDictionaryTokenSetOrder4</key>
+    <key>StyleDictionary4</key>
     </dict>
       <string>icon</string>
-    <key>StyleDictionaryIconSizeSmall</key>
-    </dict>
-      <string>16</string>
-    <key>StyleDictionaryIconSizeDefault</key>
-    </dict>
-      <string>24</string>
-    <key>StyleDictionaryIconSizeLarge</key>
-    </dict>
-      <string>40</string>
-    <key>StyleDictionaryIconSizeExtraLarge</key>
-    </dict>
-      <string>56</string>
-    <key>StyleDictionaryButtonFilledDefaultBackgroundColor</key>
-    </dict>
-      <string>#3589f9</string>
-    <key>StyleDictionaryButtonFilledDefaultBorderRadius</key>
-    </dict>
-      <string>100</string>
-    <key>StyleDictionaryButtonFilledDefaultFontWeight</key>
-    </dict>
-      <string>Bold</string>
-    <key>StyleDictionaryButtonFilledDefaultFontSize</key>
-    </dict>
-      <string>14</string>
-    <key>StyleDictionaryButtonFilledDefaultLineHeight</key>
-    </dict>
-      <string>150%</string>
-    <key>StyleDictionaryButtonFilledDefaultHorizontalPadding</key>
-    </dict>
-      <string>32</string>
-    <key>StyleDictionaryButtonFilledDefaultVerticalPadding</key>
-    </dict>
-      <string>16</string>
-    <key>StyleDictionaryButtonFilledHoverBackgroundColor</key>
-    </dict>
-      <string>#1e6fdb</string>
-    <key>StyleDictionaryButtonFilledPressedBackgroundColor</key>
-    </dict>
-      <string>#105EC6</string>
-    <key>StyleDictionaryButtonFilledDisabledBackgroundColor</key>
-    </dict>
-      <string>#24232B</string>
-    <key>StyleDictionaryButtonFilledFocusBackgroundColor</key>
-    </dict>
-      <string>#C1CFE6</string>
-    <key>StyleDictionaryButtonFilledFocusBorderWidth</key>
-    </dict>
-      <string>2</string>
-    <key>StyleDictionaryButtonFilledFocusBorderColor</key>
-    </dict>
-      <string>#1E6FDB</string>
-    <key>StyleDictionaryButtonFilledSmallHeight</key>
-    </dict>
-      <string>40</string>
-    <key>StyleDictionaryButtonFilledMediumHeight</key>
-    </dict>
-      <string>48</string>
-    <key>StyleDictionaryButtonFilledLargeHeight</key>
-    </dict>
-      <string>56</string>
-    <key>StyleDictionaryShadowLightmodeXLight</key>
-    </dict>
-      <string>[object Object]</string>
-    <key>StyleDictionaryShadowLightmodeLight</key>
-    </dict>
-      <string>[object Object]</string>
-    <key>StyleDictionaryShadowLightmodeDark</key>
-    </dict>
-      <string>[object Object]</string>
-    <key>StyleDictionaryShadowDarkmodeXLight</key>
-    </dict>
-      <string>[object Object]</string>
-    <key>StyleDictionaryShadowDarkmodeLight</key>
-    </dict>
-      <string>[object Object]</string>
-    <key>StyleDictionaryShadowDarkmodeDark</key>
-    </dict>
-      <string>[object Object]</string>
-    <key>StyleDictionaryFontFamiliesQuicksand</key>
-    </dict>
-      <string>"Quicksand", Helvetica, sans-serif</string>
-    <key>StyleDictionaryLineHeightsHeaders</key>
-    </dict>
-      <string>130%</string>
-    <key>StyleDictionaryLineHeightsBody</key>
-    </dict>
-      <string>150%</string>
-    <key>StyleDictionaryFontWeightsBold</key>
-    </dict>
-      <string>Bold</string>
-    <key>StyleDictionaryFontWeightsSemibold</key>
-    </dict>
-      <string>SemiBold</string>
-    <key>StyleDictionaryFontWeightsMedium</key>
-    </dict>
-      <string>Medium</string>
-    <key>StyleDictionaryFontSizeCaptionSmall</key>
-    </dict>
-      <string>10</string>
-    <key>StyleDictionaryFontSizeBodyCopySmall</key>
-    </dict>
-      <string>12</string>
-    <key>StyleDictionaryFontSizeBodyCopy</key>
-    </dict>
-      <string>14</string>
-    <key>StyleDictionaryFontSizeButtonText</key>
-    </dict>
-      <string>16</string>
-    <key>StyleDictionaryFontSizeSubHeader</key>
-    </dict>
-      <string>18</string>
-    <key>StyleDictionaryFontSizeHeader3</key>
-    </dict>
-      <string>20</string>
-    <key>StyleDictionaryFontSizeHeader2</key>
-    </dict>
-      <string>24</string>
-    <key>StyleDictionaryFontSizeHeader1</key>
-    </dict>
-      <string>32</string>
-    <key>StyleDictionaryLetterSpacing0</key>
-    </dict>
-      <string>0%</string>
-    <key>StyleDictionaryParagraphSpacing0</key>
-    </dict>
-      <string>0%</string>
-    <key>StyleDictionaryDesktopH1</key>
-    </dict>
-      <string>[object Object]</string>
-    <key>StyleDictionaryDesktopH2</key>
-    </dict>
-      <string>[object Object]</string>
-    <key>StyleDictionaryDesktopH3</key>
-    </dict>
-      <string>[object Object]</string>
-    <key>StyleDictionaryDesktopSubHeader</key>
-    </dict>
-      <string>[object Object]</string>
-    <key>StyleDictionaryDesktopBodyCopy</key>
-    </dict>
-      <string>[object Object]</string>
-    <key>StyleDictionaryDesktopBodyCopySmall</key>
-    </dict>
-      <string>[object Object]</string>
-    <key>StyleDictionaryDesktopLinksOrTooltips</key>
-    </dict>
-      <string>[object Object]</string>
-    <key>StyleDictionaryDesktopCaption</key>
-    </dict>
-      <string>[object Object]</string>
-    <key>StyleDictionaryDesktopButtonText</key>
-    </dict>
-      <string>[object Object]</string>
-    <key>StyleDictionaryTabletH1</key>
-    </dict>
-      <string>[object Object]</string>
-    <key>StyleDictionaryTabletH2</key>
-    </dict>
-      <string>[object Object]</string>
-    <key>StyleDictionaryTabletH3</key>
-    </dict>
-      <string>[object Object]</string>
-    <key>StyleDictionaryTabletSubheader</key>
-    </dict>
-      <string>[object Object]</string>
-    <key>StyleDictionaryTabletBodyCopy</key>
-    </dict>
-      <string>[object Object]</string>
-    <key>StyleDictionaryTabletBodyCopySmall</key>
-    </dict>
-      <string>[object Object]</string>
-    <key>StyleDictionaryTabletButtonText</key>
-    </dict>
-      <string>[object Object]</string>
-    <key>StyleDictionaryTabletLinksOrTooltips</key>
-    </dict>
-      <string>[object Object]</string>
-    <key>StyleDictionaryTabletCaption</key>
-    </dict>
-      <string>[object Object]</string>
-    <key>StyleDictionaryMobileH1</key>
-    </dict>
-      <string>[object Object]</string>
-    <key>StyleDictionaryMobileH2</key>
-    </dict>
-      <string>[object Object]</string>
-    <key>StyleDictionaryMobileH3</key>
-    </dict>
-      <string>[object Object]</string>
-    <key>StyleDictionaryMobileSubheader</key>
-    </dict>
-      <string>[object Object]</string>
-    <key>StyleDictionaryMobileBodyCopy</key>
-    </dict>
-      <string>[object Object]</string>
-    <key>StyleDictionaryMobileBodyCopySmall</key>
-    </dict>
-      <string>[object Object]</string>
-    <key>StyleDictionaryMobileButtonText</key>
-    </dict>
-      <string>[object Object]</string>
-    <key>StyleDictionaryMobileLinksOrTooltips</key>
-    </dict>
-      <string>[object Object]</string>
-    <key>StyleDictionaryMobileCaption</key>
-    </dict>
-      <string>[object Object]</string>
-    <key>StyleDictionaryMobileCaptionSmall</key>
-    </dict>
-      <string>[object Object]</string>
-    <key>StyleDictionaryTextCaseNone</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryTextDecorationNone</key>
-    </dict>
-      <string>none</string>
-    <key>StyleDictionaryColorsGray</key>
+    <key>StyleDictionaryGray</key>
     </dict>
       <string>#cecece</string>
-    <key>StyleDictionaryColorsLightGray</key>
+    <key>StyleDictionaryLightGray</key>
     </dict>
       <string>#e4e4e4</string>
-    <key>StyleDictionaryColorsWhite</key>
+    <key>StyleDictionaryWhite</key>
     </dict>
       <string>#ffffff</string>
-    <key>StyleDictionaryColorsBlack</key>
+    <key>StyleDictionaryBlack</key>
     </dict>
       <string>#1a152e</string>
-    <key>StyleDictionaryColorsBlue</key>
+    <key>StyleDictionaryBlue</key>
     </dict>
       <string>#3589f9</string>
-    <key>StyleDictionaryColorsLightBlue</key>
+    <key>StyleDictionaryLightBlue</key>
     </dict>
       <string>#62b4ff</string>
-    <key>StyleDictionaryColorsDarkPurple</key>
+    <key>StyleDictionaryDarkPurple</key>
     </dict>
       <string>#654cff</string>
-    <key>StyleDictionaryColorsPurple</key>
+    <key>StyleDictionaryPurple</key>
     </dict>
       <string>#ac6dfd</string>
-    <key>StyleDictionaryColorsLavender</key>
+    <key>StyleDictionaryLavender</key>
     </dict>
       <string>#dac4ff</string>
-    <key>StyleDictionaryColorsEmerald</key>
+    <key>StyleDictionaryEmerald</key>
     </dict>
       <string>#19a9a5</string>
-    <key>StyleDictionaryColorsGreen</key>
+    <key>StyleDictionaryGreen</key>
     </dict>
       <string>#68c97f</string>
-    <key>StyleDictionaryColorsMint</key>
+    <key>StyleDictionaryMint</key>
     </dict>
       <string>#8fd2c6</string>
-    <key>StyleDictionaryColorsOrange</key>
+    <key>StyleDictionaryOrange</key>
     </dict>
       <string>#ff8840</string>
-    <key>StyleDictionaryColorsLightOrange</key>
+    <key>StyleDictionaryLightOrange</key>
     </dict>
       <string>#ffbd2e</string>
-    <key>StyleDictionaryColorsYellow</key>
+    <key>StyleDictionaryYellow</key>
     </dict>
       <string>#feec4b</string>
-    <key>StyleDictionaryColorsPink</key>
+    <key>StyleDictionaryPink</key>
     </dict>
       <string>#ff7092</string>
-    <key>StyleDictionaryColorsPeach</key>
+    <key>StyleDictionaryPeach</key>
     </dict>
       <string>#ffa4a4</string>
-    <key>StyleDictionaryColorsRed</key>
+    <key>StyleDictionaryRed</key>
     </dict>
       <string>#ff5f57</string>
-    <key>StyleDictionaryColorsButtonStatesHover</key>
+    <key>StyleDictionaryButtonStatesHover</key>
     </dict>
       <string>#1e6fdb</string>
-    <key>StyleDictionaryColorsButtonStatesFocus</key>
+    <key>StyleDictionaryButtonStatesFocus</key>
     </dict>
       <string>#1e6fdb</string>
-    <key>StyleDictionaryColorsButtonStatesPressed</key>
+    <key>StyleDictionaryButtonStatesPressed</key>
     </dict>
       <string>#105ec6</string>
-    <key>StyleDictionaryColorsButtonStatesDisabled</key>
+    <key>StyleDictionaryButtonStatesDisabled</key>
     </dict>
       <string>#b0b5bf</string>
-    <key>StyleDictionaryColorsSkinToneSkinTone1</key>
+    <key>StyleDictionarySkinToneSkinTone1</key>
     </dict>
       <string>#c9a27d</string>
-    <key>StyleDictionaryColorsSkinToneSkinTone2</key>
+    <key>StyleDictionarySkinToneSkinTone2</key>
     </dict>
       <string>#b28b67</string>
-    <key>StyleDictionaryColorsSkinToneSkinTone3</key>
+    <key>StyleDictionarySkinToneSkinTone3</key>
     </dict>
       <string>#965f27</string>
+    <key>StyleDictionaryNone</key>
+    </dict>
+      <string>none</string>
+    <key>StyleDictionaryH1</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>StyleDictionaryH2</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>StyleDictionaryH3</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>StyleDictionarySubheader</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>StyleDictionaryBodyCopy</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>StyleDictionaryBodyCopySmall</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>StyleDictionaryButtonText</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>StyleDictionaryLinksOrTooltips</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>StyleDictionaryCaption</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>StyleDictionaryCaptionSmall</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>StyleDictionarySubHeader</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>StyleDictionaryBodyCopySmall</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>StyleDictionaryButtonText</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>StyleDictionaryCaptionSmall</key>
+    </dict>
+      <string>10</string>
+    <key>StyleDictionaryBodyCopySmall</key>
+    </dict>
+      <string>12</string>
+    <key>StyleDictionaryBodyCopy</key>
+    </dict>
+      <string>14</string>
+    <key>StyleDictionaryButtonText</key>
+    </dict>
+      <string>16</string>
+    <key>StyleDictionarySubHeader</key>
+    </dict>
+      <string>18</string>
+    <key>StyleDictionaryHeader3</key>
+    </dict>
+      <string>20</string>
+    <key>StyleDictionaryHeader2</key>
+    </dict>
+      <string>24</string>
+    <key>StyleDictionaryHeader1</key>
+    </dict>
+      <string>32</string>
+    <key>StyleDictionaryBold</key>
+    </dict>
+      <string>Bold</string>
+    <key>StyleDictionarySemibold</key>
+    </dict>
+      <string>SemiBold</string>
+    <key>StyleDictionaryMedium</key>
+    </dict>
+      <string>Medium</string>
+    <key>StyleDictionaryHeaders</key>
+    </dict>
+      <string>130%</string>
+    <key>StyleDictionaryBody</key>
+    </dict>
+      <string>150%</string>
+    <key>StyleDictionaryQuicksand</key>
+    </dict>
+      <string>"Quicksand", Helvetica, sans-serif</string>
+    <key>StyleDictionaryLightmodeXLight</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>StyleDictionaryLightmodeLight</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>StyleDictionaryLightmodeDark</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>StyleDictionaryDarkmodeXLight</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>StyleDictionaryDarkmodeLight</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>StyleDictionaryDarkmodeDark</key>
+    </dict>
+      <string>[object Object]</string>
+    <key>StyleDictionaryFilledDefaultBackgroundColor</key>
+    </dict>
+      <string>#3589f9</string>
+    <key>StyleDictionaryFilledDefaultBorderRadius</key>
+    </dict>
+      <string>100</string>
+    <key>StyleDictionaryFilledDefaultFontWeight</key>
+    </dict>
+      <string>Bold</string>
+    <key>StyleDictionaryFilledDefaultFontSize</key>
+    </dict>
+      <string>14</string>
+    <key>StyleDictionaryFilledDefaultLineHeight</key>
+    </dict>
+      <string>150%</string>
+    <key>StyleDictionaryFilledDefaultHorizontalPadding</key>
+    </dict>
+      <string>32</string>
+    <key>StyleDictionaryFilledDefaultVerticalPadding</key>
+    </dict>
+      <string>16</string>
+    <key>StyleDictionaryFilledHoverBackgroundColor</key>
+    </dict>
+      <string>#1e6fdb</string>
+    <key>StyleDictionaryFilledPressedBackgroundColor</key>
+    </dict>
+      <string>#105EC6</string>
+    <key>StyleDictionaryFilledDisabledBackgroundColor</key>
+    </dict>
+      <string>#24232B</string>
+    <key>StyleDictionaryFilledFocusBackgroundColor</key>
+    </dict>
+      <string>#C1CFE6</string>
+    <key>StyleDictionaryFilledFocusBorderWidth</key>
+    </dict>
+      <string>2</string>
+    <key>StyleDictionaryFilledFocusBorderColor</key>
+    </dict>
+      <string>#1E6FDB</string>
+    <key>StyleDictionaryFilledSmallHeight</key>
+    </dict>
+      <string>40</string>
+    <key>StyleDictionaryFilledMediumHeight</key>
+    </dict>
+      <string>48</string>
+    <key>StyleDictionaryFilledLargeHeight</key>
+    </dict>
+      <string>56</string>
+    <key>StyleDictionarySizeSmall</key>
+    </dict>
+      <integer>224.00f</integer>
+    <key>StyleDictionarySizeDefault</key>
+    </dict>
+      <integer>384.00f</integer>
+    <key>StyleDictionarySizeLarge</key>
+    </dict>
+      <integer>640.00f</integer>
+    <key>StyleDictionarySizeExtraLarge</key>
+    </dict>
+      <integer>896.00f</integer>
     
   </dict>
 </plist>

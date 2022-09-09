@@ -2,8 +2,12 @@
 
 <!--
   Do not edit directly
-  Generated on Fri, 09 Sep 2022 15:36:59 GMT
+  Generated on Fri, 09 Sep 2022 15:40:05 GMT
 -->
 <resources>
+  <dimen name="size_small">224.00dp</dimen>
+  <dimen name="size_default">384.00dp</dimen>
+  <dimen name="size_large">640.00dp</dimen>
+  <dimen name="size_extra_large">896.00dp</dimen>
   
 </resources>
