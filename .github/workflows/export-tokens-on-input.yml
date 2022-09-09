@@ -4,7 +4,7 @@ name: Generate Tokens On Input
 on:
   push:
     paths:
-      - "src/tokens-transformed.json"
+      - "src/tokens.json"
 
 jobs:
   generate_tokens:
