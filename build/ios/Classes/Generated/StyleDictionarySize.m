@@ -3,10 +3,14 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
-// Generated on Fri, 09 Sep 2022 16:06:21 GMT
+// Generated on Fri, 09 Sep 2022 18:22:45 GMT
 //
 
 #import "StyleDictionarySize.h"
 
 
 
+float const StyleDictionarySizeSmall = 256.00f;
+float const StyleDictionarySizeDefault = 384.00f;
+float const StyleDictionarySizeLarge = 640.00f;
+float const StyleDictionarySizeExtraLarge = 896.00f;
