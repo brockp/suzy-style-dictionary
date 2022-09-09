@@ -3,7 +3,7 @@
 // StyleDictionaryProperties.m
 //
 // Do not edit directly
-// Generated on Fri, 09 Sep 2022 16:03:51 GMT
+// Generated on Fri, 09 Sep 2022 18:24:29 GMT
 //
 
 #import "StyleDictionaryProperties.h"
@@ -48,6 +48,104 @@
     @"value": icon,
     @"name": @"StyleDictionary4",
     @"category": @"4"
+    },
+  @"tokenSetOrder": @{
+    @"0": @{
+      @"value": tokenSetOrder,
+      @"name": @"StyleDictionaryTokenSetOrder0",
+      @"category": @"tokenSetOrder",
+      @"type": @"0"
+      },
+    @"1": @{
+      @"value": icon,
+      @"name": @"StyleDictionaryTokenSetOrder1",
+      @"category": @"tokenSetOrder",
+      @"type": @"1"
+      },
+    @"2": @{
+      @"value": button,
+      @"name": @"StyleDictionaryTokenSetOrder2",
+      @"category": @"tokenSetOrder",
+      @"type": @"2"
+      },
+    @"3": @{
+      @"value": Shadow,
+      @"name": @"StyleDictionaryTokenSetOrder3",
+      @"category": @"tokenSetOrder",
+      @"type": @"3"
+      },
+    @"4": @{
+      @"value": fontFamilies,
+      @"name": @"StyleDictionaryTokenSetOrder4",
+      @"category": @"tokenSetOrder",
+      @"type": @"4"
+      },
+    @"5": @{
+      @"value": lineHeights,
+      @"name": @"StyleDictionaryTokenSetOrder5",
+      @"category": @"tokenSetOrder",
+      @"type": @"5"
+      },
+    @"6": @{
+      @"value": fontWeights,
+      @"name": @"StyleDictionaryTokenSetOrder6",
+      @"category": @"tokenSetOrder",
+      @"type": @"6"
+      },
+    @"7": @{
+      @"value": fontSize,
+      @"name": @"StyleDictionaryTokenSetOrder7",
+      @"category": @"tokenSetOrder",
+      @"type": @"7"
+      },
+    @"8": @{
+      @"value": letterSpacing,
+      @"name": @"StyleDictionaryTokenSetOrder8",
+      @"category": @"tokenSetOrder",
+      @"type": @"8"
+      },
+    @"9": @{
+      @"value": paragraphSpacing,
+      @"name": @"StyleDictionaryTokenSetOrder9",
+      @"category": @"tokenSetOrder",
+      @"type": @"9"
+      },
+    @"10": @{
+      @"value": Desktop,
+      @"name": @"StyleDictionaryTokenSetOrder10",
+      @"category": @"tokenSetOrder",
+      @"type": @"10"
+      },
+    @"11": @{
+      @"value": Tablet,
+      @"name": @"StyleDictionaryTokenSetOrder11",
+      @"category": @"tokenSetOrder",
+      @"type": @"11"
+      },
+    @"12": @{
+      @"value": Mobile,
+      @"name": @"StyleDictionaryTokenSetOrder12",
+      @"category": @"tokenSetOrder",
+      @"type": @"12"
+      },
+    @"13": @{
+      @"value": textCase,
+      @"name": @"StyleDictionaryTokenSetOrder13",
+      @"category": @"tokenSetOrder",
+      @"type": @"13"
+      },
+    @"14": @{
+      @"value": textDecoration,
+      @"name": @"StyleDictionaryTokenSetOrder14",
+      @"category": @"tokenSetOrder",
+      @"type": @"14"
+      },
+    @"15": @{
+      @"value": Colors,
+      @"name": @"StyleDictionaryTokenSetOrder15",
+      @"category": @"tokenSetOrder",
+      @"type": @"15"
+      }
     },
   @"Gray": @{
     @"value": #cecece,
@@ -191,69 +289,654 @@
     @"category": @"none"
     },
   @"H1": @{
-    @"value": [object Object],
-    @"name": @"StyleDictionaryH1",
-    @"category": @"H1"
+    @"fontFamily": @{
+      @"value": "Quicksand", Helvetica, sans-serif,
+      @"name": @"StyleDictionaryH1FontFamily",
+      @"category": @"H1",
+      @"type": @"fontFamily"
+      },
+    @"fontWeight": @{
+      @"value": Bold,
+      @"name": @"StyleDictionaryH1FontWeight",
+      @"category": @"H1",
+      @"type": @"fontWeight"
+      },
+    @"lineHeight": @{
+      @"value": 150%,
+      @"name": @"StyleDictionaryH1LineHeight",
+      @"category": @"H1",
+      @"type": @"lineHeight"
+      },
+    @"fontSize": @{
+      @"value": 24,
+      @"name": @"StyleDictionaryH1FontSize",
+      @"category": @"H1",
+      @"type": @"fontSize"
+      },
+    @"letterSpacing": @{
+      @"value": 0%,
+      @"name": @"StyleDictionaryH1LetterSpacing",
+      @"category": @"H1",
+      @"type": @"letterSpacing"
+      },
+    @"paragraphSpacing": @{
+      @"value": 0%,
+      @"name": @"StyleDictionaryH1ParagraphSpacing",
+      @"category": @"H1",
+      @"type": @"paragraphSpacing"
+      },
+    @"textCase": @{
+      @"value": none,
+      @"name": @"StyleDictionaryH1TextCase",
+      @"category": @"H1",
+      @"type": @"textCase"
+      },
+    @"textDecoration": @{
+      @"value": none,
+      @"name": @"StyleDictionaryH1TextDecoration",
+      @"category": @"H1",
+      @"type": @"textDecoration"
+      }
     },
   @"H2": @{
-    @"value": [object Object],
-    @"name": @"StyleDictionaryH2",
-    @"category": @"H2"
+    @"fontFamily": @{
+      @"value": "Quicksand", Helvetica, sans-serif,
+      @"name": @"StyleDictionaryH2FontFamily",
+      @"category": @"H2",
+      @"type": @"fontFamily"
+      },
+    @"fontWeight": @{
+      @"value": Bold,
+      @"name": @"StyleDictionaryH2FontWeight",
+      @"category": @"H2",
+      @"type": @"fontWeight"
+      },
+    @"lineHeight": @{
+      @"value": 150%,
+      @"name": @"StyleDictionaryH2LineHeight",
+      @"category": @"H2",
+      @"type": @"lineHeight"
+      },
+    @"fontSize": @{
+      @"value": 20,
+      @"name": @"StyleDictionaryH2FontSize",
+      @"category": @"H2",
+      @"type": @"fontSize"
+      },
+    @"letterSpacing": @{
+      @"value": 0%,
+      @"name": @"StyleDictionaryH2LetterSpacing",
+      @"category": @"H2",
+      @"type": @"letterSpacing"
+      },
+    @"paragraphSpacing": @{
+      @"value": 0%,
+      @"name": @"StyleDictionaryH2ParagraphSpacing",
+      @"category": @"H2",
+      @"type": @"paragraphSpacing"
+      },
+    @"textCase": @{
+      @"value": none,
+      @"name": @"StyleDictionaryH2TextCase",
+      @"category": @"H2",
+      @"type": @"textCase"
+      },
+    @"textDecoration": @{
+      @"value": none,
+      @"name": @"StyleDictionaryH2TextDecoration",
+      @"category": @"H2",
+      @"type": @"textDecoration"
+      }
     },
   @"H3": @{
-    @"value": [object Object],
-    @"name": @"StyleDictionaryH3",
-    @"category": @"H3"
+    @"fontFamily": @{
+      @"value": "Quicksand", Helvetica, sans-serif,
+      @"name": @"StyleDictionaryH3FontFamily",
+      @"category": @"H3",
+      @"type": @"fontFamily"
+      },
+    @"fontWeight": @{
+      @"value": Bold,
+      @"name": @"StyleDictionaryH3FontWeight",
+      @"category": @"H3",
+      @"type": @"fontWeight"
+      },
+    @"lineHeight": @{
+      @"value": 150%,
+      @"name": @"StyleDictionaryH3LineHeight",
+      @"category": @"H3",
+      @"type": @"lineHeight"
+      },
+    @"fontSize": @{
+      @"value": 18,
+      @"name": @"StyleDictionaryH3FontSize",
+      @"category": @"H3",
+      @"type": @"fontSize"
+      },
+    @"letterSpacing": @{
+      @"value": 0%,
+      @"name": @"StyleDictionaryH3LetterSpacing",
+      @"category": @"H3",
+      @"type": @"letterSpacing"
+      },
+    @"paragraphSpacing": @{
+      @"value": 0%,
+      @"name": @"StyleDictionaryH3ParagraphSpacing",
+      @"category": @"H3",
+      @"type": @"paragraphSpacing"
+      },
+    @"textCase": @{
+      @"value": none,
+      @"name": @"StyleDictionaryH3TextCase",
+      @"category": @"H3",
+      @"type": @"textCase"
+      },
+    @"textDecoration": @{
+      @"value": none,
+      @"name": @"StyleDictionaryH3TextDecoration",
+      @"category": @"H3",
+      @"type": @"textDecoration"
+      }
     },
   @"Subheader": @{
-    @"value": [object Object],
-    @"name": @"StyleDictionarySubheader",
-    @"category": @"Subheader"
+    @"fontFamily": @{
+      @"value": "Quicksand", Helvetica, sans-serif,
+      @"name": @"StyleDictionarySubheaderFontFamily",
+      @"category": @"Subheader",
+      @"type": @"fontFamily"
+      },
+    @"fontWeight": @{
+      @"value": SemiBold,
+      @"name": @"StyleDictionarySubheaderFontWeight",
+      @"category": @"Subheader",
+      @"type": @"fontWeight"
+      },
+    @"lineHeight": @{
+      @"value": 150%,
+      @"name": @"StyleDictionarySubheaderLineHeight",
+      @"category": @"Subheader",
+      @"type": @"lineHeight"
+      },
+    @"fontSize": @{
+      @"value": 16,
+      @"name": @"StyleDictionarySubheaderFontSize",
+      @"category": @"Subheader",
+      @"type": @"fontSize"
+      },
+    @"letterSpacing": @{
+      @"value": 0%,
+      @"name": @"StyleDictionarySubheaderLetterSpacing",
+      @"category": @"Subheader",
+      @"type": @"letterSpacing"
+      },
+    @"paragraphSpacing": @{
+      @"value": 0%,
+      @"name": @"StyleDictionarySubheaderParagraphSpacing",
+      @"category": @"Subheader",
+      @"type": @"paragraphSpacing"
+      },
+    @"textCase": @{
+      @"value": none,
+      @"name": @"StyleDictionarySubheaderTextCase",
+      @"category": @"Subheader",
+      @"type": @"textCase"
+      },
+    @"textDecoration": @{
+      @"value": none,
+      @"name": @"StyleDictionarySubheaderTextDecoration",
+      @"category": @"Subheader",
+      @"type": @"textDecoration"
+      }
     },
   @"Body Copy": @{
-    @"value": [object Object],
-    @"name": @"StyleDictionaryBodyCopy",
-    @"category": @"Body Copy"
+    @"fontFamily": @{
+      @"value": "Quicksand", Helvetica, sans-serif,
+      @"name": @"StyleDictionaryBodyCopyFontFamily",
+      @"category": @"Body Copy",
+      @"type": @"fontFamily"
+      },
+    @"fontWeight": @{
+      @"value": Medium,
+      @"name": @"StyleDictionaryBodyCopyFontWeight",
+      @"category": @"Body Copy",
+      @"type": @"fontWeight"
+      },
+    @"lineHeight": @{
+      @"value": 150%,
+      @"name": @"StyleDictionaryBodyCopyLineHeight",
+      @"category": @"Body Copy",
+      @"type": @"lineHeight"
+      },
+    @"fontSize": @{
+      @"value": 14,
+      @"name": @"StyleDictionaryBodyCopyFontSize",
+      @"category": @"Body Copy",
+      @"type": @"fontSize"
+      },
+    @"letterSpacing": @{
+      @"value": 0%,
+      @"name": @"StyleDictionaryBodyCopyLetterSpacing",
+      @"category": @"Body Copy",
+      @"type": @"letterSpacing"
+      },
+    @"paragraphSpacing": @{
+      @"value": 0%,
+      @"name": @"StyleDictionaryBodyCopyParagraphSpacing",
+      @"category": @"Body Copy",
+      @"type": @"paragraphSpacing"
+      },
+    @"textCase": @{
+      @"value": none,
+      @"name": @"StyleDictionaryBodyCopyTextCase",
+      @"category": @"Body Copy",
+      @"type": @"textCase"
+      },
+    @"textDecoration": @{
+      @"value": none,
+      @"name": @"StyleDictionaryBodyCopyTextDecoration",
+      @"category": @"Body Copy",
+      @"type": @"textDecoration"
+      }
     },
   @"Body Copy Small": @{
-    @"value": [object Object],
-    @"name": @"StyleDictionaryBodyCopySmall",
-    @"category": @"Body Copy Small"
+    @"fontFamily": @{
+      @"value": "Quicksand", Helvetica, sans-serif,
+      @"name": @"StyleDictionaryBodyCopySmallFontFamily",
+      @"category": @"Body Copy Small",
+      @"type": @"fontFamily"
+      },
+    @"fontWeight": @{
+      @"value": SemiBold,
+      @"name": @"StyleDictionaryBodyCopySmallFontWeight",
+      @"category": @"Body Copy Small",
+      @"type": @"fontWeight"
+      },
+    @"lineHeight": @{
+      @"value": 150%,
+      @"name": @"StyleDictionaryBodyCopySmallLineHeight",
+      @"category": @"Body Copy Small",
+      @"type": @"lineHeight"
+      },
+    @"fontSize": @{
+      @"value": 12,
+      @"name": @"StyleDictionaryBodyCopySmallFontSize",
+      @"category": @"Body Copy Small",
+      @"type": @"fontSize"
+      },
+    @"letterSpacing": @{
+      @"value": 0%,
+      @"name": @"StyleDictionaryBodyCopySmallLetterSpacing",
+      @"category": @"Body Copy Small",
+      @"type": @"letterSpacing"
+      },
+    @"paragraphSpacing": @{
+      @"value": 0%,
+      @"name": @"StyleDictionaryBodyCopySmallParagraphSpacing",
+      @"category": @"Body Copy Small",
+      @"type": @"paragraphSpacing"
+      },
+    @"textCase": @{
+      @"value": none,
+      @"name": @"StyleDictionaryBodyCopySmallTextCase",
+      @"category": @"Body Copy Small",
+      @"type": @"textCase"
+      },
+    @"textDecoration": @{
+      @"value": none,
+      @"name": @"StyleDictionaryBodyCopySmallTextDecoration",
+      @"category": @"Body Copy Small",
+      @"type": @"textDecoration"
+      }
     },
   @"Button Text": @{
-    @"value": [object Object],
-    @"name": @"StyleDictionaryButtonText",
-    @"category": @"Button Text"
+    @"fontFamily": @{
+      @"value": "Quicksand", Helvetica, sans-serif,
+      @"name": @"StyleDictionaryButtonTextFontFamily",
+      @"category": @"Button Text",
+      @"type": @"fontFamily"
+      },
+    @"fontWeight": @{
+      @"value": Bold,
+      @"name": @"StyleDictionaryButtonTextFontWeight",
+      @"category": @"Button Text",
+      @"type": @"fontWeight"
+      },
+    @"lineHeight": @{
+      @"value": 150%,
+      @"name": @"StyleDictionaryButtonTextLineHeight",
+      @"category": @"Button Text",
+      @"type": @"lineHeight"
+      },
+    @"fontSize": @{
+      @"value": 14,
+      @"name": @"StyleDictionaryButtonTextFontSize",
+      @"category": @"Button Text",
+      @"type": @"fontSize"
+      },
+    @"letterSpacing": @{
+      @"value": 0%,
+      @"name": @"StyleDictionaryButtonTextLetterSpacing",
+      @"category": @"Button Text",
+      @"type": @"letterSpacing"
+      },
+    @"paragraphSpacing": @{
+      @"value": 0%,
+      @"name": @"StyleDictionaryButtonTextParagraphSpacing",
+      @"category": @"Button Text",
+      @"type": @"paragraphSpacing"
+      },
+    @"textCase": @{
+      @"value": none,
+      @"name": @"StyleDictionaryButtonTextTextCase",
+      @"category": @"Button Text",
+      @"type": @"textCase"
+      },
+    @"textDecoration": @{
+      @"value": none,
+      @"name": @"StyleDictionaryButtonTextTextDecoration",
+      @"category": @"Button Text",
+      @"type": @"textDecoration"
+      }
     },
   @"Links or Tooltips": @{
-    @"value": [object Object],
-    @"name": @"StyleDictionaryLinksOrTooltips",
-    @"category": @"Links or Tooltips"
+    @"fontFamily": @{
+      @"value": "Quicksand", Helvetica, sans-serif,
+      @"name": @"StyleDictionaryLinksOrTooltipsFontFamily",
+      @"category": @"Links or Tooltips",
+      @"type": @"fontFamily"
+      },
+    @"fontWeight": @{
+      @"value": SemiBold,
+      @"name": @"StyleDictionaryLinksOrTooltipsFontWeight",
+      @"category": @"Links or Tooltips",
+      @"type": @"fontWeight"
+      },
+    @"lineHeight": @{
+      @"value": 150%,
+      @"name": @"StyleDictionaryLinksOrTooltipsLineHeight",
+      @"category": @"Links or Tooltips",
+      @"type": @"lineHeight"
+      },
+    @"fontSize": @{
+      @"value": 14,
+      @"name": @"StyleDictionaryLinksOrTooltipsFontSize",
+      @"category": @"Links or Tooltips",
+      @"type": @"fontSize"
+      },
+    @"letterSpacing": @{
+      @"value": 0%,
+      @"name": @"StyleDictionaryLinksOrTooltipsLetterSpacing",
+      @"category": @"Links or Tooltips",
+      @"type": @"letterSpacing"
+      },
+    @"paragraphSpacing": @{
+      @"value": 0%,
+      @"name": @"StyleDictionaryLinksOrTooltipsParagraphSpacing",
+      @"category": @"Links or Tooltips",
+      @"type": @"paragraphSpacing"
+      },
+    @"textCase": @{
+      @"value": none,
+      @"name": @"StyleDictionaryLinksOrTooltipsTextCase",
+      @"category": @"Links or Tooltips",
+      @"type": @"textCase"
+      },
+    @"textDecoration": @{
+      @"value": none,
+      @"name": @"StyleDictionaryLinksOrTooltipsTextDecoration",
+      @"category": @"Links or Tooltips",
+      @"type": @"textDecoration"
+      }
     },
   @"Caption": @{
-    @"value": [object Object],
-    @"name": @"StyleDictionaryCaption",
-    @"category": @"Caption"
+    @"fontFamily": @{
+      @"value": "Quicksand", Helvetica, sans-serif,
+      @"name": @"StyleDictionaryCaptionFontFamily",
+      @"category": @"Caption",
+      @"type": @"fontFamily"
+      },
+    @"fontWeight": @{
+      @"value": SemiBold,
+      @"name": @"StyleDictionaryCaptionFontWeight",
+      @"category": @"Caption",
+      @"type": @"fontWeight"
+      },
+    @"lineHeight": @{
+      @"value": 150%,
+      @"name": @"StyleDictionaryCaptionLineHeight",
+      @"category": @"Caption",
+      @"type": @"lineHeight"
+      },
+    @"fontSize": @{
+      @"value": 12,
+      @"name": @"StyleDictionaryCaptionFontSize",
+      @"category": @"Caption",
+      @"type": @"fontSize"
+      },
+    @"letterSpacing": @{
+      @"value": 0%,
+      @"name": @"StyleDictionaryCaptionLetterSpacing",
+      @"category": @"Caption",
+      @"type": @"letterSpacing"
+      },
+    @"paragraphSpacing": @{
+      @"value": 0%,
+      @"name": @"StyleDictionaryCaptionParagraphSpacing",
+      @"category": @"Caption",
+      @"type": @"paragraphSpacing"
+      },
+    @"textCase": @{
+      @"value": none,
+      @"name": @"StyleDictionaryCaptionTextCase",
+      @"category": @"Caption",
+      @"type": @"textCase"
+      },
+    @"textDecoration": @{
+      @"value": none,
+      @"name": @"StyleDictionaryCaptionTextDecoration",
+      @"category": @"Caption",
+      @"type": @"textDecoration"
+      }
     },
   @"Caption small": @{
-    @"value": [object Object],
-    @"name": @"StyleDictionaryCaptionSmall",
-    @"category": @"Caption small"
+    @"fontFamily": @{
+      @"value": "Quicksand", Helvetica, sans-serif,
+      @"name": @"StyleDictionaryCaptionSmallFontFamily",
+      @"category": @"Caption small",
+      @"type": @"fontFamily"
+      },
+    @"fontWeight": @{
+      @"value": SemiBold,
+      @"name": @"StyleDictionaryCaptionSmallFontWeight",
+      @"category": @"Caption small",
+      @"type": @"fontWeight"
+      },
+    @"lineHeight": @{
+      @"value": 150%,
+      @"name": @"StyleDictionaryCaptionSmallLineHeight",
+      @"category": @"Caption small",
+      @"type": @"lineHeight"
+      },
+    @"fontSize": @{
+      @"value": 10,
+      @"name": @"StyleDictionaryCaptionSmallFontSize",
+      @"category": @"Caption small",
+      @"type": @"fontSize"
+      },
+    @"letterSpacing": @{
+      @"value": 0%,
+      @"name": @"StyleDictionaryCaptionSmallLetterSpacing",
+      @"category": @"Caption small",
+      @"type": @"letterSpacing"
+      },
+    @"paragraphSpacing": @{
+      @"value": 0%,
+      @"name": @"StyleDictionaryCaptionSmallParagraphSpacing",
+      @"category": @"Caption small",
+      @"type": @"paragraphSpacing"
+      },
+    @"textCase": @{
+      @"value": none,
+      @"name": @"StyleDictionaryCaptionSmallTextCase",
+      @"category": @"Caption small",
+      @"type": @"textCase"
+      },
+    @"textDecoration": @{
+      @"value": none,
+      @"name": @"StyleDictionaryCaptionSmallTextDecoration",
+      @"category": @"Caption small",
+      @"type": @"textDecoration"
+      }
     },
   @"Sub-Header": @{
-    @"value": [object Object],
-    @"name": @"StyleDictionarySubHeader",
-    @"category": @"Sub-Header"
+    @"fontFamily": @{
+      @"value": "Quicksand", Helvetica, sans-serif,
+      @"name": @"StyleDictionarySubHeaderFontFamily",
+      @"category": @"Sub-Header",
+      @"type": @"fontFamily"
+      },
+    @"fontWeight": @{
+      @"value": SemiBold,
+      @"name": @"StyleDictionarySubHeaderFontWeight",
+      @"category": @"Sub-Header",
+      @"type": @"fontWeight"
+      },
+    @"lineHeight": @{
+      @"value": 150%,
+      @"name": @"StyleDictionarySubHeaderLineHeight",
+      @"category": @"Sub-Header",
+      @"type": @"lineHeight"
+      },
+    @"fontSize": @{
+      @"value": 18,
+      @"name": @"StyleDictionarySubHeaderFontSize",
+      @"category": @"Sub-Header",
+      @"type": @"fontSize"
+      },
+    @"letterSpacing": @{
+      @"value": 0%,
+      @"name": @"StyleDictionarySubHeaderLetterSpacing",
+      @"category": @"Sub-Header",
+      @"type": @"letterSpacing"
+      },
+    @"paragraphSpacing": @{
+      @"value": 0%,
+      @"name": @"StyleDictionarySubHeaderParagraphSpacing",
+      @"category": @"Sub-Header",
+      @"type": @"paragraphSpacing"
+      },
+    @"textCase": @{
+      @"value": none,
+      @"name": @"StyleDictionarySubHeaderTextCase",
+      @"category": @"Sub-Header",
+      @"type": @"textCase"
+      },
+    @"textDecoration": @{
+      @"value": none,
+      @"name": @"StyleDictionarySubHeaderTextDecoration",
+      @"category": @"Sub-Header",
+      @"type": @"textDecoration"
+      }
     },
   @"Body Copy small": @{
-    @"value": [object Object],
-    @"name": @"StyleDictionaryBodyCopySmall",
-    @"category": @"Body Copy small"
+    @"fontFamily": @{
+      @"value": "Quicksand", Helvetica, sans-serif,
+      @"name": @"StyleDictionaryBodyCopySmallFontFamily",
+      @"category": @"Body Copy small",
+      @"type": @"fontFamily"
+      },
+    @"fontWeight": @{
+      @"value": SemiBold,
+      @"name": @"StyleDictionaryBodyCopySmallFontWeight",
+      @"category": @"Body Copy small",
+      @"type": @"fontWeight"
+      },
+    @"lineHeight": @{
+      @"value": 150%,
+      @"name": @"StyleDictionaryBodyCopySmallLineHeight",
+      @"category": @"Body Copy small",
+      @"type": @"lineHeight"
+      },
+    @"fontSize": @{
+      @"value": 12,
+      @"name": @"StyleDictionaryBodyCopySmallFontSize",
+      @"category": @"Body Copy small",
+      @"type": @"fontSize"
+      },
+    @"letterSpacing": @{
+      @"value": 0%,
+      @"name": @"StyleDictionaryBodyCopySmallLetterSpacing",
+      @"category": @"Body Copy small",
+      @"type": @"letterSpacing"
+      },
+    @"paragraphSpacing": @{
+      @"value": 0%,
+      @"name": @"StyleDictionaryBodyCopySmallParagraphSpacing",
+      @"category": @"Body Copy small",
+      @"type": @"paragraphSpacing"
+      },
+    @"textCase": @{
+      @"value": none,
+      @"name": @"StyleDictionaryBodyCopySmallTextCase",
+      @"category": @"Body Copy small",
+      @"type": @"textCase"
+      },
+    @"textDecoration": @{
+      @"value": none,
+      @"name": @"StyleDictionaryBodyCopySmallTextDecoration",
+      @"category": @"Body Copy small",
+      @"type": @"textDecoration"
+      }
     },
   @"Button text": @{
-    @"value": [object Object],
-    @"name": @"StyleDictionaryButtonText",
-    @"category": @"Button text"
+    @"fontFamily": @{
+      @"value": "Quicksand", Helvetica, sans-serif,
+      @"name": @"StyleDictionaryButtonTextFontFamily",
+      @"category": @"Button text",
+      @"type": @"fontFamily"
+      },
+    @"fontWeight": @{
+      @"value": Bold,
+      @"name": @"StyleDictionaryButtonTextFontWeight",
+      @"category": @"Button text",
+      @"type": @"fontWeight"
+      },
+    @"lineHeight": @{
+      @"value": 150%,
+      @"name": @"StyleDictionaryButtonTextLineHeight",
+      @"category": @"Button text",
+      @"type": @"lineHeight"
+      },
+    @"fontSize": @{
+      @"value": 16,
+      @"name": @"StyleDictionaryButtonTextFontSize",
+      @"category": @"Button text",
+      @"type": @"fontSize"
+      },
+    @"letterSpacing": @{
+      @"value": 0%,
+      @"name": @"StyleDictionaryButtonTextLetterSpacing",
+      @"category": @"Button text",
+      @"type": @"letterSpacing"
+      },
+    @"paragraphSpacing": @{
+      @"value": 0%,
+      @"name": @"StyleDictionaryButtonTextParagraphSpacing",
+      @"category": @"Button text",
+      @"type": @"paragraphSpacing"
+      },
+    @"textCase": @{
+      @"value": none,
+      @"name": @"StyleDictionaryButtonTextTextCase",
+      @"category": @"Button text",
+      @"type": @"textCase"
+      },
+    @"textDecoration": @{
+      @"value": none,
+      @"name": @"StyleDictionaryButtonTextTextDecoration",
+      @"category": @"Button text",
+      @"type": @"textDecoration"
+      }
     },
   @"caption-small": @{
     @"value": 10,
@@ -327,42 +1010,270 @@
     },
   @"Lightmode": @{
     @"X-Light": @{
-      @"value": [object Object],
-      @"name": @"StyleDictionaryLightmodeXLight",
-      @"category": @"Lightmode",
-      @"type": @"X-Light"
+      @"color": @{
+        @"value": #0000004d,
+        @"name": @"StyleDictionaryLightmodeXLightColor",
+        @"category": @"Lightmode",
+        @"type": @"X-Light",
+        @"item": @"color"
+        },
+      @"type": @{
+        @"value": dropShadow,
+        @"name": @"StyleDictionaryLightmodeXLightType",
+        @"category": @"Lightmode",
+        @"type": @"X-Light",
+        @"item": @"type"
+        },
+      @"x": @{
+        @"value": 0,
+        @"name": @"StyleDictionaryLightmodeXLightX",
+        @"category": @"Lightmode",
+        @"type": @"X-Light",
+        @"item": @"x"
+        },
+      @"y": @{
+        @"value": 0.8,
+        @"name": @"StyleDictionaryLightmodeXLightY",
+        @"category": @"Lightmode",
+        @"type": @"X-Light",
+        @"item": @"y"
+        },
+      @"blur": @{
+        @"value": 6,
+        @"name": @"StyleDictionaryLightmodeXLightBlur",
+        @"category": @"Lightmode",
+        @"type": @"X-Light",
+        @"item": @"blur"
+        },
+      @"spread": @{
+        @"value": 0,
+        @"name": @"StyleDictionaryLightmodeXLightSpread",
+        @"category": @"Lightmode",
+        @"type": @"X-Light",
+        @"item": @"spread"
+        }
       },
     @"Light": @{
-      @"value": [object Object],
-      @"name": @"StyleDictionaryLightmodeLight",
-      @"category": @"Lightmode",
-      @"type": @"Light"
+      @"color": @{
+        @"value": #00000040,
+        @"name": @"StyleDictionaryLightmodeLightColor",
+        @"category": @"Lightmode",
+        @"type": @"Light",
+        @"item": @"color"
+        },
+      @"type": @{
+        @"value": dropShadow,
+        @"name": @"StyleDictionaryLightmodeLightType",
+        @"category": @"Lightmode",
+        @"type": @"Light",
+        @"item": @"type"
+        },
+      @"x": @{
+        @"value": 0,
+        @"name": @"StyleDictionaryLightmodeLightX",
+        @"category": @"Lightmode",
+        @"type": @"Light",
+        @"item": @"x"
+        },
+      @"y": @{
+        @"value": 6.6,
+        @"name": @"StyleDictionaryLightmodeLightY",
+        @"category": @"Lightmode",
+        @"type": @"Light",
+        @"item": @"y"
+        },
+      @"blur": @{
+        @"value": 18,
+        @"name": @"StyleDictionaryLightmodeLightBlur",
+        @"category": @"Lightmode",
+        @"type": @"Light",
+        @"item": @"blur"
+        },
+      @"spread": @{
+        @"value": 0,
+        @"name": @"StyleDictionaryLightmodeLightSpread",
+        @"category": @"Lightmode",
+        @"type": @"Light",
+        @"item": @"spread"
+        }
       },
     @"Dark": @{
-      @"value": [object Object],
-      @"name": @"StyleDictionaryLightmodeDark",
-      @"category": @"Lightmode",
-      @"type": @"Dark"
+      @"color": @{
+        @"value": #00000073,
+        @"name": @"StyleDictionaryLightmodeDarkColor",
+        @"category": @"Lightmode",
+        @"type": @"Dark",
+        @"item": @"color"
+        },
+      @"type": @{
+        @"value": dropShadow,
+        @"name": @"StyleDictionaryLightmodeDarkType",
+        @"category": @"Lightmode",
+        @"type": @"Dark",
+        @"item": @"type"
+        },
+      @"x": @{
+        @"value": 0,
+        @"name": @"StyleDictionaryLightmodeDarkX",
+        @"category": @"Lightmode",
+        @"type": @"Dark",
+        @"item": @"x"
+        },
+      @"y": @{
+        @"value": 8,
+        @"name": @"StyleDictionaryLightmodeDarkY",
+        @"category": @"Lightmode",
+        @"type": @"Dark",
+        @"item": @"y"
+        },
+      @"blur": @{
+        @"value": 19,
+        @"name": @"StyleDictionaryLightmodeDarkBlur",
+        @"category": @"Lightmode",
+        @"type": @"Dark",
+        @"item": @"blur"
+        },
+      @"spread": @{
+        @"value": 0,
+        @"name": @"StyleDictionaryLightmodeDarkSpread",
+        @"category": @"Lightmode",
+        @"type": @"Dark",
+        @"item": @"spread"
+        }
       }
     },
   @"Darkmode": @{
     @"X-Light": @{
-      @"value": [object Object],
-      @"name": @"StyleDictionaryDarkmodeXLight",
-      @"category": @"Darkmode",
-      @"type": @"X-Light"
+      @"color": @{
+        @"value": #00000066,
+        @"name": @"StyleDictionaryDarkmodeXLightColor",
+        @"category": @"Darkmode",
+        @"type": @"X-Light",
+        @"item": @"color"
+        },
+      @"type": @{
+        @"value": dropShadow,
+        @"name": @"StyleDictionaryDarkmodeXLightType",
+        @"category": @"Darkmode",
+        @"type": @"X-Light",
+        @"item": @"type"
+        },
+      @"x": @{
+        @"value": 0,
+        @"name": @"StyleDictionaryDarkmodeXLightX",
+        @"category": @"Darkmode",
+        @"type": @"X-Light",
+        @"item": @"x"
+        },
+      @"y": @{
+        @"value": 4,
+        @"name": @"StyleDictionaryDarkmodeXLightY",
+        @"category": @"Darkmode",
+        @"type": @"X-Light",
+        @"item": @"y"
+        },
+      @"blur": @{
+        @"value": 10,
+        @"name": @"StyleDictionaryDarkmodeXLightBlur",
+        @"category": @"Darkmode",
+        @"type": @"X-Light",
+        @"item": @"blur"
+        },
+      @"spread": @{
+        @"value": 0,
+        @"name": @"StyleDictionaryDarkmodeXLightSpread",
+        @"category": @"Darkmode",
+        @"type": @"X-Light",
+        @"item": @"spread"
+        }
       },
     @"Light": @{
-      @"value": [object Object],
-      @"name": @"StyleDictionaryDarkmodeLight",
-      @"category": @"Darkmode",
-      @"type": @"Light"
+      @"color": @{
+        @"value": #00000080,
+        @"name": @"StyleDictionaryDarkmodeLightColor",
+        @"category": @"Darkmode",
+        @"type": @"Light",
+        @"item": @"color"
+        },
+      @"type": @{
+        @"value": dropShadow,
+        @"name": @"StyleDictionaryDarkmodeLightType",
+        @"category": @"Darkmode",
+        @"type": @"Light",
+        @"item": @"type"
+        },
+      @"x": @{
+        @"value": 0,
+        @"name": @"StyleDictionaryDarkmodeLightX",
+        @"category": @"Darkmode",
+        @"type": @"Light",
+        @"item": @"x"
+        },
+      @"y": @{
+        @"value": 8,
+        @"name": @"StyleDictionaryDarkmodeLightY",
+        @"category": @"Darkmode",
+        @"type": @"Light",
+        @"item": @"y"
+        },
+      @"blur": @{
+        @"value": 10,
+        @"name": @"StyleDictionaryDarkmodeLightBlur",
+        @"category": @"Darkmode",
+        @"type": @"Light",
+        @"item": @"blur"
+        },
+      @"spread": @{
+        @"value": 0,
+        @"name": @"StyleDictionaryDarkmodeLightSpread",
+        @"category": @"Darkmode",
+        @"type": @"Light",
+        @"item": @"spread"
+        }
       },
     @"Dark": @{
-      @"value": [object Object],
-      @"name": @"StyleDictionaryDarkmodeDark",
-      @"category": @"Darkmode",
-      @"type": @"Dark"
+      @"color": @{
+        @"value": #000000,
+        @"name": @"StyleDictionaryDarkmodeDarkColor",
+        @"category": @"Darkmode",
+        @"type": @"Dark",
+        @"item": @"color"
+        },
+      @"type": @{
+        @"value": dropShadow,
+        @"name": @"StyleDictionaryDarkmodeDarkType",
+        @"category": @"Darkmode",
+        @"type": @"Dark",
+        @"item": @"type"
+        },
+      @"x": @{
+        @"value": 0,
+        @"name": @"StyleDictionaryDarkmodeDarkX",
+        @"category": @"Darkmode",
+        @"type": @"Dark",
+        @"item": @"x"
+        },
+      @"y": @{
+        @"value": 6,
+        @"name": @"StyleDictionaryDarkmodeDarkY",
+        @"category": @"Darkmode",
+        @"type": @"Dark",
+        @"item": @"y"
+        },
+      @"blur": @{
+        @"value": 11,
+        @"name": @"StyleDictionaryDarkmodeDarkBlur",
+        @"category": @"Darkmode",
+        @"type": @"Dark",
+        @"item": @"blur"
+        },
+      @"spread": @{
+        @"value": 2,
+        @"name": @"StyleDictionaryDarkmodeDarkSpread",
+        @"category": @"Darkmode",
+        @"type": @"Dark",
+        @"item": @"spread"
+        }
       }
     },
   @"filled": @{
@@ -488,7 +1399,7 @@
     },
   @"size": @{
     @"small": @{
-      @"value": @288.00f,
+      @"value": @256.00f,
       @"name": @"StyleDictionarySizeSmall",
       @"category": @"size",
       @"type": @"small"
