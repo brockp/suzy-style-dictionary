@@ -2,7 +2,7 @@
 	"icon": {
 		"size": {
 			"small": {
-				"value": "14",
+				"value": "16",
 				"type": "sizing",
 				"description": "Small icon size at 16px (both width and height)"
 			},
