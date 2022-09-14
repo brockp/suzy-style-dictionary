@@ -16,8 +16,6 @@ jobs:
           node-version: "12"
       - name: Install Node Dependencies
         run: npm install
-      - name: Generate Tokens
-        run: npm run transform
       - name: Build Style Dictionary
         run: npm run build
       - name: Commit Generated Platform Deliverables
