@@ -206,7 +206,7 @@
 			"files": [
 				{
 					"destination": "style_dictionary_colors.xml",
-					"format": "android/resources",
+					"format": "android/colors",
 					"options": {
 						"showHeader": false
 					}
