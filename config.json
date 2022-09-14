@@ -207,12 +207,8 @@
 				{
 					"destination": "style_dictionary_colors.xml",
 					"format": "android/resources",
-
 					"options": {
-						"showHeader": false,
-						"filter": {
-							"attributes": { "category": "color" }
-						}
+						"showHeader": false
 					}
 				},
 				{
