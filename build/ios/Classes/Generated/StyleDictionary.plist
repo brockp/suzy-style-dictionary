@@ -3,251 +3,38 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
   Do not edit directly
-  Generated on Thu, 15 Sep 2022 15:35:20 GMT
+  Generated on Thu, 15 Sep 2022 15:37:55 GMT
 -->
 <plist version="1.0">
   <dict>
-    <key>SuzyWhite</key>
-    </dict>
-      <string>#ffffff</string>
-    <key>SuzyGray50</key>
-    </dict>
-      <string>#fafafc</string>
-    <key>SuzyGray100</key>
-    </dict>
-      <string>#f6f6f8</string>
-    <key>SuzyGray200</key>
-    </dict>
-      <string>#edf0f3</string>
-    <key>SuzyGray300</key>
-    </dict>
-      <string>#d7dadf</string>
-    <key>SuzyGray400</key>
-    </dict>
-      <string>#c4c8cf</string>
-    <key>SuzyGray500</key>
-    </dict>
-      <string>#b0b5bf</string>
-    <key>SuzyGray600</key>
-    </dict>
-      <string>#9ca3af</string>
-    <key>SuzyGray700</key>
-    </dict>
-      <string>#667085</string>
-    <key>SuzyGray800</key>
-    </dict>
-      <string>#4e5258</string>
-    <key>SuzyGray900</key>
-    </dict>
-      <string>#101828</string>
-    <key>SuzySuzyPurple50</key>
-    </dict>
-      <string>#f7f2ff</string>
-    <key>SuzySuzyPurple100</key>
-    </dict>
-      <string>#f0ebfa</string>
-    <key>SuzySuzyPurple200</key>
-    </dict>
-      <string>#e0d6f5</string>
-    <key>SuzySuzyPurple300</key>
-    </dict>
-      <string>#c2adeb</string>
-    <key>SuzySuzyPurple400</key>
-    </dict>
-      <string>#a383e0</string>
-    <key>SuzySuzyPurple500</key>
-    </dict>
-      <string>#6631cc</string>
-    <key>SuzySuzyPurple600</key>
-    </dict>
-      <string>#4d2599</string>
-    <key>SuzySuzyPurple700</key>
-    </dict>
-      <string>#331966</string>
-    <key>SuzySuzyPurple800</key>
-    </dict>
-      <string>#291257</string>
-    <key>SuzySuzyPurple900</key>
-    </dict>
-      <string>#1a0c33</string>
-    <key>SuzyCoreBlue50</key>
-    </dict>
-      <string>#f4f6ff</string>
-    <key>SuzyCoreBlue100</key>
-    </dict>
-      <string>#edeffb</string>
-    <key>SuzyCoreBlue200</key>
-    </dict>
-      <string>#dbdef6</string>
-    <key>SuzyCoreBlue300</key>
-    </dict>
-      <string>#b6bdee</string>
-    <key>SuzyCoreBlue400</key>
-    </dict>
-      <string>#929be5</string>
-    <key>SuzyCoreBlue500</key>
-    </dict>
-      <string>#4959d4</string>
-    <key>SuzyCoreBlue600</key>
-    </dict>
-      <string>#394ace</string>
-    <key>SuzyCoreBlue700</key>
-    </dict>
-      <string>#37439f</string>
-    <key>SuzyCoreBlue800</key>
-    </dict>
-      <string>#252d6a</string>
-    <key>SuzyCoreBlue900</key>
-    </dict>
-      <string>#121635</string>
-    <key>SuzyBlue50</key>
-    </dict>
-      <string>#eef5ff</string>
-    <key>SuzyBlue100</key>
-    </dict>
-      <string>#cbdfff</string>
-    <key>SuzyBlue200</key>
-    </dict>
-      <string>#b9d5ff</string>
-    <key>SuzyBlue300</key>
-    </dict>
-      <string>#97c0ff</string>
-    <key>SuzyBlue400</key>
-    </dict>
-      <string>#74abff</string>
-    <key>SuzyBlue500</key>
-    </dict>
-      <string>#5196ff</string>
-    <key>SuzyBlue600</key>
-    </dict>
-      <string>#417bd4</string>
-    <key>SuzyBlue700</key>
-    </dict>
-      <string>#3160a9</string>
-    <key>SuzyBlue800</key>
-    </dict>
-      <string>#20467e</string>
-    <key>SuzyBlue900</key>
-    </dict>
-      <string>#183869</string>
-    <key>SuzySuzyLivePink50</key>
-    </dict>
-      <string>#fce3f2</string>
-    <key>SuzySuzyLivePink100</key>
-    </dict>
-      <string>#fad5eb</string>
-    <key>SuzySuzyLivePink200</key>
-    </dict>
-      <string>#f8c7e4</string>
-    <key>SuzySuzyLivePink300</key>
-    </dict>
-      <string>#f5abd7</string>
-    <key>SuzySuzyLivePink400</key>
-    </dict>
-      <string>#f18fc9</string>
-    <key>SuzySuzyLivePink500</key>
-    </dict>
-      <string>#ee73bc</string>
-    <key>SuzySuzyLivePink600</key>
-    </dict>
-      <string>#d55fa5</string>
-    <key>SuzySuzyLivePink700</key>
-    </dict>
-      <string>#bd4b8e</string>
-    <key>SuzySuzyLivePink800</key>
-    </dict>
-      <string>#a43678</string>
-    <key>SuzySuzyLivePink900</key>
-    </dict>
-      <string>#982c6c</string>
-    <key>SuzyRed50</key>
-    </dict>
-      <string>#fef3f2</string>
-    <key>SuzyRed100</key>
-    </dict>
-      <string>#fee4e2</string>
-    <key>SuzyRed200</key>
-    </dict>
-      <string>#fecdca</string>
-    <key>SuzyRed300</key>
-    </dict>
-      <string>#fda29b</string>
-    <key>SuzyRed400</key>
-    </dict>
-      <string>#f97066</string>
-    <key>SuzyRed500</key>
-    </dict>
-      <string>#f04438</string>
-    <key>SuzyRed600</key>
-    </dict>
-      <string>#d92d20</string>
-    <key>SuzyRed700</key>
-    </dict>
-      <string>#b42318</string>
-    <key>SuzyRed800</key>
-    </dict>
-      <string>#912018</string>
-    <key>SuzyRed900</key>
-    </dict>
-      <string>#7a271a</string>
-    <key>SuzyWarm50</key>
-    </dict>
-      <string>#fffcf5</string>
-    <key>SuzyWarm100</key>
-    </dict>
-      <string>#fffaeb</string>
-    <key>SuzyWarm200</key>
-    </dict>
-      <string>#fef0c7</string>
-    <key>SuzyWarm300</key>
-    </dict>
-      <string>#fedf89</string>
-    <key>SuzyWarm400</key>
-    </dict>
-      <string>#fec84b</string>
-    <key>SuzyWarm500</key>
-    </dict>
-      <string>#f68444</string>
-    <key>SuzyWarm600</key>
-    </dict>
-      <string>#dc6803</string>
-    <key>SuzyWarm700</key>
-    </dict>
-      <string>#b54708</string>
-    <key>SuzyWarm800</key>
-    </dict>
-      <string>#93370d</string>
-    <key>SuzyWarm900</key>
-    </dict>
-      <string>#7a2e0e</string>
-    <key>SuzyGreen50</key>
+    <key>Suzy50</key>
     </dict>
       <string>#ecfdf3</string>
-    <key>SuzyGreen100</key>
+    <key>Suzy100</key>
     </dict>
       <string>#d1fadf</string>
-    <key>SuzyGreen200</key>
+    <key>Suzy200</key>
     </dict>
       <string>#a6f4c5</string>
-    <key>SuzyGreen300</key>
+    <key>Suzy300</key>
     </dict>
       <string>#96e8bc</string>
-    <key>SuzyGreen400</key>
+    <key>Suzy400</key>
     </dict>
       <string>#32d583</string>
-    <key>SuzyGreen500</key>
+    <key>Suzy500</key>
     </dict>
       <string>#12b76a</string>
-    <key>SuzyGreen600</key>
+    <key>Suzy600</key>
     </dict>
       <string>#039855</string>
-    <key>SuzyGreen700</key>
+    <key>Suzy700</key>
     </dict>
       <string>#027a48</string>
-    <key>SuzyGreen800</key>
+    <key>Suzy800</key>
     </dict>
       <string>#05603a</string>
-    <key>SuzyGreen900</key>
+    <key>Suzy900</key>
     </dict>
       <string>#054f31</string>
     
