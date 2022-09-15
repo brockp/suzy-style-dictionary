@@ -117,7 +117,7 @@
   --caption-line-height: 140%;
   --caption-font-size: 12;
   --caption-letter-spacing: 0%;
-  --caption-paragraph-spacing: 0;
+  --caption-paragraph-spacing: 1;
   --caption-text-case: none;
   --caption-text-decoration: none;
   --overline-font-family: "Roboto", sans-serif;

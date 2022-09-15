@@ -2055,10 +2055,10 @@ var _styleDictionary = {
       ]
     },
     "paragraphSpacing": {
-      "value": 0,
+      "value": 1,
       "type": "paragraphSpacing",
       "original": {
-        "value": 0,
+        "value": 1,
         "type": "paragraphSpacing"
       },
       "name": "CaptionParagraphSpacing",

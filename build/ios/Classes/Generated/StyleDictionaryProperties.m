@@ -3,7 +3,7 @@
 // StyleDictionaryProperties.m
 //
 // Do not edit directly
-// Generated on Thu, 15 Sep 2022 18:27:16 GMT
+// Generated on Thu, 15 Sep 2022 18:30:04 GMT
 //
 
 #import "StyleDictionaryProperties.h"
@@ -779,7 +779,7 @@
       @"type": @"letterSpacing"
       },
     @"paragraphSpacing": @{
-      @"value": 0,
+      @"value": 1,
       @"name": @"SuzyCaptionParagraphSpacing",
       @"category": @"Caption",
       @"type": @"paragraphSpacing"

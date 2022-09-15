@@ -3,7 +3,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
   Do not edit directly
-  Generated on Thu, 15 Sep 2022 18:27:16 GMT
+  Generated on Thu, 15 Sep 2022 18:30:04 GMT
 -->
 <plist version="1.0">
   <dict>
@@ -363,7 +363,7 @@
       <string>0%</string>
     <key>SuzyCaptionParagraphSpacing</key>
     </dict>
-      <string>0</string>
+      <string>1</string>
     <key>SuzyCaptionTextCase</key>
     </dict>
       <string>none</string>
