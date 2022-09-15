@@ -25,3 +25,24 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update design tokens from Figma
+
+deliver_to_react_application:
+  runs-on: ubuntu-latest
+  steps:
+    - uses: actions/checkout@v2
+    - name: Deliver Platform Deliverable To Application
+      uses: andstor/copycat-action@v3
+      with:
+        # See documentation: https://docs.github.com/en/actions/reference/encrypted-secrets
+        # Set the secret in the "src" repository
+        personal_token: ${{ secrets.SEND_TO_STORYBOOK }}
+        # This is the branch that has the code for this article
+        src_branch: main
+        src_path: build/css/_variables.scss
+        dst_owner: brockp
+        dst_repo_name: suzy.exd.storybook
+        dst_branch: main
+        dst_path: tokens/_variables.scss
+        username: michaelmang
+        email: brock.prescott@gmail.com
+        commit_message: Update platform deliverable
