@@ -3,11 +3,11 @@ name: Deliver Tokens To Consumer
 on:
   push:
     paths:
-      - "build/css/_variables.scss"
+      - "build/css/**"
 
 jobs:
   # Add a job for every additional consumer/application
-  deliver_to_docusaurus:
+  deliver_to_storybook:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
