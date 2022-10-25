@@ -3,7 +3,7 @@ name: Deliver Tokens To Storybook
 on:
   push:
     paths:
-      - "build/**"
+      - "dist/**"
 
 jobs:
   # Add a job for every additional consumer/application
@@ -11,6 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+          with:
+            node-version: "16"
       - name: Deliver Platform Deliverable To Storybook
         uses: andstor/copycat-action@v3
         with:
