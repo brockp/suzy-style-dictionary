@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 25 Oct 2022 17:06:57 GMT
+ * Generated on Tue, 25 Oct 2022 17:16:10 GMT
  */
 
 module.exports = {
@@ -2024,7 +2024,7 @@ module.exports = {
           "spread": 0
         },
         "type": "boxShadow",
-        "filePath": "src/input/shadows.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": {
@@ -2055,7 +2055,7 @@ module.exports = {
           "spread": 0
         },
         "type": "boxShadow",
-        "filePath": "src/input/shadows.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": {
@@ -2086,7 +2086,7 @@ module.exports = {
           "spread": 2
         },
         "type": "boxShadow",
-        "filePath": "src/input/shadows.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": {
@@ -2117,7 +2117,7 @@ module.exports = {
           "spread": 0
         },
         "type": "boxShadow",
-        "filePath": "src/input/shadows.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": {
