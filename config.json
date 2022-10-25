@@ -1,5 +1,5 @@
 {
-	"source": ["src/*.json"],
+	"source": ["src/input/*.json"],
 	"platforms": {
 		"css-variables": {
 			"transformGroup": "css",
@@ -9,7 +9,8 @@
 					"destination": "_variables.css",
 					"format": "css/variables",
 					"options": {
-						"showHeader": true
+						"showHeader": true,
+						"outputReferences": true
 					}
 				}
 			]
@@ -22,7 +23,8 @@
 					"destination": "_variables.scss",
 					"format": "scss/variables",
 					"options": {
-						"showHeader": false
+						"showHeader": false,
+						"outputReferences": true
 					}
 				}
 			]
@@ -43,7 +45,11 @@
 			"files": [
 				{
 					"destination": "_variables.json",
-					"format": "json"
+					"format": "json",
+					"options": {
+						"showFileHeader": false,
+						"outputReferences": true
+					}
 				}
 			]
 		},
@@ -55,7 +61,8 @@
 					"destination": "_variables-module.js",
 					"format": "javascript/module",
 					"options": {
-						"showHeader": false
+						"showHeader": false,
+						"outputReferences": true
 					}
 				}
 			]
@@ -68,7 +75,8 @@
 					"destination": "_variables-object.js",
 					"format": "javascript/object",
 					"options": {
-						"showHeader": false
+						"showHeader": false,
+						"outputReferences": true
 					}
 				}
 			]
@@ -81,7 +89,8 @@
 					"destination": "_variables-es6.js",
 					"format": "javascript/es6",
 					"options": {
-						"showHeader": false
+						"showHeader": false,
+						"outputReferences": true
 					}
 				}
 			]
@@ -95,7 +104,8 @@
 					"destination": "StyleDictionary.plist",
 					"format": "ios/plist",
 					"options": {
-						"showHeader": false
+						"showHeader": false,
+						"outputReferences": true
 					}
 				},
 				{
@@ -208,7 +218,8 @@
 					"destination": "style_dictionary_colors.xml",
 					"format": "android/colors",
 					"options": {
-						"showHeader": false
+						"showHeader": false,
+						"outputReferences": true
 					}
 				},
 				{

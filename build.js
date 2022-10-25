@@ -4,11 +4,7 @@ const StyleDictionaryPackage = require("style-dictionary");
 
 function getStyleDictionaryConfig(brand, platform) {
 	return {
-		source: [
-			`src/brands/${brand}/*.json`,
-			"src/globals/**/*.json",
-			`src/platforms/${platform}/*.json`
-		],
+		source: [`src/input/*.json`],
 		platforms: {
 			"web/js": {
 				transformGroup: "tokens-js",
@@ -67,58 +63,54 @@ function getStyleDictionaryConfig(brand, platform) {
 				buildPath: `dist/styleguide/`,
 				prefix: "token",
 				files: [
-					// {
-					// 	destination: `${platform}_${brand}.json`,
-					// 	format: "json/flat"
-					// },
 					{
 						destination: `${platform}_${brand}.css`,
 						format: "css/variables"
 					}
 				]
-			},
+			}
 			// there are different possible formats for iOS (JSON, PLIST, etc.) so you will have to agree with the iOS devs which format they prefer
 			// The iOS and Android platform configurations below are being controlled by our custom templates registered lower in this file
-			ios: {
-				// I have used custom formats for iOS but keep in mind that Style Dictionary offers some default formats/templates for iOS,
-				// so have a look at the documentation before creating custom templates/formats, maybe they already work for you :)
-				transformGroup: "tokens-ios",
-				buildPath: `dist/ios/${brand}/`,
-				prefix: "token",
-				files: [
-					{
-						destination: "tokens-all.plist",
-						template: "ios/plist"
-					},
-					{
-						destination: "tokens-colors.plist",
-						template: "ios/plist",
-						filter: {
-							type: "color"
-						}
-					}
-				]
-			},
-			android: {
-				// I have used custom formats for Android but keep in mind that Style Dictionary offers some default formats/templates for Android,
-				// so have a look at the documentation before creating custom templates/formats, maybe they already work for you :)
-				transformGroup: "tokens-android",
-				buildPath: `dist/android/${brand}/`,
-				prefix: "token",
-				files: [
-					{
-						destination: "tokens-all.xml",
-						template: "android/xml"
-					},
-					{
-						destination: "tokens-colors.xml",
-						template: "android/xml",
-						filter: {
-							type: "color"
-						}
-					}
-				]
-			}
+			// ios: {
+			// 	// I have used custom formats for iOS but keep in mind that Style Dictionary offers some default formats/templates for iOS,
+			// 	// so have a look at the documentation before creating custom templates/formats, maybe they already work for you :)
+			// 	transformGroup: "tokens-ios",
+			// 	buildPath: `dist/ios/${brand}/`,
+			// 	prefix: "token",
+			// 	files: [
+			// 		{
+			// 			destination: "tokens-all.plist",
+			// 			template: "ios/plist"
+			// 		},
+			// 		{
+			// 			destination: "tokens-colors.plist",
+			// 			template: "ios/plist",
+			// 			filter: {
+			// 				type: "color"
+			// 			}
+			// 		}
+			// 	]
+			// },
+			// android: {
+			// 	// I have used custom formats for Android but keep in mind that Style Dictionary offers some default formats/templates for Android,
+			// 	// so have a look at the documentation before creating custom templates/formats, maybe they already work for you :)
+			// 	transformGroup: "tokens-android",
+			// 	buildPath: `dist/android/${brand}/`,
+			// 	prefix: "token",
+			// 	files: [
+			// 		{
+			// 			destination: "tokens-all.xml",
+			// 			template: "android/xml"
+			// 		},
+			// 		{
+			// 			destination: "tokens-colors.xml",
+			// 			template: "android/xml",
+			// 			filter: {
+			// 				type: "color"
+			// 			}
+			// 		}
+			// 	]
+			// }
 		}
 	};
 }
