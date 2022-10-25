@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 25 Oct 2022 17:16:10 GMT
+ * Generated on Tue, 25 Oct 2022 17:28:07 GMT
  */
 
 module.exports = {
@@ -8,7 +8,7 @@ module.exports = {
     "Black": {
       "value": "#000000",
       "type": "color",
-      "filePath": "src/input/typography.json",
+      "filePath": "src/input/tokens.json",
       "isSource": true,
       "original": {
         "value": "#000000",
@@ -24,7 +24,7 @@ module.exports = {
     "White": {
       "value": "#ffffff",
       "type": "color",
-      "filePath": "src/input/typography.json",
+      "filePath": "src/input/tokens.json",
       "isSource": true,
       "original": {
         "value": "#ffffff",
@@ -41,7 +41,7 @@ module.exports = {
       "50": {
         "value": "#fafafc",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#fafafc",
@@ -58,7 +58,7 @@ module.exports = {
       "100": {
         "value": "#f6f6f8",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#f6f6f8",
@@ -75,7 +75,7 @@ module.exports = {
       "200": {
         "value": "#edf0f3",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#edf0f3",
@@ -92,7 +92,7 @@ module.exports = {
       "300": {
         "value": "#d7dadf",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#d7dadf",
@@ -109,7 +109,7 @@ module.exports = {
       "400": {
         "value": "#c4c8cf",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#c4c8cf",
@@ -126,7 +126,7 @@ module.exports = {
       "500": {
         "value": "#b0b5bf",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#b0b5bf",
@@ -143,7 +143,7 @@ module.exports = {
       "600": {
         "value": "#9ca3af",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#9ca3af",
@@ -160,7 +160,7 @@ module.exports = {
       "700": {
         "value": "#757a83",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#757a83",
@@ -177,7 +177,7 @@ module.exports = {
       "800": {
         "value": "#4e5258",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#4e5258",
@@ -196,7 +196,7 @@ module.exports = {
       "50": {
         "value": "#f7f2ff",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#f7f2ff",
@@ -213,7 +213,7 @@ module.exports = {
       "100": {
         "value": "#f0ebfa",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#f0ebfa",
@@ -230,7 +230,7 @@ module.exports = {
       "200": {
         "value": "#e0d6f5",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#e0d6f5",
@@ -247,7 +247,7 @@ module.exports = {
       "300": {
         "value": "#c2adeb",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#c2adeb",
@@ -264,7 +264,7 @@ module.exports = {
       "400": {
         "value": "#a383e0",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#a383e0",
@@ -281,7 +281,7 @@ module.exports = {
       "500": {
         "value": "#6631cc",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#6631cc",
@@ -298,7 +298,7 @@ module.exports = {
       "600": {
         "value": "#4d2599",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#4d2599",
@@ -315,7 +315,7 @@ module.exports = {
       "700": {
         "value": "#331966",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#331966",
@@ -332,7 +332,7 @@ module.exports = {
       "800": {
         "value": "#291257",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#291257",
@@ -349,7 +349,7 @@ module.exports = {
       "900": {
         "value": "#1a0c33",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#1a0c33",
@@ -368,7 +368,7 @@ module.exports = {
       "50": {
         "value": "#f4f6ff",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#f4f6ff",
@@ -385,7 +385,7 @@ module.exports = {
       "100": {
         "value": "#edeffb",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#edeffb",
@@ -402,7 +402,7 @@ module.exports = {
       "200": {
         "value": "#dbdef6",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#dbdef6",
@@ -419,7 +419,7 @@ module.exports = {
       "300": {
         "value": "#b6bdee",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#b6bdee",
@@ -436,7 +436,7 @@ module.exports = {
       "400": {
         "value": "#929be5",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#929be5",
@@ -453,7 +453,7 @@ module.exports = {
       "500": {
         "value": "#4959d4",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#4959d4",
@@ -470,7 +470,7 @@ module.exports = {
       "600": {
         "value": "#394ace",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#394ace",
@@ -487,7 +487,7 @@ module.exports = {
       "700": {
         "value": "#37439f",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#37439f",
@@ -504,7 +504,7 @@ module.exports = {
       "800": {
         "value": "#252d6a",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#252d6a",
@@ -521,7 +521,7 @@ module.exports = {
       "900": {
         "value": "#121635",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#121635",
@@ -540,7 +540,7 @@ module.exports = {
       "50": {
         "value": "#eef5ff",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#eef5ff",
@@ -557,7 +557,7 @@ module.exports = {
       "100": {
         "value": "#cbdfff",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#cbdfff",
@@ -574,7 +574,7 @@ module.exports = {
       "200": {
         "value": "#b9d5ff",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#b9d5ff",
@@ -591,7 +591,7 @@ module.exports = {
       "300": {
         "value": "#97c0ff",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#97c0ff",
@@ -608,7 +608,7 @@ module.exports = {
       "400": {
         "value": "#97c0ff",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#97c0ff",
@@ -625,7 +625,7 @@ module.exports = {
       "500": {
         "value": "#5196ff",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#5196ff",
@@ -642,7 +642,7 @@ module.exports = {
       "600": {
         "value": "#417bd4",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#417bd4",
@@ -659,7 +659,7 @@ module.exports = {
       "700": {
         "value": "#3160a9",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#3160a9",
@@ -676,7 +676,7 @@ module.exports = {
       "800": {
         "value": "#20467e",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#20467e",
@@ -693,7 +693,7 @@ module.exports = {
       "900": {
         "value": "#183869",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#183869",
@@ -712,7 +712,7 @@ module.exports = {
       "50": {
         "value": "#fff2fa",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#fff2fa",
@@ -729,7 +729,7 @@ module.exports = {
       "100": {
         "value": "#fad5eb",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#fad5eb",
@@ -746,7 +746,7 @@ module.exports = {
       "200": {
         "value": "#f8c7e4",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#f8c7e4",
@@ -763,7 +763,7 @@ module.exports = {
       "300": {
         "value": "#f5abd7",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#f5abd7",
@@ -780,7 +780,7 @@ module.exports = {
       "400": {
         "value": "#f18fc9",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#f18fc9",
@@ -797,7 +797,7 @@ module.exports = {
       "500": {
         "value": "#ee73bc",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#ee73bc",
@@ -814,7 +814,7 @@ module.exports = {
       "600": {
         "value": "#d55fa5",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#d55fa5",
@@ -831,7 +831,7 @@ module.exports = {
       "700": {
         "value": "#bd4b8e",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#bd4b8e",
@@ -848,7 +848,7 @@ module.exports = {
       "800": {
         "value": "#a43678",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#a43678",
@@ -865,7 +865,7 @@ module.exports = {
       "900": {
         "value": "#982c6c",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#982c6c",
@@ -884,7 +884,7 @@ module.exports = {
       "50": {
         "value": "#fef3f2",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#fef3f2",
@@ -901,7 +901,7 @@ module.exports = {
       "100": {
         "value": "#fee4e2",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#fee4e2",
@@ -918,7 +918,7 @@ module.exports = {
       "200": {
         "value": "#fecdca",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#fecdca",
@@ -935,7 +935,7 @@ module.exports = {
       "300": {
         "value": "#fda29b",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#fda29b",
@@ -952,7 +952,7 @@ module.exports = {
       "400": {
         "value": "#f97066",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#f97066",
@@ -969,7 +969,7 @@ module.exports = {
       "500": {
         "value": "#f04438",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#f04438",
@@ -986,7 +986,7 @@ module.exports = {
       "600": {
         "value": "#d92d20",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#d92d20",
@@ -1003,7 +1003,7 @@ module.exports = {
       "700": {
         "value": "#b42318",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#b42318",
@@ -1020,7 +1020,7 @@ module.exports = {
       "800": {
         "value": "#912018",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#912018",
@@ -1037,7 +1037,7 @@ module.exports = {
       "900": {
         "value": "#7a271a",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#7a271a",
@@ -1056,7 +1056,7 @@ module.exports = {
       "50": {
         "value": "#fffcf5",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#fffcf5",
@@ -1073,7 +1073,7 @@ module.exports = {
       "100": {
         "value": "#fffaeb",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#fffaeb",
@@ -1090,7 +1090,7 @@ module.exports = {
       "200": {
         "value": "#fef0c7",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#fef0c7",
@@ -1107,7 +1107,7 @@ module.exports = {
       "300": {
         "value": "#fedf89",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#fedf89",
@@ -1124,7 +1124,7 @@ module.exports = {
       "400": {
         "value": "#fec84b",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#fec84b",
@@ -1141,7 +1141,7 @@ module.exports = {
       "500": {
         "value": "#f68444",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#f68444",
@@ -1158,7 +1158,7 @@ module.exports = {
       "600": {
         "value": "#dc6803",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#dc6803",
@@ -1175,7 +1175,7 @@ module.exports = {
       "700": {
         "value": "#b54708",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#b54708",
@@ -1192,7 +1192,7 @@ module.exports = {
       "800": {
         "value": "#93370d",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#93370d",
@@ -1209,7 +1209,7 @@ module.exports = {
       "900": {
         "value": "#7a2e0e",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#7a2e0e",
@@ -1228,7 +1228,7 @@ module.exports = {
       "50": {
         "value": "#ecfdf3",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#ecfdf3",
@@ -1245,7 +1245,7 @@ module.exports = {
       "100": {
         "value": "#d1fadf",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#d1fadf",
@@ -1262,7 +1262,7 @@ module.exports = {
       "200": {
         "value": "#a6f4c5",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#a6f4c5",
@@ -1279,7 +1279,7 @@ module.exports = {
       "300": {
         "value": "#96e8bc",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#96e8bc",
@@ -1296,7 +1296,7 @@ module.exports = {
       "400": {
         "value": "#32d583",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#32d583",
@@ -1313,7 +1313,7 @@ module.exports = {
       "500": {
         "value": "#12b76a",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#12b76a",
@@ -1330,7 +1330,7 @@ module.exports = {
       "600": {
         "value": "#039855",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#039855",
@@ -1347,7 +1347,7 @@ module.exports = {
       "700": {
         "value": "#027a48",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#027a48",
@@ -1364,7 +1364,7 @@ module.exports = {
       "800": {
         "value": "#05603a",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#05603a",
@@ -1381,7 +1381,7 @@ module.exports = {
       "900": {
         "value": "#054f31",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "#054f31",
@@ -1400,7 +1400,7 @@ module.exports = {
       "1": {
         "value": "linear-gradient(180deg, #4e1276 0%, #191460 51.56%)",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "linear-gradient(180deg, #4e1276 0%, #191460 51.56%)",
@@ -1417,7 +1417,7 @@ module.exports = {
       "2": {
         "value": "linear-gradient(-37deg, #6923b7 0%, #6622b3 23%, #6021a9 41%, #552098 58%, #451e81 73%, #311b62 88%, #1e1945 100%)",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "linear-gradient(-37deg, #6923b7 0%, #6622b3 23%, #6021a9 41%, #552098 58%, #451e81 73%, #311b62 88%, #1e1945 100%)",
@@ -1434,7 +1434,7 @@ module.exports = {
       "3": {
         "value": "linear-gradient(-28deg, #ee73bc 0%, #9347a0 0.01%, #653191 26.7%, #432187 53.97%, #331966 78.81%)",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "linear-gradient(-28deg, #ee73bc 0%, #9347a0 0.01%, #653191 26.7%, #432187 53.97%, #331966 78.81%)",
@@ -1451,7 +1451,7 @@ module.exports = {
       "4": {
         "value": "linear-gradient(90deg, #d42ce6 0%, #bd2adb 10%, #9e27ce 25%, #8725c4 41%, #7624bc 58%, #6c23b8 77%, #6923b7 100%)",
         "type": "color",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "linear-gradient(90deg, #d42ce6 0%, #bd2adb 10%, #9e27ce 25%, #8725c4 41%, #7624bc 58%, #6c23b8 77%, #6923b7 100%)",
@@ -1472,7 +1472,7 @@ module.exports = {
       "roboto": {
         "value": "\"Roboto\", sans-serif",
         "type": "fontFamilies",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "\"Roboto\", sans-serif",
@@ -1491,7 +1491,7 @@ module.exports = {
       "0": {
         "value": "117%",
         "type": "lineHeights",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "117%",
@@ -1508,7 +1508,7 @@ module.exports = {
       "1": {
         "value": "125%",
         "type": "lineHeights",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "125%",
@@ -1525,7 +1525,7 @@ module.exports = {
       "2": {
         "value": "135%",
         "type": "lineHeights",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "135%",
@@ -1542,7 +1542,7 @@ module.exports = {
       "3": {
         "value": "115%",
         "type": "lineHeights",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "115%",
@@ -1559,7 +1559,7 @@ module.exports = {
       "4": {
         "value": "148%",
         "type": "lineHeights",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "148%",
@@ -1576,7 +1576,7 @@ module.exports = {
       "5": {
         "value": "150%",
         "type": "lineHeights",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "150%",
@@ -1593,7 +1593,7 @@ module.exports = {
       "6": {
         "value": "145%",
         "type": "lineHeights",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "145%",
@@ -1610,7 +1610,7 @@ module.exports = {
       "7": {
         "value": "100%",
         "type": "lineHeights",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "100%",
@@ -1629,7 +1629,7 @@ module.exports = {
       "roboto-0": {
         "value": "Medium",
         "type": "fontWeights",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "Medium",
@@ -1646,7 +1646,7 @@ module.exports = {
       "roboto-1": {
         "value": "Bold",
         "type": "fontWeights",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "Bold",
@@ -1663,7 +1663,7 @@ module.exports = {
       "roboto-2": {
         "value": "Regular",
         "type": "fontWeights",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "Regular",
@@ -1680,7 +1680,7 @@ module.exports = {
       "roboto-3": {
         "value": "SemiBold",
         "type": "fontWeights",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "SemiBold",
@@ -1699,7 +1699,7 @@ module.exports = {
       "0": {
         "value": "10",
         "type": "fontSizes",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "10",
@@ -1716,7 +1716,7 @@ module.exports = {
       "1": {
         "value": "12",
         "type": "fontSizes",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "12",
@@ -1733,7 +1733,7 @@ module.exports = {
       "2": {
         "value": "14",
         "type": "fontSizes",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "14",
@@ -1750,7 +1750,7 @@ module.exports = {
       "3": {
         "value": "16",
         "type": "fontSizes",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "16",
@@ -1767,7 +1767,7 @@ module.exports = {
       "4": {
         "value": "18",
         "type": "fontSizes",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "18",
@@ -1784,7 +1784,7 @@ module.exports = {
       "5": {
         "value": "24",
         "type": "fontSizes",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "24",
@@ -1801,7 +1801,7 @@ module.exports = {
       "6": {
         "value": "32",
         "type": "fontSizes",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "32",
@@ -1818,7 +1818,7 @@ module.exports = {
       "7": {
         "value": "48",
         "type": "fontSizes",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "48",
@@ -1837,7 +1837,7 @@ module.exports = {
       "0": {
         "value": "0%",
         "type": "letterSpacing",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "0%",
@@ -1854,7 +1854,7 @@ module.exports = {
       "1": {
         "value": "4%",
         "type": "letterSpacing",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "4%",
@@ -1871,7 +1871,7 @@ module.exports = {
       "2": {
         "value": "10%",
         "type": "letterSpacing",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "10%",
@@ -1888,7 +1888,7 @@ module.exports = {
       "3": {
         "value": "2%",
         "type": "letterSpacing",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "2%",
@@ -1907,7 +1907,7 @@ module.exports = {
       "0": {
         "value": "0",
         "type": "paragraphSpacing",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "0",
@@ -1926,7 +1926,7 @@ module.exports = {
       "none": {
         "value": "none",
         "type": "textCase",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "none",
@@ -1943,7 +1943,7 @@ module.exports = {
       "uppercase": {
         "value": "uppercase",
         "type": "textCase",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "uppercase",
@@ -1960,7 +1960,7 @@ module.exports = {
       "capitalize": {
         "value": "capitalize",
         "type": "textCase",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "capitalize",
@@ -1979,7 +1979,7 @@ module.exports = {
       "none": {
         "value": "none",
         "type": "textDecoration",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "none",
@@ -1996,7 +1996,7 @@ module.exports = {
       "underline": {
         "value": "underline",
         "type": "textDecoration",
-        "filePath": "src/input/typography.json",
+        "filePath": "src/input/tokens.json",
         "isSource": true,
         "original": {
           "value": "underline",
