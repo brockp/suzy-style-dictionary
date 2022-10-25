@@ -3,7 +3,7 @@ name: Deliver Tokens To Storybook
 on:
   push:
     paths:
-      - "dist/**"
+      - "dist/**/**"
 
 jobs:
   # Add a job for every additional consumer/application
