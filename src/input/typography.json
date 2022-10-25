@@ -362,7 +362,7 @@
   "typography": {
     "fontFamilies": {
       "roboto": {
-        "value": "Roboto, sans-serif",
+        "value": "\"Roboto\", sans-serif",
         "type": "fontFamilies"
       }
     },
