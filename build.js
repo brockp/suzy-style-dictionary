@@ -164,7 +164,7 @@ StyleDictionaryPackage.registerFormat({
 //     }
 // });
 
-StyleDictionary.registerTransform({
+StyleDictionaryPackage.registerTransform({
 	name: "shadow/scss",
 	type: "value",
 	matcher: function (prop) {
