@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 25 Oct 2022 16:57:32 GMT
+ * Generated on Tue, 25 Oct 2022 17:06:57 GMT
  */
 
 export const TOKEN_COLORS_BLACK = "#000000";
@@ -119,3 +119,7 @@ export const TOKEN_TYPOGRAPHY_TEXT_CASE_UPPERCASE = "uppercase";
 export const TOKEN_TYPOGRAPHY_TEXT_CASE_CAPITALIZE = "capitalize";
 export const TOKEN_TYPOGRAPHY_TEXT_DECORATION_NONE = "none";
 export const TOKEN_TYPOGRAPHY_TEXT_DECORATION_UNDERLINE = "underline";
+export const TOKEN_SHADOWS_ELEVATION_LIGHTBOX = {"color":"#00000014","type":"dropShadow","x":0,"y":3,"blur":64,"spread":0};
+export const TOKEN_SHADOWS_ELEVATION_E1 = {"color":"#0000003d","type":"dropShadow","x":0,"y":0.07999999821186066,"blur":3,"spread":0};
+export const TOKEN_SHADOWS_ELEVATION_E2 = {"color":"#00000029","type":"dropShadow","x":0,"y":2,"blur":6,"spread":2};
+export const TOKEN_SHADOWS_ELEVATION_E3 = {"color":"#0000003d","type":"dropShadow","x":0,"y":3,"blur":6,"spread":0};

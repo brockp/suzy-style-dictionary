@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 25 Oct 2022 16:57:32 GMT
+ * Generated on Tue, 25 Oct 2022 17:06:57 GMT
  */
 
 module.exports = {
@@ -2012,11 +2012,140 @@ module.exports = {
       }
     }
   },
+  "shadows": {
+    "Elevation": {
+      "Lightbox": {
+        "value": {
+          "color": "#00000014",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 3,
+          "blur": 64,
+          "spread": 0
+        },
+        "type": "boxShadow",
+        "filePath": "src/input/shadows.json",
+        "isSource": true,
+        "original": {
+          "value": {
+            "color": "#00000014",
+            "type": "dropShadow",
+            "x": 0,
+            "y": 3,
+            "blur": 64,
+            "spread": 0
+          },
+          "type": "boxShadow"
+        },
+        "name": "TOKEN_SHADOWS_ELEVATION_LIGHTBOX",
+        "attributes": {},
+        "path": [
+          "shadows",
+          "Elevation",
+          "Lightbox"
+        ]
+      },
+      "E1": {
+        "value": {
+          "color": "#0000003d",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 0.07999999821186066,
+          "blur": 3,
+          "spread": 0
+        },
+        "type": "boxShadow",
+        "filePath": "src/input/shadows.json",
+        "isSource": true,
+        "original": {
+          "value": {
+            "color": "#0000003d",
+            "type": "dropShadow",
+            "x": 0,
+            "y": 0.07999999821186066,
+            "blur": 3,
+            "spread": 0
+          },
+          "type": "boxShadow"
+        },
+        "name": "TOKEN_SHADOWS_ELEVATION_E1",
+        "attributes": {},
+        "path": [
+          "shadows",
+          "Elevation",
+          "E1"
+        ]
+      },
+      "E2": {
+        "value": {
+          "color": "#00000029",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 2,
+          "blur": 6,
+          "spread": 2
+        },
+        "type": "boxShadow",
+        "filePath": "src/input/shadows.json",
+        "isSource": true,
+        "original": {
+          "value": {
+            "color": "#00000029",
+            "type": "dropShadow",
+            "x": 0,
+            "y": 2,
+            "blur": 6,
+            "spread": 2
+          },
+          "type": "boxShadow"
+        },
+        "name": "TOKEN_SHADOWS_ELEVATION_E2",
+        "attributes": {},
+        "path": [
+          "shadows",
+          "Elevation",
+          "E2"
+        ]
+      },
+      "E3": {
+        "value": {
+          "color": "#0000003d",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 3,
+          "blur": 6,
+          "spread": 0
+        },
+        "type": "boxShadow",
+        "filePath": "src/input/shadows.json",
+        "isSource": true,
+        "original": {
+          "value": {
+            "color": "#0000003d",
+            "type": "dropShadow",
+            "x": 0,
+            "y": 3,
+            "blur": 6,
+            "spread": 0
+          },
+          "type": "boxShadow"
+        },
+        "name": "TOKEN_SHADOWS_ELEVATION_E3",
+        "attributes": {},
+        "path": [
+          "shadows",
+          "Elevation",
+          "E3"
+        ]
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
       "colors",
-      "typography"
+      "typography",
+      "shadows"
     ]
   }
 };
