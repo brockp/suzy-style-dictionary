@@ -1,17 +1,17 @@
 /**
  * Do not edit directly
- * Generated on Tue, 25 Oct 2022 16:11:14 GMT
+ * Generated on Tue, 25 Oct 2022 16:13:07 GMT
  */
 
 var _styleDictionary = {
   "colors": {
     "Black": {
-      "value": "#000000",
+      "value": "#000001",
       "type": "color",
       "filePath": "src/input/colors.json",
       "isSource": true,
       "original": {
-        "value": "#000000",
+        "value": "#000001",
         "type": "color"
       },
       "name": "TOKEN_COLORS_BLACK",
