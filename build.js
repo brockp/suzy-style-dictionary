@@ -133,20 +133,20 @@ StyleDictionaryPackage.registerFormat({
 
 // TODO: Need to update registerTemplate to proper registerFormat, check docs for update first
 
-StyleDictionaryPackage.registerTemplate({
-	name: "ios/plist",
-	template: __dirname + "/templates/ios-plist.template"
-});
+// StyleDictionaryPackage.registerTemplate({
+// 	name: "ios/plist",
+// 	template: __dirname + "/templates/ios-plist.template"
+// });
 
-StyleDictionaryPackage.registerTemplate({
-	name: "android/xml",
-	template: __dirname + "/templates/android-xml.template"
-});
+// StyleDictionaryPackage.registerTemplate({
+// 	name: "android/xml",
+// 	template: __dirname + "/templates/android-xml.template"
+// });
 
-StyleDictionaryPackage.registerTemplate({
-	name: "android/colors",
-	template: __dirname + "/templates/android-xml.template"
-});
+// StyleDictionaryPackage.registerTemplate({
+// 	name: "android/colors",
+// 	template: __dirname + "/templates/android-xml.template"
+// });
 
 // I wanted to use this custom transform instead of the "prefix" property applied to the platforms
 // because I wanted to apply the "token" prefix only to actual tokens and not to the aliases
@@ -258,10 +258,8 @@ console.log("Build started...");
 
 // PROCESS THE DESIGN TOKENS FOR THE DIFFEREN BRANDS AND PLATFORMS
 
-["web", "ios", "android"].map(function (platform) {
-	["crowdtap", "suzy-core", "suzy-live"].map(function (
-		brand
-	) {
+["web"].map(function (platform) {
+	["suzy-core"].map(function (brand) {
 		console.log(
 			"\n=============================================="
 		);
