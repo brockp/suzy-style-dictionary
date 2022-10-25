@@ -1,9 +1,9 @@
 /**
  * Do not edit directly
- * Generated on Tue, 25 Oct 2022 16:25:11 GMT
+ * Generated on Tue, 25 Oct 2022 16:27:07 GMT
  */
 
-export const TOKEN_COLORS_BLACK = "#000000";
+export const TOKEN_COLORS_BLACK = "#000002";
 export const TOKEN_COLORS_WHITE = "#ffffff";
 export const TOKEN_COLORS_GREY_50 = "#fafafc";
 export const TOKEN_COLORS_GREY_100 = "#f6f6f8";
