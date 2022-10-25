@@ -1,9 +1,9 @@
 /**
  * Do not edit directly
- * Generated on Tue, 25 Oct 2022 16:29:01 GMT
+ * Generated on Tue, 25 Oct 2022 16:54:16 GMT
  */
 
-export const TOKEN_COLORS_BLACK = "#000003";
+export const TOKEN_COLORS_BLACK = "#000000";
 export const TOKEN_COLORS_WHITE = "#ffffff";
 export const TOKEN_COLORS_GREY_50 = "#fafafc";
 export const TOKEN_COLORS_GREY_100 = "#f6f6f8";
@@ -88,3 +88,34 @@ export const TOKEN_COLORS_GRADIENT_1 = "linear-gradient(180deg, #4e1276 0%, #191
 export const TOKEN_COLORS_GRADIENT_2 = "linear-gradient(-37deg, #6923b7 0%, #6622b3 23%, #6021a9 41%, #552098 58%, #451e81 73%, #311b62 88%, #1e1945 100%)";
 export const TOKEN_COLORS_GRADIENT_3 = "linear-gradient(-28deg, #ee73bc 0%, #9347a0 0.01%, #653191 26.7%, #432187 53.97%, #331966 78.81%)";
 export const TOKEN_COLORS_GRADIENT_4 = "linear-gradient(90deg, #d42ce6 0%, #bd2adb 10%, #9e27ce 25%, #8725c4 41%, #7624bc 58%, #6c23b8 77%, #6923b7 100%)";
+export const TOKEN_TYPOGRAPHY_FONT_FAMILIES_ROBOTO = "Roboto, sans-serif";
+export const TOKEN_TYPOGRAPHY_LINE_HEIGHTS_0 = "117%";
+export const TOKEN_TYPOGRAPHY_LINE_HEIGHTS_1 = "125%";
+export const TOKEN_TYPOGRAPHY_LINE_HEIGHTS_2 = "135%";
+export const TOKEN_TYPOGRAPHY_LINE_HEIGHTS_3 = "115%";
+export const TOKEN_TYPOGRAPHY_LINE_HEIGHTS_4 = "148%";
+export const TOKEN_TYPOGRAPHY_LINE_HEIGHTS_5 = "150%";
+export const TOKEN_TYPOGRAPHY_LINE_HEIGHTS_6 = "145%";
+export const TOKEN_TYPOGRAPHY_LINE_HEIGHTS_7 = "100%";
+export const TOKEN_TYPOGRAPHY_FONT_WEIGHTS_ROBOTO_0 = "Medium";
+export const TOKEN_TYPOGRAPHY_FONT_WEIGHTS_ROBOTO_1 = "Bold";
+export const TOKEN_TYPOGRAPHY_FONT_WEIGHTS_ROBOTO_2 = "Regular";
+export const TOKEN_TYPOGRAPHY_FONT_WEIGHTS_ROBOTO_3 = "SemiBold";
+export const TOKEN_TYPOGRAPHY_FONT_SIZE_0 = "10";
+export const TOKEN_TYPOGRAPHY_FONT_SIZE_1 = "12";
+export const TOKEN_TYPOGRAPHY_FONT_SIZE_2 = "14";
+export const TOKEN_TYPOGRAPHY_FONT_SIZE_3 = "16";
+export const TOKEN_TYPOGRAPHY_FONT_SIZE_4 = "18";
+export const TOKEN_TYPOGRAPHY_FONT_SIZE_5 = "24";
+export const TOKEN_TYPOGRAPHY_FONT_SIZE_6 = "32";
+export const TOKEN_TYPOGRAPHY_FONT_SIZE_7 = "48";
+export const TOKEN_TYPOGRAPHY_LETTER_SPACING_0 = "0%";
+export const TOKEN_TYPOGRAPHY_LETTER_SPACING_1 = "4%";
+export const TOKEN_TYPOGRAPHY_LETTER_SPACING_2 = "10%";
+export const TOKEN_TYPOGRAPHY_LETTER_SPACING_3 = "2%";
+export const TOKEN_TYPOGRAPHY_PARAGRAPH_SPACING_0 = "0";
+export const TOKEN_TYPOGRAPHY_TEXT_CASE_NONE = "none";
+export const TOKEN_TYPOGRAPHY_TEXT_CASE_UPPERCASE = "uppercase";
+export const TOKEN_TYPOGRAPHY_TEXT_CASE_CAPITALIZE = "capitalize";
+export const TOKEN_TYPOGRAPHY_TEXT_DECORATION_NONE = "none";
+export const TOKEN_TYPOGRAPHY_TEXT_DECORATION_UNDERLINE = "underline";

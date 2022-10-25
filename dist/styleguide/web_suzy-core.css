@@ -1,10 +1,10 @@
 /**
  * Do not edit directly
- * Generated on Tue, 25 Oct 2022 16:29:01 GMT
+ * Generated on Tue, 25 Oct 2022 16:54:16 GMT
  */
 
 :root {
-  --token-colors-black: #000003;
+  --token-colors-black: #000000;
   --token-colors-white: #ffffff;
   --token-colors-grey-50: #fafafc;
   --token-colors-grey-100: #f6f6f8;
@@ -89,4 +89,35 @@
   --token-colors-gradient-2: linear-gradient(-37deg, #6923b7 0%, #6622b3 23%, #6021a9 41%, #552098 58%, #451e81 73%, #311b62 88%, #1e1945 100%);
   --token-colors-gradient-3: linear-gradient(-28deg, #ee73bc 0%, #9347a0 0.01%, #653191 26.7%, #432187 53.97%, #331966 78.81%);
   --token-colors-gradient-4: linear-gradient(90deg, #d42ce6 0%, #bd2adb 10%, #9e27ce 25%, #8725c4 41%, #7624bc 58%, #6c23b8 77%, #6923b7 100%);
+  --token-typography-font-families-roboto: Roboto, sans-serif;
+  --token-typography-line-heights-0: 117%;
+  --token-typography-line-heights-1: 125%;
+  --token-typography-line-heights-2: 135%;
+  --token-typography-line-heights-3: 115%;
+  --token-typography-line-heights-4: 148%;
+  --token-typography-line-heights-5: 150%;
+  --token-typography-line-heights-6: 145%;
+  --token-typography-line-heights-7: 100%;
+  --token-typography-font-weights-roboto-0: Medium;
+  --token-typography-font-weights-roboto-1: Bold;
+  --token-typography-font-weights-roboto-2: Regular;
+  --token-typography-font-weights-roboto-3: SemiBold;
+  --token-typography-font-size-0: 10;
+  --token-typography-font-size-1: 12;
+  --token-typography-font-size-2: 14;
+  --token-typography-font-size-3: 16;
+  --token-typography-font-size-4: 18;
+  --token-typography-font-size-5: 24;
+  --token-typography-font-size-6: 32;
+  --token-typography-font-size-7: 48;
+  --token-typography-letter-spacing-0: 0%;
+  --token-typography-letter-spacing-1: 4%;
+  --token-typography-letter-spacing-2: 10%;
+  --token-typography-letter-spacing-3: 2%;
+  --token-typography-paragraph-spacing-0: 0;
+  --token-typography-text-case-none: none;
+  --token-typography-text-case-uppercase: uppercase;
+  --token-typography-text-case-capitalize: capitalize;
+  --token-typography-text-decoration-none: none;
+  --token-typography-text-decoration-underline: underline;
 }
