@@ -1,4 +1,5 @@
 const StyleDictionaryPackage = require("style-dictionary");
+const tinycolor = require("tinycolor2");
 
 // HAVE THE STYLE DICTIONARY CONFIG DYNAMICALLY GENERATED
 
@@ -163,6 +164,26 @@ StyleDictionaryPackage.registerFormat({
 //     }
 // });
 
+StyleDictionary.registerTransform({
+	name: "shadow/scss",
+	type: "value",
+	matcher: function (prop) {
+		return prop.attributes.category === "shadow";
+	},
+	transformer: function (prop) {
+		// destructure shadow values from original token value
+		const { x, y, blur, spread, color, alpha } =
+			prop.original.value;
+
+		// convert hex code to rgba string
+		const shadowColor = tinycolor(color);
+		shadowColor.setAlpha(alpha);
+		shadowColor.toRgbString();
+
+		return `${x}px ${y}px ${blur}px ${spread}px ${shadowColor}`;
+	}
+});
+
 StyleDictionaryPackage.registerTransform({
 	name: "size/pxToPt",
 	type: "value",
@@ -217,7 +238,8 @@ StyleDictionaryPackage.registerTransformGroup({
 		"name/cti/kebab",
 		"time/seconds",
 		"size/px",
-		"color/css"
+		"color/css",
+		"shadow/scss"
 	]
 });
 
