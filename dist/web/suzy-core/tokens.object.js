@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 25 Oct 2022 16:54:16 GMT
+ * Generated on Tue, 25 Oct 2022 16:57:32 GMT
  */
 
 var _styleDictionary = {
@@ -1470,12 +1470,12 @@ var _styleDictionary = {
   "typography": {
     "fontFamilies": {
       "roboto": {
-        "value": "Roboto, sans-serif",
+        "value": "\"Roboto\", sans-serif",
         "type": "fontFamilies",
         "filePath": "src/input/typography.json",
         "isSource": true,
         "original": {
-          "value": "Roboto, sans-serif",
+          "value": "\"Roboto\", sans-serif",
           "type": "fontFamilies"
         },
         "name": "TOKEN_TYPOGRAPHY_FONT_FAMILIES_ROBOTO",
