@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 25 Oct 2022 15:58:27 GMT
+ * Generated on Tue, 25 Oct 2022 16:11:14 GMT
  */
 
 export const TOKEN_COLORS_BLACK = "#000000";
