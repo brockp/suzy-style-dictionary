@@ -18,6 +18,8 @@ jobs:
           node-version: "16"
       - name: Install Node Dependencies
         run: npm install
+      - name: Transform & Expand Input
+        run: npm run transform
       - name: Build Style Dictionary
         run: npm run build-custom
       - name: Commit Generated Platform Deliverables
