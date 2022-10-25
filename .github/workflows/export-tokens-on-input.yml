@@ -4,7 +4,7 @@ name: Generate Tokens On Input From Figma
 on:
   push:
     paths:
-      - "src/tokens.json"
+      - "src/input/*.json"
 
 jobs:
   generate_tokens:
