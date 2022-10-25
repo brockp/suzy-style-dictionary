@@ -1,17 +1,17 @@
 /**
  * Do not edit directly
- * Generated on Tue, 25 Oct 2022 16:27:07 GMT
+ * Generated on Tue, 25 Oct 2022 16:29:01 GMT
  */
 
 module.exports = {
   "colors": {
     "Black": {
-      "value": "#000002",
+      "value": "#000003",
       "type": "color",
       "filePath": "src/input/colors.json",
       "isSource": true,
       "original": {
-        "value": "#000002",
+        "value": "#000003",
         "type": "color"
       },
       "name": "TOKEN_COLORS_BLACK",
