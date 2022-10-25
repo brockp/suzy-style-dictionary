@@ -5,7 +5,7 @@ const tinycolor = require("tinycolor2");
 
 function getStyleDictionaryConfig(brand, platform) {
 	return {
-		source: [`src/input/*.json`],
+		source: [`src/input/transformed-tokens.json`],
 		platforms: {
 			"web/js": {
 				transformGroup: "tokens-js",
