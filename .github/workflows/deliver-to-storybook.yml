@@ -19,7 +19,7 @@ jobs:
           personal_token: ${{ secrets.SEND_TO_STORYBOOK }}
           # This is the branch that has the code for this article
           src_branch: main
-          src_path: build/css/_variables.scss
+          src_path: dist/web/**/tokens.scss
           dst_owner: brockp
           dst_repo_name: suzy.exd.storybook
           dst_branch: main
