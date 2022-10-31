@@ -19,7 +19,7 @@ jobs:
           personal_token: ${{ secrets.SEND_TO_STORYBOOK }}
           # This is the branch that has the code for this article
           src_branch: main
-          src_path: dist/web/**/tokens.scss
+          src_path: dist/web/suzy-core/tokens.scss
           dst_owner: brockp
           dst_repo_name: suzy.exd.storybook
           dst_branch: main
