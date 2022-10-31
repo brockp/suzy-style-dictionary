@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 31 Oct 2022 15:20:58 GMT
+ * Generated on Mon, 31 Oct 2022 15:48:59 GMT
  */
 
 var _styleDictionary = {
@@ -604,6 +604,24 @@ var _styleDictionary = {
       ]
     }
   },
+  "paragraphIndent": {
+    "0": {
+      "value": 0,
+      "type": "paragraphIndent",
+      "filePath": "src/input/transformed-tokens.json",
+      "isSource": true,
+      "original": {
+        "value": 0,
+        "type": "paragraphIndent"
+      },
+      "name": "SUZY_PARAGRAPH_INDENT_0",
+      "attributes": {},
+      "path": [
+        "paragraphIndent",
+        "0"
+      ]
+    }
+  },
   "textCase": {
     "none": {
       "value": "none",
@@ -792,6 +810,23 @@ var _styleDictionary = {
           "paragraphSpacing"
         ]
       },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "paragraphIndent",
+        "filePath": "src/input/transformed-tokens.json",
+        "isSource": true,
+        "original": {
+          "value": 0,
+          "type": "paragraphIndent"
+        },
+        "name": "SUZY_HEADING_H1_PARAGRAPH_INDENT",
+        "attributes": {},
+        "path": [
+          "Heading",
+          "H1",
+          "paragraphIndent"
+        ]
+      },
       "textCase": {
         "value": "none",
         "type": "textCase",
@@ -928,6 +963,23 @@ var _styleDictionary = {
           "Heading",
           "H2",
           "paragraphSpacing"
+        ]
+      },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "paragraphIndent",
+        "filePath": "src/input/transformed-tokens.json",
+        "isSource": true,
+        "original": {
+          "value": 0,
+          "type": "paragraphIndent"
+        },
+        "name": "SUZY_HEADING_H2_PARAGRAPH_INDENT",
+        "attributes": {},
+        "path": [
+          "Heading",
+          "H2",
+          "paragraphIndent"
         ]
       },
       "textCase": {
@@ -1068,6 +1120,23 @@ var _styleDictionary = {
           "paragraphSpacing"
         ]
       },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "paragraphIndent",
+        "filePath": "src/input/transformed-tokens.json",
+        "isSource": true,
+        "original": {
+          "value": 0,
+          "type": "paragraphIndent"
+        },
+        "name": "SUZY_HEADING_H3_PARAGRAPH_INDENT",
+        "attributes": {},
+        "path": [
+          "Heading",
+          "H3",
+          "paragraphIndent"
+        ]
+      },
       "textCase": {
         "value": "none",
         "type": "textCase",
@@ -1204,6 +1273,23 @@ var _styleDictionary = {
           "Heading",
           "H4",
           "paragraphSpacing"
+        ]
+      },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "paragraphIndent",
+        "filePath": "src/input/transformed-tokens.json",
+        "isSource": true,
+        "original": {
+          "value": 0,
+          "type": "paragraphIndent"
+        },
+        "name": "SUZY_HEADING_H4_PARAGRAPH_INDENT",
+        "attributes": {},
+        "path": [
+          "Heading",
+          "H4",
+          "paragraphIndent"
         ]
       },
       "textCase": {
@@ -1344,6 +1430,23 @@ var _styleDictionary = {
           "paragraphSpacing"
         ]
       },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "paragraphIndent",
+        "filePath": "src/input/transformed-tokens.json",
+        "isSource": true,
+        "original": {
+          "value": 0,
+          "type": "paragraphIndent"
+        },
+        "name": "SUZY_HEADING_H5_PARAGRAPH_INDENT",
+        "attributes": {},
+        "path": [
+          "Heading",
+          "H5",
+          "paragraphIndent"
+        ]
+      },
       "textCase": {
         "value": "uppercase",
         "type": "textCase",
@@ -1480,6 +1583,23 @@ var _styleDictionary = {
           "Heading",
           "Eyebrow",
           "paragraphSpacing"
+        ]
+      },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "paragraphIndent",
+        "filePath": "src/input/transformed-tokens.json",
+        "isSource": true,
+        "original": {
+          "value": 0,
+          "type": "paragraphIndent"
+        },
+        "name": "SUZY_HEADING_EYEBROW_PARAGRAPH_INDENT",
+        "attributes": {},
+        "path": [
+          "Heading",
+          "Eyebrow",
+          "paragraphIndent"
         ]
       },
       "textCase": {
@@ -1622,6 +1742,23 @@ var _styleDictionary = {
           "paragraphSpacing"
         ]
       },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "paragraphIndent",
+        "filePath": "src/input/transformed-tokens.json",
+        "isSource": true,
+        "original": {
+          "value": 0,
+          "type": "paragraphIndent"
+        },
+        "name": "SUZY_BODY_COPY_LARGE_PARAGRAPH_INDENT",
+        "attributes": {},
+        "path": [
+          "Body Copy",
+          "Large",
+          "paragraphIndent"
+        ]
+      },
       "textCase": {
         "value": "none",
         "type": "textCase",
@@ -1758,6 +1895,23 @@ var _styleDictionary = {
           "Body Copy",
           "Regular",
           "paragraphSpacing"
+        ]
+      },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "paragraphIndent",
+        "filePath": "src/input/transformed-tokens.json",
+        "isSource": true,
+        "original": {
+          "value": 0,
+          "type": "paragraphIndent"
+        },
+        "name": "SUZY_BODY_COPY_REGULAR_PARAGRAPH_INDENT",
+        "attributes": {},
+        "path": [
+          "Body Copy",
+          "Regular",
+          "paragraphIndent"
         ]
       },
       "textCase": {
@@ -1898,6 +2052,23 @@ var _styleDictionary = {
           "paragraphSpacing"
         ]
       },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "paragraphIndent",
+        "filePath": "src/input/transformed-tokens.json",
+        "isSource": true,
+        "original": {
+          "value": 0,
+          "type": "paragraphIndent"
+        },
+        "name": "SUZY_BODY_COPY_BOLD_PARAGRAPH_INDENT",
+        "attributes": {},
+        "path": [
+          "Body Copy",
+          "Bold",
+          "paragraphIndent"
+        ]
+      },
       "textCase": {
         "value": "none",
         "type": "textCase",
@@ -2034,6 +2205,23 @@ var _styleDictionary = {
           "Body Copy",
           "Medium",
           "paragraphSpacing"
+        ]
+      },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "paragraphIndent",
+        "filePath": "src/input/transformed-tokens.json",
+        "isSource": true,
+        "original": {
+          "value": 0,
+          "type": "paragraphIndent"
+        },
+        "name": "SUZY_BODY_COPY_MEDIUM_PARAGRAPH_INDENT",
+        "attributes": {},
+        "path": [
+          "Body Copy",
+          "Medium",
+          "paragraphIndent"
         ]
       },
       "textCase": {
@@ -2174,6 +2362,23 @@ var _styleDictionary = {
           "paragraphSpacing"
         ]
       },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "paragraphIndent",
+        "filePath": "src/input/transformed-tokens.json",
+        "isSource": true,
+        "original": {
+          "value": 0,
+          "type": "paragraphIndent"
+        },
+        "name": "SUZY_BODY_COPY_SMALL_PARAGRAPH_INDENT",
+        "attributes": {},
+        "path": [
+          "Body Copy",
+          "Small",
+          "paragraphIndent"
+        ]
+      },
       "textCase": {
         "value": "none",
         "type": "textCase",
@@ -2310,6 +2515,23 @@ var _styleDictionary = {
           "Body Copy",
           "Small Bold",
           "paragraphSpacing"
+        ]
+      },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "paragraphIndent",
+        "filePath": "src/input/transformed-tokens.json",
+        "isSource": true,
+        "original": {
+          "value": 0,
+          "type": "paragraphIndent"
+        },
+        "name": "SUZY_BODY_COPY_SMALL_BOLD_PARAGRAPH_INDENT",
+        "attributes": {},
+        "path": [
+          "Body Copy",
+          "Small Bold",
+          "paragraphIndent"
         ]
       },
       "textCase": {
@@ -2450,6 +2672,23 @@ var _styleDictionary = {
           "paragraphSpacing"
         ]
       },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "paragraphIndent",
+        "filePath": "src/input/transformed-tokens.json",
+        "isSource": true,
+        "original": {
+          "value": 0,
+          "type": "paragraphIndent"
+        },
+        "name": "SUZY_BODY_COPY_CAPTION_PARAGRAPH_INDENT",
+        "attributes": {},
+        "path": [
+          "Body Copy",
+          "Caption",
+          "paragraphIndent"
+        ]
+      },
       "textCase": {
         "value": "none",
         "type": "textCase",
@@ -2586,6 +2825,23 @@ var _styleDictionary = {
           "Body Copy",
           "Assistive Text",
           "paragraphSpacing"
+        ]
+      },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "paragraphIndent",
+        "filePath": "src/input/transformed-tokens.json",
+        "isSource": true,
+        "original": {
+          "value": 0,
+          "type": "paragraphIndent"
+        },
+        "name": "SUZY_BODY_COPY_ASSISTIVE_TEXT_PARAGRAPH_INDENT",
+        "attributes": {},
+        "path": [
+          "Body Copy",
+          "Assistive Text",
+          "paragraphIndent"
         ]
       },
       "textCase": {
@@ -2728,6 +2984,23 @@ var _styleDictionary = {
           "paragraphSpacing"
         ]
       },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "paragraphIndent",
+        "filePath": "src/input/transformed-tokens.json",
+        "isSource": true,
+        "original": {
+          "value": 0,
+          "type": "paragraphIndent"
+        },
+        "name": "SUZY_BUTTONS_BUTTON_TEXT_PARAGRAPH_INDENT",
+        "attributes": {},
+        "path": [
+          "Buttons",
+          "Button Text",
+          "paragraphIndent"
+        ]
+      },
       "textCase": {
         "value": "capitalize",
         "type": "textCase",
@@ -2864,6 +3137,23 @@ var _styleDictionary = {
           "Buttons",
           "Button Text Small",
           "paragraphSpacing"
+        ]
+      },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "paragraphIndent",
+        "filePath": "src/input/transformed-tokens.json",
+        "isSource": true,
+        "original": {
+          "value": 0,
+          "type": "paragraphIndent"
+        },
+        "name": "SUZY_BUTTONS_BUTTON_TEXT_SMALL_PARAGRAPH_INDENT",
+        "attributes": {},
+        "path": [
+          "Buttons",
+          "Button Text Small",
+          "paragraphIndent"
         ]
       },
       "textCase": {
@@ -3006,6 +3296,23 @@ var _styleDictionary = {
           "paragraphSpacing"
         ]
       },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "paragraphIndent",
+        "filePath": "src/input/transformed-tokens.json",
+        "isSource": true,
+        "original": {
+          "value": 0,
+          "type": "paragraphIndent"
+        },
+        "name": "SUZY_LINKS_TEXT_LINK_PARAGRAPH_INDENT",
+        "attributes": {},
+        "path": [
+          "Links",
+          "Text Link",
+          "paragraphIndent"
+        ]
+      },
       "textCase": {
         "value": "none",
         "type": "textCase",
@@ -3142,6 +3449,23 @@ var _styleDictionary = {
           "Links",
           "Text Link Small",
           "paragraphSpacing"
+        ]
+      },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "paragraphIndent",
+        "filePath": "src/input/transformed-tokens.json",
+        "isSource": true,
+        "original": {
+          "value": 0,
+          "type": "paragraphIndent"
+        },
+        "name": "SUZY_LINKS_TEXT_LINK_SMALL_PARAGRAPH_INDENT",
+        "attributes": {},
+        "path": [
+          "Links",
+          "Text Link Small",
+          "paragraphIndent"
         ]
       },
       "textCase": {
@@ -4006,12 +4330,12 @@ var _styleDictionary = {
   },
   "Red": {
     "50": {
-      "value": "#999",
+      "value": "#fef3f2",
       "type": "color",
       "filePath": "src/input/transformed-tokens.json",
       "isSource": true,
       "original": {
-        "value": "#999",
+        "value": "#fef3f2",
         "type": "color"
       },
       "name": "SUZY_RED_50",

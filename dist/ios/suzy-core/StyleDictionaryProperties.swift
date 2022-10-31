@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 31 Oct 2022 15:20:58 GMT
+// Generated on Mon, 31 Oct 2022 15:48:59 GMT
 
 
 import SwiftUI
@@ -26,6 +26,7 @@ public class StyleDictionaryProperties {
     public static let suzyBodyCopyAssistiveTextFontWeight = Regular
     public static let suzyBodyCopyAssistiveTextLetterSpacing = 0%
     public static let suzyBodyCopyAssistiveTextLineHeight = 100%
+    public static let suzyBodyCopyAssistiveTextParagraphIndent = 0
     public static let suzyBodyCopyAssistiveTextParagraphSpacing = 0
     public static let suzyBodyCopyAssistiveTextTextCase = none
     public static let suzyBodyCopyAssistiveTextTextDecoration = none
@@ -34,6 +35,7 @@ public class StyleDictionaryProperties {
     public static let suzyBodyCopyBoldFontWeight = Bold
     public static let suzyBodyCopyBoldLetterSpacing = 0%
     public static let suzyBodyCopyBoldLineHeight = 150%
+    public static let suzyBodyCopyBoldParagraphIndent = 0
     public static let suzyBodyCopyBoldParagraphSpacing = 0
     public static let suzyBodyCopyBoldTextCase = none
     public static let suzyBodyCopyBoldTextDecoration = none
@@ -42,6 +44,7 @@ public class StyleDictionaryProperties {
     public static let suzyBodyCopyCaptionFontWeight = Regular
     public static let suzyBodyCopyCaptionLetterSpacing = 0%
     public static let suzyBodyCopyCaptionLineHeight = 135%
+    public static let suzyBodyCopyCaptionParagraphIndent = 0
     public static let suzyBodyCopyCaptionParagraphSpacing = 0
     public static let suzyBodyCopyCaptionTextCase = none
     public static let suzyBodyCopyCaptionTextDecoration = none
@@ -50,6 +53,7 @@ public class StyleDictionaryProperties {
     public static let suzyBodyCopyLargeFontWeight = Regular
     public static let suzyBodyCopyLargeLetterSpacing = 0%
     public static let suzyBodyCopyLargeLineHeight = 148%
+    public static let suzyBodyCopyLargeParagraphIndent = 0
     public static let suzyBodyCopyLargeParagraphSpacing = 0
     public static let suzyBodyCopyLargeTextCase = none
     public static let suzyBodyCopyLargeTextDecoration = none
@@ -58,6 +62,7 @@ public class StyleDictionaryProperties {
     public static let suzyBodyCopyMediumFontWeight = Medium
     public static let suzyBodyCopyMediumLetterSpacing = 0%
     public static let suzyBodyCopyMediumLineHeight = 150%
+    public static let suzyBodyCopyMediumParagraphIndent = 0
     public static let suzyBodyCopyMediumParagraphSpacing = 0
     public static let suzyBodyCopyMediumTextCase = none
     public static let suzyBodyCopyMediumTextDecoration = none
@@ -66,6 +71,7 @@ public class StyleDictionaryProperties {
     public static let suzyBodyCopyRegularFontWeight = Regular
     public static let suzyBodyCopyRegularLetterSpacing = 0%
     public static let suzyBodyCopyRegularLineHeight = 150%
+    public static let suzyBodyCopyRegularParagraphIndent = 0
     public static let suzyBodyCopyRegularParagraphSpacing = 0
     public static let suzyBodyCopyRegularTextCase = none
     public static let suzyBodyCopyRegularTextDecoration = none
@@ -74,6 +80,7 @@ public class StyleDictionaryProperties {
     public static let suzyBodyCopySmallBoldFontWeight = Bold
     public static let suzyBodyCopySmallBoldLetterSpacing = 0%
     public static let suzyBodyCopySmallBoldLineHeight = 145%
+    public static let suzyBodyCopySmallBoldParagraphIndent = 0
     public static let suzyBodyCopySmallBoldParagraphSpacing = 0
     public static let suzyBodyCopySmallBoldTextCase = none
     public static let suzyBodyCopySmallBoldTextDecoration = none
@@ -82,6 +89,7 @@ public class StyleDictionaryProperties {
     public static let suzyBodyCopySmallFontWeight = Regular
     public static let suzyBodyCopySmallLetterSpacing = 0%
     public static let suzyBodyCopySmallLineHeight = 145%
+    public static let suzyBodyCopySmallParagraphIndent = 0
     public static let suzyBodyCopySmallParagraphSpacing = 0
     public static let suzyBodyCopySmallTextCase = none
     public static let suzyBodyCopySmallTextDecoration = none
@@ -90,12 +98,14 @@ public class StyleDictionaryProperties {
     public static let suzyButtonsButtonTextFontWeight = Medium
     public static let suzyButtonsButtonTextLetterSpacing = 2%
     public static let suzyButtonsButtonTextLineHeight = 100%
+    public static let suzyButtonsButtonTextParagraphIndent = 0
     public static let suzyButtonsButtonTextParagraphSpacing = 0
     public static let suzyButtonsButtonTextSmallFontFamily = Roboto
     public static let suzyButtonsButtonTextSmallFontSize = 14
     public static let suzyButtonsButtonTextSmallFontWeight = SemiBold
     public static let suzyButtonsButtonTextSmallLetterSpacing = 2%
     public static let suzyButtonsButtonTextSmallLineHeight = 115%
+    public static let suzyButtonsButtonTextSmallParagraphIndent = 0
     public static let suzyButtonsButtonTextSmallParagraphSpacing = 0
     public static let suzyButtonsButtonTextSmallTextCase = capitalize
     public static let suzyButtonsButtonTextSmallTextDecoration = none
@@ -156,6 +166,7 @@ public class StyleDictionaryProperties {
     public static let suzyHeadingEyebrowFontWeight = Medium
     public static let suzyHeadingEyebrowLetterSpacing = 10%
     public static let suzyHeadingEyebrowLineHeight = 135%
+    public static let suzyHeadingEyebrowParagraphIndent = 0
     public static let suzyHeadingEyebrowParagraphSpacing = 0
     public static let suzyHeadingEyebrowTextCase = uppercase
     public static let suzyHeadingEyebrowTextDecoration = none
@@ -164,6 +175,7 @@ public class StyleDictionaryProperties {
     public static let suzyHeadingH1FontWeight = Medium
     public static let suzyHeadingH1LetterSpacing = 0%
     public static let suzyHeadingH1LineHeight = 117%
+    public static let suzyHeadingH1ParagraphIndent = 0
     public static let suzyHeadingH1ParagraphSpacing = 0
     public static let suzyHeadingH1TextCase = none
     public static let suzyHeadingH1TextDecoration = none
@@ -172,6 +184,7 @@ public class StyleDictionaryProperties {
     public static let suzyHeadingH2FontWeight = Medium
     public static let suzyHeadingH2LetterSpacing = 0%
     public static let suzyHeadingH2LineHeight = 125%
+    public static let suzyHeadingH2ParagraphIndent = 0
     public static let suzyHeadingH2ParagraphSpacing = 0
     public static let suzyHeadingH2TextCase = none
     public static let suzyHeadingH2TextDecoration = none
@@ -180,6 +193,7 @@ public class StyleDictionaryProperties {
     public static let suzyHeadingH3FontWeight = Medium
     public static let suzyHeadingH3LetterSpacing = 0%
     public static let suzyHeadingH3LineHeight = 135%
+    public static let suzyHeadingH3ParagraphIndent = 0
     public static let suzyHeadingH3ParagraphSpacing = 0
     public static let suzyHeadingH3TextCase = none
     public static let suzyHeadingH3TextDecoration = none
@@ -188,6 +202,7 @@ public class StyleDictionaryProperties {
     public static let suzyHeadingH4FontWeight = Bold
     public static let suzyHeadingH4LetterSpacing = 0%
     public static let suzyHeadingH4LineHeight = 135%
+    public static let suzyHeadingH4ParagraphIndent = 0
     public static let suzyHeadingH4ParagraphSpacing = 0
     public static let suzyHeadingH4TextCase = none
     public static let suzyHeadingH4TextDecoration = none
@@ -196,6 +211,7 @@ public class StyleDictionaryProperties {
     public static let suzyHeadingH5FontWeight = Bold
     public static let suzyHeadingH5LetterSpacing = 4%
     public static let suzyHeadingH5LineHeight = 115%
+    public static let suzyHeadingH5ParagraphIndent = 0
     public static let suzyHeadingH5ParagraphSpacing = 0
     public static let suzyHeadingH5TextCase = uppercase
     public static let suzyHeadingH5TextDecoration = none
@@ -216,23 +232,26 @@ public class StyleDictionaryProperties {
     public static let suzyLinksTextLinkFontWeight = Medium
     public static let suzyLinksTextLinkLetterSpacing = 0%
     public static let suzyLinksTextLinkLineHeight = 145%
+    public static let suzyLinksTextLinkParagraphIndent = 0
     public static let suzyLinksTextLinkParagraphSpacing = 0
     public static let suzyLinksTextLinkSmallFontFamily = Roboto
     public static let suzyLinksTextLinkSmallFontSize = 14
     public static let suzyLinksTextLinkSmallFontWeight = Medium
     public static let suzyLinksTextLinkSmallLetterSpacing = 0%
     public static let suzyLinksTextLinkSmallLineHeight = 145%
+    public static let suzyLinksTextLinkSmallParagraphIndent = 0
     public static let suzyLinksTextLinkSmallParagraphSpacing = 0
     public static let suzyLinksTextLinkSmallTextCase = none
     public static let suzyLinksTextLinkSmallTextDecoration = underline
     public static let suzyLinksTextLinkTextCase = none
     public static let suzyLinksTextLinkTextDecoration = underline
+    public static let suzyParagraphIndent0 = 0
     public static let suzyParagraphSpacing0 = 0
     public static let suzyRed100 = #fee4e2
     public static let suzyRed200 = #fecdca
     public static let suzyRed300 = #fda29b
     public static let suzyRed400 = #f97066
-    public static let suzyRed50 = #999
+    public static let suzyRed50 = #fef3f2
     public static let suzyRed500 = #f04438
     public static let suzyRed600 = #d92d20
     public static let suzyRed700 = #b42318

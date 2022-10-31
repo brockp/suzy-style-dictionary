@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Mon, 31 Oct 2022 15:20:58 GMT
+  Generated on Mon, 31 Oct 2022 15:48:59 GMT
 -->
 <resources>
   <string name="suzy_token_set_order_0">colors</string>
@@ -38,6 +38,7 @@
   <string name="suzy_letter_spacing_2">10%</string>
   <string name="suzy_letter_spacing_3">2%</string>
   <string name="suzy_paragraph_spacing_0">0</string>
+  <string name="suzy_paragraph_indent_0">0</string>
   <string name="suzy_text_case_none">none</string>
   <string name="suzy_text_case_uppercase">uppercase</string>
   <string name="suzy_text_case_capitalize">capitalize</string>
@@ -49,6 +50,7 @@
   <string name="suzy_heading_h1_font_size">48</string>
   <string name="suzy_heading_h1_letter_spacing">0%</string>
   <string name="suzy_heading_h1_paragraph_spacing">0</string>
+  <string name="suzy_heading_h1_paragraph_indent">0</string>
   <string name="suzy_heading_h1_text_case">none</string>
   <string name="suzy_heading_h1_text_decoration">none</string>
   <string name="suzy_heading_h2_font_family">Roboto</string>
@@ -57,6 +59,7 @@
   <string name="suzy_heading_h2_font_size">32</string>
   <string name="suzy_heading_h2_letter_spacing">0%</string>
   <string name="suzy_heading_h2_paragraph_spacing">0</string>
+  <string name="suzy_heading_h2_paragraph_indent">0</string>
   <string name="suzy_heading_h2_text_case">none</string>
   <string name="suzy_heading_h2_text_decoration">none</string>
   <string name="suzy_heading_h3_font_family">Roboto</string>
@@ -65,6 +68,7 @@
   <string name="suzy_heading_h3_font_size">24</string>
   <string name="suzy_heading_h3_letter_spacing">0%</string>
   <string name="suzy_heading_h3_paragraph_spacing">0</string>
+  <string name="suzy_heading_h3_paragraph_indent">0</string>
   <string name="suzy_heading_h3_text_case">none</string>
   <string name="suzy_heading_h3_text_decoration">none</string>
   <string name="suzy_heading_h4_font_family">Roboto</string>
@@ -73,6 +77,7 @@
   <string name="suzy_heading_h4_font_size">18</string>
   <string name="suzy_heading_h4_letter_spacing">0%</string>
   <string name="suzy_heading_h4_paragraph_spacing">0</string>
+  <string name="suzy_heading_h4_paragraph_indent">0</string>
   <string name="suzy_heading_h4_text_case">none</string>
   <string name="suzy_heading_h4_text_decoration">none</string>
   <string name="suzy_heading_h5_font_family">Roboto</string>
@@ -81,6 +86,7 @@
   <string name="suzy_heading_h5_font_size">14</string>
   <string name="suzy_heading_h5_letter_spacing">4%</string>
   <string name="suzy_heading_h5_paragraph_spacing">0</string>
+  <string name="suzy_heading_h5_paragraph_indent">0</string>
   <string name="suzy_heading_h5_text_case">uppercase</string>
   <string name="suzy_heading_h5_text_decoration">none</string>
   <string name="suzy_heading_eyebrow_font_family">Roboto</string>
@@ -89,6 +95,7 @@
   <string name="suzy_heading_eyebrow_font_size">12</string>
   <string name="suzy_heading_eyebrow_letter_spacing">10%</string>
   <string name="suzy_heading_eyebrow_paragraph_spacing">0</string>
+  <string name="suzy_heading_eyebrow_paragraph_indent">0</string>
   <string name="suzy_heading_eyebrow_text_case">uppercase</string>
   <string name="suzy_heading_eyebrow_text_decoration">none</string>
   <string name="suzy_body_copy_large_font_family">Roboto</string>
@@ -97,6 +104,7 @@
   <string name="suzy_body_copy_large_font_size">18</string>
   <string name="suzy_body_copy_large_letter_spacing">0%</string>
   <string name="suzy_body_copy_large_paragraph_spacing">0</string>
+  <string name="suzy_body_copy_large_paragraph_indent">0</string>
   <string name="suzy_body_copy_large_text_case">none</string>
   <string name="suzy_body_copy_large_text_decoration">none</string>
   <string name="suzy_body_copy_regular_font_family">Roboto</string>
@@ -105,6 +113,7 @@
   <string name="suzy_body_copy_regular_font_size">16</string>
   <string name="suzy_body_copy_regular_letter_spacing">0%</string>
   <string name="suzy_body_copy_regular_paragraph_spacing">0</string>
+  <string name="suzy_body_copy_regular_paragraph_indent">0</string>
   <string name="suzy_body_copy_regular_text_case">none</string>
   <string name="suzy_body_copy_regular_text_decoration">none</string>
   <string name="suzy_body_copy_bold_font_family">Roboto</string>
@@ -113,6 +122,7 @@
   <string name="suzy_body_copy_bold_font_size">16</string>
   <string name="suzy_body_copy_bold_letter_spacing">0%</string>
   <string name="suzy_body_copy_bold_paragraph_spacing">0</string>
+  <string name="suzy_body_copy_bold_paragraph_indent">0</string>
   <string name="suzy_body_copy_bold_text_case">none</string>
   <string name="suzy_body_copy_bold_text_decoration">none</string>
   <string name="suzy_body_copy_medium_font_family">Roboto</string>
@@ -121,6 +131,7 @@
   <string name="suzy_body_copy_medium_font_size">16</string>
   <string name="suzy_body_copy_medium_letter_spacing">0%</string>
   <string name="suzy_body_copy_medium_paragraph_spacing">0</string>
+  <string name="suzy_body_copy_medium_paragraph_indent">0</string>
   <string name="suzy_body_copy_medium_text_case">none</string>
   <string name="suzy_body_copy_medium_text_decoration">none</string>
   <string name="suzy_body_copy_small_font_family">Roboto</string>
@@ -129,6 +140,7 @@
   <string name="suzy_body_copy_small_font_size">14</string>
   <string name="suzy_body_copy_small_letter_spacing">0%</string>
   <string name="suzy_body_copy_small_paragraph_spacing">0</string>
+  <string name="suzy_body_copy_small_paragraph_indent">0</string>
   <string name="suzy_body_copy_small_text_case">none</string>
   <string name="suzy_body_copy_small_text_decoration">none</string>
   <string name="suzy_body_copy_small_bold_font_family">Roboto</string>
@@ -137,6 +149,7 @@
   <string name="suzy_body_copy_small_bold_font_size">14</string>
   <string name="suzy_body_copy_small_bold_letter_spacing">0%</string>
   <string name="suzy_body_copy_small_bold_paragraph_spacing">0</string>
+  <string name="suzy_body_copy_small_bold_paragraph_indent">0</string>
   <string name="suzy_body_copy_small_bold_text_case">none</string>
   <string name="suzy_body_copy_small_bold_text_decoration">none</string>
   <string name="suzy_body_copy_caption_font_family">Roboto</string>
@@ -145,6 +158,7 @@
   <string name="suzy_body_copy_caption_font_size">12</string>
   <string name="suzy_body_copy_caption_letter_spacing">0%</string>
   <string name="suzy_body_copy_caption_paragraph_spacing">0</string>
+  <string name="suzy_body_copy_caption_paragraph_indent">0</string>
   <string name="suzy_body_copy_caption_text_case">none</string>
   <string name="suzy_body_copy_caption_text_decoration">none</string>
   <string name="suzy_body_copy_assistive_text_font_family">Roboto</string>
@@ -153,6 +167,7 @@
   <string name="suzy_body_copy_assistive_text_font_size">10</string>
   <string name="suzy_body_copy_assistive_text_letter_spacing">0%</string>
   <string name="suzy_body_copy_assistive_text_paragraph_spacing">0</string>
+  <string name="suzy_body_copy_assistive_text_paragraph_indent">0</string>
   <string name="suzy_body_copy_assistive_text_text_case">none</string>
   <string name="suzy_body_copy_assistive_text_text_decoration">none</string>
   <string name="suzy_buttons_button_text_font_family">Roboto</string>
@@ -161,6 +176,7 @@
   <string name="suzy_buttons_button_text_font_size">16</string>
   <string name="suzy_buttons_button_text_letter_spacing">2%</string>
   <string name="suzy_buttons_button_text_paragraph_spacing">0</string>
+  <string name="suzy_buttons_button_text_paragraph_indent">0</string>
   <string name="suzy_buttons_button_text_text_case">capitalize</string>
   <string name="suzy_buttons_button_text_text_decoration">none</string>
   <string name="suzy_buttons_button_text_small_font_family">Roboto</string>
@@ -169,6 +185,7 @@
   <string name="suzy_buttons_button_text_small_font_size">14</string>
   <string name="suzy_buttons_button_text_small_letter_spacing">2%</string>
   <string name="suzy_buttons_button_text_small_paragraph_spacing">0</string>
+  <string name="suzy_buttons_button_text_small_paragraph_indent">0</string>
   <string name="suzy_buttons_button_text_small_text_case">capitalize</string>
   <string name="suzy_buttons_button_text_small_text_decoration">none</string>
   <string name="suzy_links_text_link_font_family">Roboto</string>
@@ -177,6 +194,7 @@
   <string name="suzy_links_text_link_font_size">16</string>
   <string name="suzy_links_text_link_letter_spacing">0%</string>
   <string name="suzy_links_text_link_paragraph_spacing">0</string>
+  <string name="suzy_links_text_link_paragraph_indent">0</string>
   <string name="suzy_links_text_link_text_case">none</string>
   <string name="suzy_links_text_link_text_decoration">underline</string>
   <string name="suzy_links_text_link_small_font_family">Roboto</string>
@@ -185,6 +203,7 @@
   <string name="suzy_links_text_link_small_font_size">14</string>
   <string name="suzy_links_text_link_small_letter_spacing">0%</string>
   <string name="suzy_links_text_link_small_paragraph_spacing">0</string>
+  <string name="suzy_links_text_link_small_paragraph_indent">0</string>
   <string name="suzy_links_text_link_small_text_case">none</string>
   <string name="suzy_links_text_link_small_text_decoration">underline</string>
   <string name="suzy_black">#000000</string>
@@ -238,7 +257,7 @@
   <string name="suzy_suzy_live_pink_700">#bd4b8e</string>
   <string name="suzy_suzy_live_pink_800">#a43678</string>
   <string name="suzy_suzy_live_pink_900">#982c6c</string>
-  <string name="suzy_red_50">#999</string>
+  <string name="suzy_red_50">#fef3f2</string>
   <string name="suzy_red_100">#fee4e2</string>
   <string name="suzy_red_200">#fecdca</string>
   <string name="suzy_red_300">#fda29b</string>

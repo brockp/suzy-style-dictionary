@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 31 Oct 2022 15:20:58 GMT
+ * Generated on Mon, 31 Oct 2022 15:48:59 GMT
  */
 
 :root {
@@ -37,6 +37,7 @@
   --suzy-letter-spacing-2: 10%;
   --suzy-letter-spacing-3: 2%;
   --suzy-paragraph-spacing-0: 0;
+  --suzy-paragraph-indent-0: 0;
   --suzy-text-case-none: none;
   --suzy-text-case-uppercase: uppercase;
   --suzy-text-case-capitalize: capitalize;
@@ -48,6 +49,7 @@
   --suzy-heading-h1-font-size: 48px;
   --suzy-heading-h1-letter-spacing: 0%;
   --suzy-heading-h1-paragraph-spacing: 0;
+  --suzy-heading-h1-paragraph-indent: 0;
   --suzy-heading-h1-text-case: none;
   --suzy-heading-h1-text-decoration: none;
   --suzy-heading-h2-font-family: Roboto, sans-serif;
@@ -56,6 +58,7 @@
   --suzy-heading-h2-font-size: 32px;
   --suzy-heading-h2-letter-spacing: 0%;
   --suzy-heading-h2-paragraph-spacing: 0;
+  --suzy-heading-h2-paragraph-indent: 0;
   --suzy-heading-h2-text-case: none;
   --suzy-heading-h2-text-decoration: none;
   --suzy-heading-h3-font-family: Roboto, sans-serif;
@@ -64,6 +67,7 @@
   --suzy-heading-h3-font-size: 24px;
   --suzy-heading-h3-letter-spacing: 0%;
   --suzy-heading-h3-paragraph-spacing: 0;
+  --suzy-heading-h3-paragraph-indent: 0;
   --suzy-heading-h3-text-case: none;
   --suzy-heading-h3-text-decoration: none;
   --suzy-heading-h4-font-family: Roboto, sans-serif;
@@ -72,6 +76,7 @@
   --suzy-heading-h4-font-size: 18px;
   --suzy-heading-h4-letter-spacing: 0%;
   --suzy-heading-h4-paragraph-spacing: 0;
+  --suzy-heading-h4-paragraph-indent: 0;
   --suzy-heading-h4-text-case: none;
   --suzy-heading-h4-text-decoration: none;
   --suzy-heading-h5-font-family: Roboto, sans-serif;
@@ -80,6 +85,7 @@
   --suzy-heading-h5-font-size: 14px;
   --suzy-heading-h5-letter-spacing: 4%;
   --suzy-heading-h5-paragraph-spacing: 0;
+  --suzy-heading-h5-paragraph-indent: 0;
   --suzy-heading-h5-text-case: uppercase;
   --suzy-heading-h5-text-decoration: none;
   --suzy-heading-eyebrow-font-family: Roboto, sans-serif;
@@ -88,6 +94,7 @@
   --suzy-heading-eyebrow-font-size: 12px;
   --suzy-heading-eyebrow-letter-spacing: 10%;
   --suzy-heading-eyebrow-paragraph-spacing: 0;
+  --suzy-heading-eyebrow-paragraph-indent: 0;
   --suzy-heading-eyebrow-text-case: uppercase;
   --suzy-heading-eyebrow-text-decoration: none;
   --suzy-body-copy-large-font-family: Roboto, sans-serif;
@@ -96,6 +103,7 @@
   --suzy-body-copy-large-font-size: 18px;
   --suzy-body-copy-large-letter-spacing: 0%;
   --suzy-body-copy-large-paragraph-spacing: 0;
+  --suzy-body-copy-large-paragraph-indent: 0;
   --suzy-body-copy-large-text-case: none;
   --suzy-body-copy-large-text-decoration: none;
   --suzy-body-copy-regular-font-family: Roboto, sans-serif;
@@ -104,6 +112,7 @@
   --suzy-body-copy-regular-font-size: 16px;
   --suzy-body-copy-regular-letter-spacing: 0%;
   --suzy-body-copy-regular-paragraph-spacing: 0;
+  --suzy-body-copy-regular-paragraph-indent: 0;
   --suzy-body-copy-regular-text-case: none;
   --suzy-body-copy-regular-text-decoration: none;
   --suzy-body-copy-bold-font-family: Roboto, sans-serif;
@@ -112,6 +121,7 @@
   --suzy-body-copy-bold-font-size: 16px;
   --suzy-body-copy-bold-letter-spacing: 0%;
   --suzy-body-copy-bold-paragraph-spacing: 0;
+  --suzy-body-copy-bold-paragraph-indent: 0;
   --suzy-body-copy-bold-text-case: none;
   --suzy-body-copy-bold-text-decoration: none;
   --suzy-body-copy-medium-font-family: Roboto, sans-serif;
@@ -120,6 +130,7 @@
   --suzy-body-copy-medium-font-size: 16px;
   --suzy-body-copy-medium-letter-spacing: 0%;
   --suzy-body-copy-medium-paragraph-spacing: 0;
+  --suzy-body-copy-medium-paragraph-indent: 0;
   --suzy-body-copy-medium-text-case: none;
   --suzy-body-copy-medium-text-decoration: none;
   --suzy-body-copy-small-font-family: Roboto, sans-serif;
@@ -128,6 +139,7 @@
   --suzy-body-copy-small-font-size: 14px;
   --suzy-body-copy-small-letter-spacing: 0%;
   --suzy-body-copy-small-paragraph-spacing: 0;
+  --suzy-body-copy-small-paragraph-indent: 0;
   --suzy-body-copy-small-text-case: none;
   --suzy-body-copy-small-text-decoration: none;
   --suzy-body-copy-small-bold-font-family: Roboto, sans-serif;
@@ -136,6 +148,7 @@
   --suzy-body-copy-small-bold-font-size: 14px;
   --suzy-body-copy-small-bold-letter-spacing: 0%;
   --suzy-body-copy-small-bold-paragraph-spacing: 0;
+  --suzy-body-copy-small-bold-paragraph-indent: 0;
   --suzy-body-copy-small-bold-text-case: none;
   --suzy-body-copy-small-bold-text-decoration: none;
   --suzy-body-copy-caption-font-family: Roboto, sans-serif;
@@ -144,6 +157,7 @@
   --suzy-body-copy-caption-font-size: 12px;
   --suzy-body-copy-caption-letter-spacing: 0%;
   --suzy-body-copy-caption-paragraph-spacing: 0;
+  --suzy-body-copy-caption-paragraph-indent: 0;
   --suzy-body-copy-caption-text-case: none;
   --suzy-body-copy-caption-text-decoration: none;
   --suzy-body-copy-assistive-text-font-family: Roboto, sans-serif;
@@ -152,6 +166,7 @@
   --suzy-body-copy-assistive-text-font-size: 10px;
   --suzy-body-copy-assistive-text-letter-spacing: 0%;
   --suzy-body-copy-assistive-text-paragraph-spacing: 0;
+  --suzy-body-copy-assistive-text-paragraph-indent: 0;
   --suzy-body-copy-assistive-text-text-case: none;
   --suzy-body-copy-assistive-text-text-decoration: none;
   --suzy-buttons-button-text-font-family: Roboto, sans-serif;
@@ -160,6 +175,7 @@
   --suzy-buttons-button-text-font-size: 16px;
   --suzy-buttons-button-text-letter-spacing: 2%;
   --suzy-buttons-button-text-paragraph-spacing: 0;
+  --suzy-buttons-button-text-paragraph-indent: 0;
   --suzy-buttons-button-text-text-case: capitalize;
   --suzy-buttons-button-text-text-decoration: none;
   --suzy-buttons-button-text-small-font-family: Roboto, sans-serif;
@@ -168,6 +184,7 @@
   --suzy-buttons-button-text-small-font-size: 14px;
   --suzy-buttons-button-text-small-letter-spacing: 2%;
   --suzy-buttons-button-text-small-paragraph-spacing: 0;
+  --suzy-buttons-button-text-small-paragraph-indent: 0;
   --suzy-buttons-button-text-small-text-case: capitalize;
   --suzy-buttons-button-text-small-text-decoration: none;
   --suzy-links-text-link-font-family: Roboto, sans-serif;
@@ -176,6 +193,7 @@
   --suzy-links-text-link-font-size: 16px;
   --suzy-links-text-link-letter-spacing: 0%;
   --suzy-links-text-link-paragraph-spacing: 0;
+  --suzy-links-text-link-paragraph-indent: 0;
   --suzy-links-text-link-text-case: none;
   --suzy-links-text-link-text-decoration: underline;
   --suzy-links-text-link-small-font-family: Roboto, sans-serif;
@@ -184,6 +202,7 @@
   --suzy-links-text-link-small-font-size: 14px;
   --suzy-links-text-link-small-letter-spacing: 0%;
   --suzy-links-text-link-small-paragraph-spacing: 0;
+  --suzy-links-text-link-small-paragraph-indent: 0;
   --suzy-links-text-link-small-text-case: none;
   --suzy-links-text-link-small-text-decoration: underline;
   --suzy-black: #000000;
@@ -237,7 +256,7 @@
   --suzy-suzy-live-pink-700: #bd4b8e;
   --suzy-suzy-live-pink-800: #a43678;
   --suzy-suzy-live-pink-900: #982c6c;
-  --suzy-red-50: #999;
+  --suzy-red-50: #fef3f2;
   --suzy-red-100: #fee4e2;
   --suzy-red-200: #fecdca;
   --suzy-red-300: #fda29b;
