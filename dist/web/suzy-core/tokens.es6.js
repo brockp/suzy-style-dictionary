@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 31 Oct 2022 15:48:59 GMT
+ * Generated on Mon, 31 Oct 2022 15:49:50 GMT
  */
 
 export const SUZY_TOKEN_SET_ORDER_0 = "colors";
