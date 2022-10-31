@@ -6,7 +6,7 @@
 	"scripts": {
 		"build-custom": "node ./build.js",
 		"build": "node_modules/.bin/style-dictionary build",
-		"transform": "token-transformer src/input/*.json src/input/transformed-tokens.json --expandTypography=true --expandShadow=true",
+		"transform": "token-transformer src/input/tokens.json src/input/transformed-tokens.json --expandTypography=true --expandShadow=false",
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"watch": "chokidar 'src/**/*.json' -c 'node ./build.js'"
 	},
@@ -16,6 +16,6 @@
 		"chokidar-cli": "^3.0.0",
 		"handlebars": "^4.0.11",
 		"style-dictionary": "^3.7.1",
-		"token-transformer": "^0.0.25"
+		"token-transformer": "^0.0.27"
 	}
 }

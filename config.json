@@ -1,5 +1,5 @@
 {
-	"source": ["src/input/*.json"],
+	"source": ["src/input/transformed-tokens.json"],
 	"platforms": {
 		"css-variables": {
 			"transformGroup": "css",

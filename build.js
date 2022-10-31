@@ -1,3 +1,4 @@
+const { filter } = require("style-dictionary");
 const StyleDictionaryPackage = require("style-dictionary");
 const tinycolor = require("tinycolor2");
 
@@ -10,7 +11,7 @@ function getStyleDictionaryConfig(brand, platform) {
 			"web/js": {
 				transformGroup: "tokens-js",
 				buildPath: `dist/web/${brand}/`,
-				prefix: "token",
+				prefix: "suzy",
 				files: [
 					{
 						destination: "tokens.module.js",
@@ -29,7 +30,7 @@ function getStyleDictionaryConfig(brand, platform) {
 			"web/json": {
 				transformGroup: "tokens-json",
 				buildPath: `dist/web/${brand}/`,
-				prefix: "token",
+				prefix: "suzy",
 				files: [
 					{
 						destination: "tokens.json",
@@ -40,7 +41,7 @@ function getStyleDictionaryConfig(brand, platform) {
 			"web/scss": {
 				transformGroup: "tokens-scss",
 				buildPath: `dist/web/${brand}/`,
-				prefix: "token",
+				prefix: "suzy",
 				files: [
 					{
 						destination: "tokens.scss",
@@ -51,7 +52,7 @@ function getStyleDictionaryConfig(brand, platform) {
 			"web/css": {
 				transformGroup: "tokens-css",
 				buildPath: `dist/web/${brand}/`,
-				prefix: "token",
+				prefix: "suzy",
 				files: [
 					{
 						destination: "tokens.css",
@@ -62,56 +63,42 @@ function getStyleDictionaryConfig(brand, platform) {
 			styleguide: {
 				transformGroup: "styleguide",
 				buildPath: `dist/styleguide/`,
-				prefix: "token",
+				prefix: "suzy",
 				files: [
 					{
 						destination: `${platform}_${brand}.css`,
 						format: "css/variables"
 					}
 				]
-			}
+			},
 			// there are different possible formats for iOS (JSON, PLIST, etc.) so you will have to agree with the iOS devs which format they prefer
 			// The iOS and Android platform configurations below are being controlled by our custom templates registered lower in this file
-			// ios: {
-			// 	// I have used custom formats for iOS but keep in mind that Style Dictionary offers some default formats/templates for iOS,
-			// 	// so have a look at the documentation before creating custom templates/formats, maybe they already work for you :)
-			// 	transformGroup: "tokens-ios",
-			// 	buildPath: `dist/ios/${brand}/`,
-			// 	prefix: "token",
-			// 	files: [
-			// 		{
-			// 			destination: "tokens-all.plist",
-			// 			template: "ios/plist"
-			// 		},
-			// 		{
-			// 			destination: "tokens-colors.plist",
-			// 			template: "ios/plist",
-			// 			filter: {
-			// 				type: "color"
-			// 			}
-			// 		}
-			// 	]
-			// },
-			// android: {
-			// 	// I have used custom formats for Android but keep in mind that Style Dictionary offers some default formats/templates for Android,
-			// 	// so have a look at the documentation before creating custom templates/formats, maybe they already work for you :)
-			// 	transformGroup: "tokens-android",
-			// 	buildPath: `dist/android/${brand}/`,
-			// 	prefix: "token",
-			// 	files: [
-			// 		{
-			// 			destination: "tokens-all.xml",
-			// 			template: "android/xml"
-			// 		},
-			// 		{
-			// 			destination: "tokens-colors.xml",
-			// 			template: "android/xml",
-			// 			filter: {
-			// 				type: "color"
-			// 			}
-			// 		}
-			// 	]
-			// }
+			ios: {
+				transformGroup: "tokens-ios",
+				buildPath: `dist/ios/${brand}/`,
+				prefix: "suzy",
+				files: [
+					{
+						destination: "StyleDictionaryProperties.swift",
+						format: "ios-swift/class.swift",
+						className: "StyleDictionaryProperties"
+					}
+				]
+			},
+			android: {
+				transformGroup: "android",
+				buildPath: `dist/android/${brand}/`,
+				prefix: "suzy",
+				files: [
+					{
+						destination: "StyleResources.xml",
+						format: "android/resources"
+						// filter: {
+						// 	attributes: { category: ["Red", "Black"] }
+						// }
+					}
+				]
+			}
 		}
 	};
 }
@@ -167,20 +154,18 @@ StyleDictionaryPackage.registerFormat({
 StyleDictionaryPackage.registerTransform({
 	name: "shadow/scss",
 	type: "value",
-	matcher: function (prop) {
-		return prop.attributes.category === "shadow";
-	},
-	transformer: function (prop) {
+	matcher: (token) => ["boxShadow"].includes(token.type),
+	transformer: function (token) {
 		// destructure shadow values from original token value
 		const { x, y, blur, spread, color, alpha } =
-			prop.original.value;
+			token.value;
 
 		// convert hex code to rgba string
 		const shadowColor = tinycolor(color);
 		shadowColor.setAlpha(alpha);
 		shadowColor.toRgbString();
 
-		return `${x}px ${y}px ${blur}px ${spread}px ${shadowColor}`;
+		return `${x}px ${y}px ${blur}px ${spread}px ${color}`;
 	}
 });
 
@@ -206,6 +191,29 @@ StyleDictionaryPackage.registerTransform({
 	}
 });
 
+StyleDictionaryPackage.registerTransform({
+	name: "+/px",
+	type: "value",
+	transitive: true,
+	matcher: (token) =>
+		[
+			"fontSizes",
+			"fontSize",
+			"dimension",
+			"borderRadius",
+			"spacing"
+		].includes(token.type),
+	transformer: (token) => token.value + "px"
+});
+
+StyleDictionaryPackage.registerTransform({
+	name: "+/sans-serif",
+	type: "value",
+	transitive: true,
+	matcher: (token) => ["fontFamily"].includes(token.type),
+	transformer: (token) => token.value + ", sans-serif"
+});
+
 StyleDictionaryPackage.registerTransformGroup({
 	name: "styleguide",
 	transforms: [
@@ -227,7 +235,8 @@ StyleDictionaryPackage.registerTransformGroup({
 		"attribute/cti",
 		"name/cti/kebab",
 		"size/px",
-		"color/css"
+		"color/css",
+		"+/px"
 	]
 });
 
@@ -239,7 +248,9 @@ StyleDictionaryPackage.registerTransformGroup({
 		"time/seconds",
 		"size/px",
 		"color/css",
-		"shadow/scss"
+		"shadow/scss",
+		"+/px",
+		"+/sans-serif"
 	]
 });
 
@@ -250,7 +261,10 @@ StyleDictionaryPackage.registerTransformGroup({
 		"name/cti/kebab",
 		"time/seconds",
 		"size/px",
-		"color/css"
+		"color/css",
+		"+/px",
+		"+/sans-serif",
+		"shadow/scss"
 	]
 });
 
@@ -260,7 +274,11 @@ StyleDictionaryPackage.registerTransformGroup({
 	transforms: [
 		"attribute/cti",
 		"name/cti/camel",
-		"size/pxToPt"
+		"color/UIColorSwift",
+		"content/swift/literal",
+		"asset/swift/literal",
+		"size/swift/remToCGFloat",
+		"font/swift/literal"
 	]
 });
 
@@ -275,12 +293,13 @@ StyleDictionaryPackage.registerTransformGroup({
 });
 
 StyleDictionaryPackage.transformGroup["android"];
+StyleDictionaryPackage.transformGroup["ios"];
 
 console.log("Build started...");
 
 // PROCESS THE DESIGN TOKENS FOR THE DIFFEREN BRANDS AND PLATFORMS
 
-["web"].map(function (platform) {
+["web", "ios", "android"].map(function (platform) {
 	["suzy-core"].map(function (brand) {
 		console.log(
 			"\n=============================================="
