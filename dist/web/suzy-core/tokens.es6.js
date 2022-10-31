@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 31 Oct 2022 14:58:06 GMT
+ * Generated on Mon, 31 Oct 2022 15:20:58 GMT
  */
 
 export const SUZY_TOKEN_SET_ORDER_0 = "colors";
@@ -236,7 +236,7 @@ export const SUZY_SUZY_LIVE_PINK_600 = "#d55fa5";
 export const SUZY_SUZY_LIVE_PINK_700 = "#bd4b8e";
 export const SUZY_SUZY_LIVE_PINK_800 = "#a43678";
 export const SUZY_SUZY_LIVE_PINK_900 = "#982c6c";
-export const SUZY_RED_50 = "#fef3f2";
+export const SUZY_RED_50 = "#999";
 export const SUZY_RED_100 = "#fee4e2";
 export const SUZY_RED_200 = "#fecdca";
 export const SUZY_RED_300 = "#fda29b";

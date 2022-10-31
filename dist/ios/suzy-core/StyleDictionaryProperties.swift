@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 31 Oct 2022 14:58:06 GMT
+// Generated on Mon, 31 Oct 2022 15:20:58 GMT
 
 
 import SwiftUI
@@ -232,7 +232,7 @@ public class StyleDictionaryProperties {
     public static let suzyRed200 = #fecdca
     public static let suzyRed300 = #fda29b
     public static let suzyRed400 = #f97066
-    public static let suzyRed50 = #fef3f2
+    public static let suzyRed50 = #999
     public static let suzyRed500 = #f04438
     public static let suzyRed600 = #d92d20
     public static let suzyRed700 = #b42318

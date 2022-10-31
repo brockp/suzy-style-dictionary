@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 31 Oct 2022 14:58:06 GMT
+ * Generated on Mon, 31 Oct 2022 15:20:58 GMT
  */
 
 module.exports = {
@@ -4006,12 +4006,12 @@ module.exports = {
   },
   "Red": {
     "50": {
-      "value": "#fef3f2",
+      "value": "#999",
       "type": "color",
       "filePath": "src/input/transformed-tokens.json",
       "isSource": true,
       "original": {
-        "value": "#fef3f2",
+        "value": "#999",
         "type": "color"
       },
       "name": "SUZY_RED_50",
