@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 31 Oct 2022 15:49:50 GMT
+ * Generated on Mon, 07 Nov 2022 18:11:30 GMT
  */
 
 var _styleDictionary = {
@@ -322,6 +322,22 @@ var _styleDictionary = {
         "lineHeights",
         "7"
       ]
+    },
+    "8": {
+      "value": "140%",
+      "type": "lineHeights",
+      "filePath": "src/input/transformed-tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "140%",
+        "type": "lineHeights"
+      },
+      "name": "SUZY_LINE_HEIGHTS_8",
+      "attributes": {},
+      "path": [
+        "lineHeights",
+        "8"
+      ]
     }
   },
   "fontWeights": {
@@ -600,24 +616,6 @@ var _styleDictionary = {
       "attributes": {},
       "path": [
         "paragraphSpacing",
-        "0"
-      ]
-    }
-  },
-  "paragraphIndent": {
-    "0": {
-      "value": 0,
-      "type": "paragraphIndent",
-      "filePath": "src/input/transformed-tokens.json",
-      "isSource": true,
-      "original": {
-        "value": 0,
-        "type": "paragraphIndent"
-      },
-      "name": "SUZY_PARAGRAPH_INDENT_0",
-      "attributes": {},
-      "path": [
-        "paragraphIndent",
         "0"
       ]
     }
@@ -2917,12 +2915,12 @@ var _styleDictionary = {
         ]
       },
       "lineHeight": {
-        "value": "100%",
+        "value": "125%",
         "type": "lineHeight",
         "filePath": "src/input/transformed-tokens.json",
         "isSource": true,
         "original": {
-          "value": "100%",
+          "value": "125%",
           "type": "lineHeight"
         },
         "name": "SUZY_BUTTONS_BUTTON_TEXT_LINE_HEIGHT",
@@ -3072,12 +3070,12 @@ var _styleDictionary = {
         ]
       },
       "lineHeight": {
-        "value": "115%",
+        "value": "140%",
         "type": "lineHeight",
         "filePath": "src/input/transformed-tokens.json",
         "isSource": true,
         "original": {
-          "value": "115%",
+          "value": "140%",
           "type": "lineHeight"
         },
         "name": "SUZY_BUTTONS_BUTTON_TEXT_SMALL_LINE_HEIGHT",
@@ -3502,6 +3500,24 @@ var _styleDictionary = {
           "textDecoration"
         ]
       }
+    }
+  },
+  "paragraphIndent": {
+    "0": {
+      "value": 0,
+      "type": "paragraphIndent",
+      "filePath": "src/input/transformed-tokens.json",
+      "isSource": true,
+      "original": {
+        "value": 0,
+        "type": "paragraphIndent"
+      },
+      "name": "SUZY_PARAGRAPH_INDENT_0",
+      "attributes": {},
+      "path": [
+        "paragraphIndent",
+        "0"
+      ]
     }
   },
   "Black": {

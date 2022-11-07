@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Mon, 31 Oct 2022 15:49:50 GMT
+  Generated on Mon, 07 Nov 2022 18:11:31 GMT
 -->
 <resources>
   <string name="suzy_token_set_order_0">colors</string>
@@ -21,6 +21,7 @@
   <string name="suzy_line_heights_5">150%</string>
   <string name="suzy_line_heights_6">145%</string>
   <string name="suzy_line_heights_7">100%</string>
+  <string name="suzy_line_heights_8">140%</string>
   <string name="suzy_font_weights_roboto_0">Medium</string>
   <string name="suzy_font_weights_roboto_1">Bold</string>
   <string name="suzy_font_weights_roboto_2">Regular</string>
@@ -38,7 +39,6 @@
   <string name="suzy_letter_spacing_2">10%</string>
   <string name="suzy_letter_spacing_3">2%</string>
   <string name="suzy_paragraph_spacing_0">0</string>
-  <string name="suzy_paragraph_indent_0">0</string>
   <string name="suzy_text_case_none">none</string>
   <string name="suzy_text_case_uppercase">uppercase</string>
   <string name="suzy_text_case_capitalize">capitalize</string>
@@ -172,7 +172,7 @@
   <string name="suzy_body_copy_assistive_text_text_decoration">none</string>
   <string name="suzy_buttons_button_text_font_family">Roboto</string>
   <string name="suzy_buttons_button_text_font_weight">Medium</string>
-  <string name="suzy_buttons_button_text_line_height">100%</string>
+  <string name="suzy_buttons_button_text_line_height">125%</string>
   <string name="suzy_buttons_button_text_font_size">16</string>
   <string name="suzy_buttons_button_text_letter_spacing">2%</string>
   <string name="suzy_buttons_button_text_paragraph_spacing">0</string>
@@ -181,7 +181,7 @@
   <string name="suzy_buttons_button_text_text_decoration">none</string>
   <string name="suzy_buttons_button_text_small_font_family">Roboto</string>
   <string name="suzy_buttons_button_text_small_font_weight">SemiBold</string>
-  <string name="suzy_buttons_button_text_small_line_height">115%</string>
+  <string name="suzy_buttons_button_text_small_line_height">140%</string>
   <string name="suzy_buttons_button_text_small_font_size">14</string>
   <string name="suzy_buttons_button_text_small_letter_spacing">2%</string>
   <string name="suzy_buttons_button_text_small_paragraph_spacing">0</string>
@@ -206,6 +206,7 @@
   <string name="suzy_links_text_link_small_paragraph_indent">0</string>
   <string name="suzy_links_text_link_small_text_case">none</string>
   <string name="suzy_links_text_link_small_text_decoration">underline</string>
+  <string name="suzy_paragraph_indent_0">0</string>
   <string name="suzy_black">#000000</string>
   <string name="suzy_white">#ffffff</string>
   <string name="suzy_grey_50">#fafafc</string>

@@ -97,6 +97,10 @@
     "7": {
       "value": "100%",
       "type": "lineHeights"
+    },
+    "8": {
+      "value": "140%",
+      "type": "lineHeights"
     }
   },
   "fontWeights": {
@@ -173,12 +177,6 @@
     "0": {
       "value": 0,
       "type": "paragraphSpacing"
-    }
-  },
-  "paragraphIndent": {
-    "0": {
-      "value": 0,
-      "type": "paragraphIndent"
     }
   },
   "textCase": {
@@ -752,7 +750,7 @@
         "type": "fontWeight"
       },
       "lineHeight": {
-        "value": "100%",
+        "value": "125%",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -790,7 +788,7 @@
         "type": "fontWeight"
       },
       "lineHeight": {
-        "value": "115%",
+        "value": "140%",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -895,6 +893,12 @@
         "value": "underline",
         "type": "textDecoration"
       }
+    }
+  },
+  "paragraphIndent": {
+    "0": {
+      "value": 0,
+      "type": "paragraphIndent"
     }
   },
   "Black": {

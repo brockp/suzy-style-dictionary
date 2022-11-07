@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 31 Oct 2022 15:49:50 GMT
+ * Generated on Mon, 07 Nov 2022 18:11:31 GMT
  */
 
 export const SUZY_TOKEN_SET_ORDER_0 = "colors";
@@ -19,6 +19,7 @@ export const SUZY_LINE_HEIGHTS_4 = "148%";
 export const SUZY_LINE_HEIGHTS_5 = "150%";
 export const SUZY_LINE_HEIGHTS_6 = "145%";
 export const SUZY_LINE_HEIGHTS_7 = "100%";
+export const SUZY_LINE_HEIGHTS_8 = "140%";
 export const SUZY_FONT_WEIGHTS_ROBOTO_0 = "Medium";
 export const SUZY_FONT_WEIGHTS_ROBOTO_1 = "Bold";
 export const SUZY_FONT_WEIGHTS_ROBOTO_2 = "Regular";
@@ -36,7 +37,6 @@ export const SUZY_LETTER_SPACING_1 = "4%";
 export const SUZY_LETTER_SPACING_2 = "10%";
 export const SUZY_LETTER_SPACING_3 = "2%";
 export const SUZY_PARAGRAPH_SPACING_0 = 0;
-export const SUZY_PARAGRAPH_INDENT_0 = 0;
 export const SUZY_TEXT_CASE_NONE = "none";
 export const SUZY_TEXT_CASE_UPPERCASE = "uppercase";
 export const SUZY_TEXT_CASE_CAPITALIZE = "capitalize";
@@ -170,7 +170,7 @@ export const SUZY_BODY_COPY_ASSISTIVE_TEXT_TEXT_CASE = "none";
 export const SUZY_BODY_COPY_ASSISTIVE_TEXT_TEXT_DECORATION = "none";
 export const SUZY_BUTTONS_BUTTON_TEXT_FONT_FAMILY = "Roboto";
 export const SUZY_BUTTONS_BUTTON_TEXT_FONT_WEIGHT = "Medium";
-export const SUZY_BUTTONS_BUTTON_TEXT_LINE_HEIGHT = "100%";
+export const SUZY_BUTTONS_BUTTON_TEXT_LINE_HEIGHT = "125%";
 export const SUZY_BUTTONS_BUTTON_TEXT_FONT_SIZE = 16;
 export const SUZY_BUTTONS_BUTTON_TEXT_LETTER_SPACING = "2%";
 export const SUZY_BUTTONS_BUTTON_TEXT_PARAGRAPH_SPACING = 0;
@@ -179,7 +179,7 @@ export const SUZY_BUTTONS_BUTTON_TEXT_TEXT_CASE = "capitalize";
 export const SUZY_BUTTONS_BUTTON_TEXT_TEXT_DECORATION = "none";
 export const SUZY_BUTTONS_BUTTON_TEXT_SMALL_FONT_FAMILY = "Roboto";
 export const SUZY_BUTTONS_BUTTON_TEXT_SMALL_FONT_WEIGHT = "SemiBold";
-export const SUZY_BUTTONS_BUTTON_TEXT_SMALL_LINE_HEIGHT = "115%";
+export const SUZY_BUTTONS_BUTTON_TEXT_SMALL_LINE_HEIGHT = "140%";
 export const SUZY_BUTTONS_BUTTON_TEXT_SMALL_FONT_SIZE = 14;
 export const SUZY_BUTTONS_BUTTON_TEXT_SMALL_LETTER_SPACING = "2%";
 export const SUZY_BUTTONS_BUTTON_TEXT_SMALL_PARAGRAPH_SPACING = 0;
@@ -204,6 +204,7 @@ export const SUZY_LINKS_TEXT_LINK_SMALL_PARAGRAPH_SPACING = 0;
 export const SUZY_LINKS_TEXT_LINK_SMALL_PARAGRAPH_INDENT = 0;
 export const SUZY_LINKS_TEXT_LINK_SMALL_TEXT_CASE = "none";
 export const SUZY_LINKS_TEXT_LINK_SMALL_TEXT_DECORATION = "underline";
+export const SUZY_PARAGRAPH_INDENT_0 = 0;
 export const SUZY_BLACK = "#000000";
 export const SUZY_WHITE = "#ffffff";
 export const SUZY_GREY_50 = "#fafafc";

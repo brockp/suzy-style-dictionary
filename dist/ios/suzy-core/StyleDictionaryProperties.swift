@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 31 Oct 2022 15:49:50 GMT
+// Generated on Mon, 07 Nov 2022 18:11:31 GMT
 
 
 import SwiftUI
@@ -97,14 +97,14 @@ public class StyleDictionaryProperties {
     public static let suzyButtonsButtonTextFontSize = 16
     public static let suzyButtonsButtonTextFontWeight = Medium
     public static let suzyButtonsButtonTextLetterSpacing = 2%
-    public static let suzyButtonsButtonTextLineHeight = 100%
+    public static let suzyButtonsButtonTextLineHeight = 125%
     public static let suzyButtonsButtonTextParagraphIndent = 0
     public static let suzyButtonsButtonTextParagraphSpacing = 0
     public static let suzyButtonsButtonTextSmallFontFamily = Roboto
     public static let suzyButtonsButtonTextSmallFontSize = 14
     public static let suzyButtonsButtonTextSmallFontWeight = SemiBold
     public static let suzyButtonsButtonTextSmallLetterSpacing = 2%
-    public static let suzyButtonsButtonTextSmallLineHeight = 115%
+    public static let suzyButtonsButtonTextSmallLineHeight = 140%
     public static let suzyButtonsButtonTextSmallParagraphIndent = 0
     public static let suzyButtonsButtonTextSmallParagraphSpacing = 0
     public static let suzyButtonsButtonTextSmallTextCase = capitalize
@@ -227,6 +227,7 @@ public class StyleDictionaryProperties {
     public static let suzyLineHeights5 = 150%
     public static let suzyLineHeights6 = 145%
     public static let suzyLineHeights7 = 100%
+    public static let suzyLineHeights8 = 140%
     public static let suzyLinksTextLinkFontFamily = Roboto
     public static let suzyLinksTextLinkFontSize = 16
     public static let suzyLinksTextLinkFontWeight = Medium

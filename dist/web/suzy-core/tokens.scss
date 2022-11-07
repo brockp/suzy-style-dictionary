@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Mon, 31 Oct 2022 15:49:50 GMT
+// Generated on Mon, 07 Nov 2022 18:11:31 GMT
 
 $suzy-token-set-order-0: colors;
 $suzy-token-set-order-1: typography;
@@ -18,6 +18,7 @@ $suzy-line-heights-4: 148%;
 $suzy-line-heights-5: 150%;
 $suzy-line-heights-6: 145%;
 $suzy-line-heights-7: 100%;
+$suzy-line-heights-8: 140%;
 $suzy-font-weights-roboto-0: Medium;
 $suzy-font-weights-roboto-1: Bold;
 $suzy-font-weights-roboto-2: Regular;
@@ -35,7 +36,6 @@ $suzy-letter-spacing-1: 4%;
 $suzy-letter-spacing-2: 10%;
 $suzy-letter-spacing-3: 2%;
 $suzy-paragraph-spacing-0: 0;
-$suzy-paragraph-indent-0: 0;
 $suzy-text-case-none: none;
 $suzy-text-case-uppercase: uppercase;
 $suzy-text-case-capitalize: capitalize;
@@ -169,7 +169,7 @@ $suzy-body-copy-assistive-text-text-case: none;
 $suzy-body-copy-assistive-text-text-decoration: none;
 $suzy-buttons-button-text-font-family: Roboto, sans-serif;
 $suzy-buttons-button-text-font-weight: Medium;
-$suzy-buttons-button-text-line-height: 100%;
+$suzy-buttons-button-text-line-height: 125%;
 $suzy-buttons-button-text-font-size: 16px;
 $suzy-buttons-button-text-letter-spacing: 2%;
 $suzy-buttons-button-text-paragraph-spacing: 0;
@@ -178,7 +178,7 @@ $suzy-buttons-button-text-text-case: capitalize;
 $suzy-buttons-button-text-text-decoration: none;
 $suzy-buttons-button-text-small-font-family: Roboto, sans-serif;
 $suzy-buttons-button-text-small-font-weight: SemiBold;
-$suzy-buttons-button-text-small-line-height: 115%;
+$suzy-buttons-button-text-small-line-height: 140%;
 $suzy-buttons-button-text-small-font-size: 14px;
 $suzy-buttons-button-text-small-letter-spacing: 2%;
 $suzy-buttons-button-text-small-paragraph-spacing: 0;
@@ -203,6 +203,7 @@ $suzy-links-text-link-small-paragraph-spacing: 0;
 $suzy-links-text-link-small-paragraph-indent: 0;
 $suzy-links-text-link-small-text-case: none;
 $suzy-links-text-link-small-text-decoration: underline;
+$suzy-paragraph-indent-0: 0;
 $suzy-black: #000000;
 $suzy-white: #ffffff;
 $suzy-grey-50: #fafafc;
