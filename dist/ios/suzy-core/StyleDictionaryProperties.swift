@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 07 Nov 2022 19:36:16 GMT
+// Generated on Mon, 07 Nov 2022 19:39:09 GMT
 
 
 import SwiftUI
@@ -139,15 +139,15 @@ public class StyleDictionaryProperties {
     public static let suzyFontWeightsRoboto2 = Regular
     public static let suzyFontWeightsRoboto3 = SemiBold
     public static let suzyGradient1 = linear-gradient(180deg, #4e1276 0%, #191460 51.56%)
-    public static let suzyGradient2 = linear-gradient(-37deg, #6923b7 0%, #6622b3 23%, #6021a9 41%, #552098 58%, #451e81 73%, #311b62 88%, #1e1945 100%)
-    public static let suzyGradient3 = linear-gradient(-28deg, #ee73bc 0%, #9347a0 0.01%, #653191 26.7%, #432187 53.97%, #331966 78.81%)
-    public static let suzyGradient4 = linear-gradient(90deg, #d42ce6 0%, #bd2adb 10%, #9e27ce 25%, #8725c4 41%, #7624bc 58%, #6c23b8 77%, #6923b7 100%)
+    public static let suzyGradient2 = linear-gradient(-28deg, #ee73bc 0%, #9347a0 0.01%, #653191 26.7%, #432187 53.97%, #331966 78.81%)
+    public static let suzyGradient3 = linear-gradient(49deg, #6923b7 0%, #6622b3 23%, #6021a9 41%, #552098 58%, #451e81 73%, #311b62 88%, #1e1945 100%)
+    public static let suzyGradient4 = linear-gradient(126deg, #6b17b8 9.57%, #6c16b8 50.81%, #9a18cc 73.39%, #b71fd9 88.2%)
     public static let suzyGreen100 = #d1fadf
     public static let suzyGreen200 = #a6f4c5
-    public static let suzyGreen300 = #96e8bc
-    public static let suzyGreen400 = #32d583
+    public static let suzyGreen300 = #a2e9c3
+    public static let suzyGreen400 = #3dd985
     public static let suzyGreen50 = #ecfdf3
-    public static let suzyGreen500 = #12b76a
+    public static let suzyGreen500 = #21c277
     public static let suzyGreen600 = #039855
     public static let suzyGreen700 = #027a48
     public static let suzyGreen800 = #05603a
@@ -254,7 +254,7 @@ public class StyleDictionaryProperties {
     public static let suzyRed300 = #fda29b
     public static let suzyRed400 = #f97066
     public static let suzyRed50 = #fef3f2
-    public static let suzyRed500 = #f04438
+    public static let suzyRed500 = #f04c41
     public static let suzyRed600 = #d92d20
     public static let suzyRed700 = #b42318
     public static let suzyRed800 = #912018
@@ -269,12 +269,22 @@ public class StyleDictionaryProperties {
     public static let suzySuzyLivePink700 = #bd4b8e
     public static let suzySuzyLivePink800 = #a43678
     public static let suzySuzyLivePink900 = #982c6c
+    public static let suzySuzyPink100 = #fad5f9
+    public static let suzySuzyPink200 = #f8c7f3
+    public static let suzySuzyPink300 = #f5abee
+    public static let suzySuzyPink400 = #f179f3
+    public static let suzySuzyPink50 = #fff2fa
+    public static let suzySuzyPink500 = #e473ee
+    public static let suzySuzyPink600 = #d159ee
+    public static let suzySuzyPink700 = #bb55df
+    public static let suzySuzyPink800 = #b03cdd
+    public static let suzySuzyPink900 = #8332a5
     public static let suzySuzyPurple100 = #f0ebfa
     public static let suzySuzyPurple200 = #e0d6f5
     public static let suzySuzyPurple300 = #c2adeb
     public static let suzySuzyPurple400 = #a383e0
     public static let suzySuzyPurple50 = #f7f2ff
-    public static let suzySuzyPurple500 = #6631cc
+    public static let suzySuzyPurple500 = #6a33d4
     public static let suzySuzyPurple600 = #4d2599
     public static let suzySuzyPurple700 = #331966
     public static let suzySuzyPurple800 = #291257

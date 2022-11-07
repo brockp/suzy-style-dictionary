@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Mon, 07 Nov 2022 19:36:16 GMT
+  Generated on Mon, 07 Nov 2022 19:39:09 GMT
 -->
 <resources>
   <string name="suzy_token_set_order_0">colors</string>
@@ -225,7 +225,7 @@
   <string name="suzy_suzy_purple_200">#e0d6f5</string>
   <string name="suzy_suzy_purple_300">#c2adeb</string>
   <string name="suzy_suzy_purple_400">#a383e0</string>
-  <string name="suzy_suzy_purple_500">#6631cc</string>
+  <string name="suzy_suzy_purple_500">#6a33d4</string>
   <string name="suzy_suzy_purple_600">#4d2599</string>
   <string name="suzy_suzy_purple_700">#331966</string>
   <string name="suzy_suzy_purple_800">#291257</string>
@@ -265,7 +265,7 @@
   <string name="suzy_red_200">#fecdca</string>
   <string name="suzy_red_300">#fda29b</string>
   <string name="suzy_red_400">#f97066</string>
-  <string name="suzy_red_500">#f04438</string>
+  <string name="suzy_red_500">#f04c41</string>
   <string name="suzy_red_600">#d92d20</string>
   <string name="suzy_red_700">#b42318</string>
   <string name="suzy_red_800">#912018</string>
@@ -283,16 +283,26 @@
   <string name="suzy_green_50">#ecfdf3</string>
   <string name="suzy_green_100">#d1fadf</string>
   <string name="suzy_green_200">#a6f4c5</string>
-  <string name="suzy_green_300">#96e8bc</string>
-  <string name="suzy_green_400">#32d583</string>
-  <string name="suzy_green_500">#12b76a</string>
+  <string name="suzy_green_300">#a2e9c3</string>
+  <string name="suzy_green_400">#3dd985</string>
+  <string name="suzy_green_500">#21c277</string>
   <string name="suzy_green_600">#039855</string>
   <string name="suzy_green_700">#027a48</string>
   <string name="suzy_green_800">#05603a</string>
   <string name="suzy_green_900">#054f31</string>
   <string name="suzy_gradient_1">linear-gradient(180deg, #4e1276 0%, #191460 51.56%)</string>
-  <string name="suzy_gradient_2">linear-gradient(-37deg, #6923b7 0%, #6622b3 23%, #6021a9 41%, #552098 58%, #451e81 73%, #311b62 88%, #1e1945 100%)</string>
-  <string name="suzy_gradient_3">linear-gradient(-28deg, #ee73bc 0%, #9347a0 0.01%, #653191 26.7%, #432187 53.97%, #331966 78.81%)</string>
-  <string name="suzy_gradient_4">linear-gradient(90deg, #d42ce6 0%, #bd2adb 10%, #9e27ce 25%, #8725c4 41%, #7624bc 58%, #6c23b8 77%, #6923b7 100%)</string>
+  <string name="suzy_gradient_2">linear-gradient(-28deg, #ee73bc 0%, #9347a0 0.01%, #653191 26.7%, #432187 53.97%, #331966 78.81%)</string>
+  <string name="suzy_gradient_3">linear-gradient(49deg, #6923b7 0%, #6622b3 23%, #6021a9 41%, #552098 58%, #451e81 73%, #311b62 88%, #1e1945 100%)</string>
+  <string name="suzy_gradient_4">linear-gradient(126deg, #6b17b8 9.57%, #6c16b8 50.81%, #9a18cc 73.39%, #b71fd9 88.2%)</string>
+  <string name="suzy_suzy_pink_50">#fff2fa</string>
+  <string name="suzy_suzy_pink_100">#fad5f9</string>
+  <string name="suzy_suzy_pink_200">#f8c7f3</string>
+  <string name="suzy_suzy_pink_300">#f5abee</string>
+  <string name="suzy_suzy_pink_400">#f179f3</string>
+  <string name="suzy_suzy_pink_500">#e473ee</string>
+  <string name="suzy_suzy_pink_600">#d159ee</string>
+  <string name="suzy_suzy_pink_700">#bb55df</string>
+  <string name="suzy_suzy_pink_800">#b03cdd</string>
+  <string name="suzy_suzy_pink_900">#8332a5</string>
   
 </resources>

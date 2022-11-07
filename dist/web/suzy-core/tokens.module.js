@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 07 Nov 2022 19:36:16 GMT
+ * Generated on Mon, 07 Nov 2022 19:39:09 GMT
  */
 
 module.exports = {
@@ -3811,12 +3811,12 @@ module.exports = {
       ]
     },
     "500": {
-      "value": "#6631cc",
+      "value": "#6a33d4",
       "type": "color",
       "filePath": "src/input/transformed-tokens.json",
       "isSource": true,
       "original": {
-        "value": "#6631cc",
+        "value": "#6a33d4",
         "type": "color"
       },
       "name": "SUZY_SUZY_PURPLE_500",
@@ -4459,12 +4459,12 @@ module.exports = {
       ]
     },
     "500": {
-      "value": "#f04438",
+      "value": "#f04c41",
       "type": "color",
       "filePath": "src/input/transformed-tokens.json",
       "isSource": true,
       "original": {
-        "value": "#f04438",
+        "value": "#f04c41",
         "type": "color"
       },
       "name": "SUZY_RED_500",
@@ -4751,12 +4751,12 @@ module.exports = {
       ]
     },
     "300": {
-      "value": "#96e8bc",
+      "value": "#a2e9c3",
       "type": "color",
       "filePath": "src/input/transformed-tokens.json",
       "isSource": true,
       "original": {
-        "value": "#96e8bc",
+        "value": "#a2e9c3",
         "type": "color"
       },
       "name": "SUZY_GREEN_300",
@@ -4767,12 +4767,12 @@ module.exports = {
       ]
     },
     "400": {
-      "value": "#32d583",
+      "value": "#3dd985",
       "type": "color",
       "filePath": "src/input/transformed-tokens.json",
       "isSource": true,
       "original": {
-        "value": "#32d583",
+        "value": "#3dd985",
         "type": "color"
       },
       "name": "SUZY_GREEN_400",
@@ -4783,12 +4783,12 @@ module.exports = {
       ]
     },
     "500": {
-      "value": "#12b76a",
+      "value": "#21c277",
       "type": "color",
       "filePath": "src/input/transformed-tokens.json",
       "isSource": true,
       "original": {
-        "value": "#12b76a",
+        "value": "#21c277",
         "type": "color"
       },
       "name": "SUZY_GREEN_500",
@@ -4881,12 +4881,12 @@ module.exports = {
       ]
     },
     "2": {
-      "value": "linear-gradient(-37deg, #6923b7 0%, #6622b3 23%, #6021a9 41%, #552098 58%, #451e81 73%, #311b62 88%, #1e1945 100%)",
+      "value": "linear-gradient(-28deg, #ee73bc 0%, #9347a0 0.01%, #653191 26.7%, #432187 53.97%, #331966 78.81%)",
       "type": "color",
       "filePath": "src/input/transformed-tokens.json",
       "isSource": true,
       "original": {
-        "value": "linear-gradient(-37deg, #6923b7 0%, #6622b3 23%, #6021a9 41%, #552098 58%, #451e81 73%, #311b62 88%, #1e1945 100%)",
+        "value": "linear-gradient(-28deg, #ee73bc 0%, #9347a0 0.01%, #653191 26.7%, #432187 53.97%, #331966 78.81%)",
         "type": "color"
       },
       "name": "SUZY_GRADIENT_2",
@@ -4897,12 +4897,12 @@ module.exports = {
       ]
     },
     "3": {
-      "value": "linear-gradient(-28deg, #ee73bc 0%, #9347a0 0.01%, #653191 26.7%, #432187 53.97%, #331966 78.81%)",
+      "value": "linear-gradient(49deg, #6923b7 0%, #6622b3 23%, #6021a9 41%, #552098 58%, #451e81 73%, #311b62 88%, #1e1945 100%)",
       "type": "color",
       "filePath": "src/input/transformed-tokens.json",
       "isSource": true,
       "original": {
-        "value": "linear-gradient(-28deg, #ee73bc 0%, #9347a0 0.01%, #653191 26.7%, #432187 53.97%, #331966 78.81%)",
+        "value": "linear-gradient(49deg, #6923b7 0%, #6622b3 23%, #6021a9 41%, #552098 58%, #451e81 73%, #311b62 88%, #1e1945 100%)",
         "type": "color"
       },
       "name": "SUZY_GRADIENT_3",
@@ -4913,12 +4913,12 @@ module.exports = {
       ]
     },
     "4": {
-      "value": "linear-gradient(90deg, #d42ce6 0%, #bd2adb 10%, #9e27ce 25%, #8725c4 41%, #7624bc 58%, #6c23b8 77%, #6923b7 100%)",
+      "value": "linear-gradient(126deg, #6b17b8 9.57%, #6c16b8 50.81%, #9a18cc 73.39%, #b71fd9 88.2%)",
       "type": "color",
       "filePath": "src/input/transformed-tokens.json",
       "isSource": true,
       "original": {
-        "value": "linear-gradient(90deg, #d42ce6 0%, #bd2adb 10%, #9e27ce 25%, #8725c4 41%, #7624bc 58%, #6c23b8 77%, #6923b7 100%)",
+        "value": "linear-gradient(126deg, #6b17b8 9.57%, #6c16b8 50.81%, #9a18cc 73.39%, #b71fd9 88.2%)",
         "type": "color"
       },
       "name": "SUZY_GRADIENT_4",
@@ -4926,6 +4926,168 @@ module.exports = {
       "path": [
         "Gradient",
         "4"
+      ]
+    }
+  },
+  "Suzy Pink": {
+    "50": {
+      "value": "#fff2fa",
+      "type": "color",
+      "filePath": "src/input/transformed-tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#fff2fa",
+        "type": "color"
+      },
+      "name": "SUZY_SUZY_PINK_50",
+      "attributes": {},
+      "path": [
+        "Suzy Pink",
+        "50"
+      ]
+    },
+    "100": {
+      "value": "#fad5f9",
+      "type": "color",
+      "filePath": "src/input/transformed-tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#fad5f9",
+        "type": "color"
+      },
+      "name": "SUZY_SUZY_PINK_100",
+      "attributes": {},
+      "path": [
+        "Suzy Pink",
+        "100"
+      ]
+    },
+    "200": {
+      "value": "#f8c7f3",
+      "type": "color",
+      "filePath": "src/input/transformed-tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#f8c7f3",
+        "type": "color"
+      },
+      "name": "SUZY_SUZY_PINK_200",
+      "attributes": {},
+      "path": [
+        "Suzy Pink",
+        "200"
+      ]
+    },
+    "300": {
+      "value": "#f5abee",
+      "type": "color",
+      "filePath": "src/input/transformed-tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#f5abee",
+        "type": "color"
+      },
+      "name": "SUZY_SUZY_PINK_300",
+      "attributes": {},
+      "path": [
+        "Suzy Pink",
+        "300"
+      ]
+    },
+    "400": {
+      "value": "#f179f3",
+      "type": "color",
+      "filePath": "src/input/transformed-tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#f179f3",
+        "type": "color"
+      },
+      "name": "SUZY_SUZY_PINK_400",
+      "attributes": {},
+      "path": [
+        "Suzy Pink",
+        "400"
+      ]
+    },
+    "500": {
+      "value": "#e473ee",
+      "type": "color",
+      "filePath": "src/input/transformed-tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#e473ee",
+        "type": "color"
+      },
+      "name": "SUZY_SUZY_PINK_500",
+      "attributes": {},
+      "path": [
+        "Suzy Pink",
+        "500"
+      ]
+    },
+    "600": {
+      "value": "#d159ee",
+      "type": "color",
+      "filePath": "src/input/transformed-tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#d159ee",
+        "type": "color"
+      },
+      "name": "SUZY_SUZY_PINK_600",
+      "attributes": {},
+      "path": [
+        "Suzy Pink",
+        "600"
+      ]
+    },
+    "700": {
+      "value": "#bb55df",
+      "type": "color",
+      "filePath": "src/input/transformed-tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#bb55df",
+        "type": "color"
+      },
+      "name": "SUZY_SUZY_PINK_700",
+      "attributes": {},
+      "path": [
+        "Suzy Pink",
+        "700"
+      ]
+    },
+    "800": {
+      "value": "#b03cdd",
+      "type": "color",
+      "filePath": "src/input/transformed-tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#b03cdd",
+        "type": "color"
+      },
+      "name": "SUZY_SUZY_PINK_800",
+      "attributes": {},
+      "path": [
+        "Suzy Pink",
+        "800"
+      ]
+    },
+    "900": {
+      "value": "#8332a5",
+      "type": "color",
+      "filePath": "src/input/transformed-tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#8332a5",
+        "type": "color"
+      },
+      "name": "SUZY_SUZY_PINK_900",
+      "attributes": {},
+      "path": [
+        "Suzy Pink",
+        "900"
       ]
     }
   }

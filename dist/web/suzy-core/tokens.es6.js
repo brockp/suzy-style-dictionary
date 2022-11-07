@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 07 Nov 2022 19:36:16 GMT
+ * Generated on Mon, 07 Nov 2022 19:39:09 GMT
  */
 
 export const SUZY_TOKEN_SET_ORDER_0 = "colors";
@@ -223,7 +223,7 @@ export const SUZY_SUZY_PURPLE_100 = "#f0ebfa";
 export const SUZY_SUZY_PURPLE_200 = "#e0d6f5";
 export const SUZY_SUZY_PURPLE_300 = "#c2adeb";
 export const SUZY_SUZY_PURPLE_400 = "#a383e0";
-export const SUZY_SUZY_PURPLE_500 = "#6631cc";
+export const SUZY_SUZY_PURPLE_500 = "#6a33d4";
 export const SUZY_SUZY_PURPLE_600 = "#4d2599";
 export const SUZY_SUZY_PURPLE_700 = "#331966";
 export const SUZY_SUZY_PURPLE_800 = "#291257";
@@ -263,7 +263,7 @@ export const SUZY_RED_100 = "#fee4e2";
 export const SUZY_RED_200 = "#fecdca";
 export const SUZY_RED_300 = "#fda29b";
 export const SUZY_RED_400 = "#f97066";
-export const SUZY_RED_500 = "#f04438";
+export const SUZY_RED_500 = "#f04c41";
 export const SUZY_RED_600 = "#d92d20";
 export const SUZY_RED_700 = "#b42318";
 export const SUZY_RED_800 = "#912018";
@@ -281,14 +281,24 @@ export const SUZY_WARM_900 = "#7a2e0e";
 export const SUZY_GREEN_50 = "#ecfdf3";
 export const SUZY_GREEN_100 = "#d1fadf";
 export const SUZY_GREEN_200 = "#a6f4c5";
-export const SUZY_GREEN_300 = "#96e8bc";
-export const SUZY_GREEN_400 = "#32d583";
-export const SUZY_GREEN_500 = "#12b76a";
+export const SUZY_GREEN_300 = "#a2e9c3";
+export const SUZY_GREEN_400 = "#3dd985";
+export const SUZY_GREEN_500 = "#21c277";
 export const SUZY_GREEN_600 = "#039855";
 export const SUZY_GREEN_700 = "#027a48";
 export const SUZY_GREEN_800 = "#05603a";
 export const SUZY_GREEN_900 = "#054f31";
 export const SUZY_GRADIENT_1 = "linear-gradient(180deg, #4e1276 0%, #191460 51.56%)";
-export const SUZY_GRADIENT_2 = "linear-gradient(-37deg, #6923b7 0%, #6622b3 23%, #6021a9 41%, #552098 58%, #451e81 73%, #311b62 88%, #1e1945 100%)";
-export const SUZY_GRADIENT_3 = "linear-gradient(-28deg, #ee73bc 0%, #9347a0 0.01%, #653191 26.7%, #432187 53.97%, #331966 78.81%)";
-export const SUZY_GRADIENT_4 = "linear-gradient(90deg, #d42ce6 0%, #bd2adb 10%, #9e27ce 25%, #8725c4 41%, #7624bc 58%, #6c23b8 77%, #6923b7 100%)";
+export const SUZY_GRADIENT_2 = "linear-gradient(-28deg, #ee73bc 0%, #9347a0 0.01%, #653191 26.7%, #432187 53.97%, #331966 78.81%)";
+export const SUZY_GRADIENT_3 = "linear-gradient(49deg, #6923b7 0%, #6622b3 23%, #6021a9 41%, #552098 58%, #451e81 73%, #311b62 88%, #1e1945 100%)";
+export const SUZY_GRADIENT_4 = "linear-gradient(126deg, #6b17b8 9.57%, #6c16b8 50.81%, #9a18cc 73.39%, #b71fd9 88.2%)";
+export const SUZY_SUZY_PINK_50 = "#fff2fa";
+export const SUZY_SUZY_PINK_100 = "#fad5f9";
+export const SUZY_SUZY_PINK_200 = "#f8c7f3";
+export const SUZY_SUZY_PINK_300 = "#f5abee";
+export const SUZY_SUZY_PINK_400 = "#f179f3";
+export const SUZY_SUZY_PINK_500 = "#e473ee";
+export const SUZY_SUZY_PINK_600 = "#d159ee";
+export const SUZY_SUZY_PINK_700 = "#bb55df";
+export const SUZY_SUZY_PINK_800 = "#b03cdd";
+export const SUZY_SUZY_PINK_900 = "#8332a5";
