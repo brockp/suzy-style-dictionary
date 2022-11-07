@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 07 Nov 2022 18:11:31 GMT
+// Generated on Mon, 07 Nov 2022 19:36:16 GMT
 
 
 import SwiftUI
@@ -248,6 +248,7 @@ public class StyleDictionaryProperties {
     public static let suzyLinksTextLinkTextDecoration = underline
     public static let suzyParagraphIndent0 = 0
     public static let suzyParagraphSpacing0 = 0
+    public static let suzyPrimaryButtonBorderRadius = 6
     public static let suzyRed100 = #fee4e2
     public static let suzyRed200 = #fecdca
     public static let suzyRed300 = #fda29b
@@ -286,6 +287,7 @@ public class StyleDictionaryProperties {
     public static let suzyTokenSetOrder0 = colors
     public static let suzyTokenSetOrder1 = typography
     public static let suzyTokenSetOrder2 = shadows
+    public static let suzyTokenSetOrder3 = borderRadius
     public static let suzyWarm100 = #fffaeb
     public static let suzyWarm200 = #fef0c7
     public static let suzyWarm300 = #fedf89

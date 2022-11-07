@@ -2,12 +2,14 @@
 
 <!--
   Do not edit directly
-  Generated on Mon, 07 Nov 2022 18:11:31 GMT
+  Generated on Mon, 07 Nov 2022 19:36:16 GMT
 -->
 <resources>
   <string name="suzy_token_set_order_0">colors</string>
   <string name="suzy_token_set_order_1">typography</string>
   <string name="suzy_token_set_order_2">shadows</string>
+  <string name="suzy_token_set_order_3">borderRadius</string>
+  <string name="suzy_primary_button_border_radius">6</string>
   <string name="suzy_elevation_lightbox">[object Object]</string>
   <string name="suzy_elevation_e1">[object Object]</string>
   <string name="suzy_elevation_e2">[object Object]</string>

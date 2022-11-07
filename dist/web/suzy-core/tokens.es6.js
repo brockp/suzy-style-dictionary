@@ -1,11 +1,13 @@
 /**
  * Do not edit directly
- * Generated on Mon, 07 Nov 2022 18:11:31 GMT
+ * Generated on Mon, 07 Nov 2022 19:36:16 GMT
  */
 
 export const SUZY_TOKEN_SET_ORDER_0 = "colors";
 export const SUZY_TOKEN_SET_ORDER_1 = "typography";
 export const SUZY_TOKEN_SET_ORDER_2 = "shadows";
+export const SUZY_TOKEN_SET_ORDER_3 = "borderRadius";
+export const SUZY_PRIMARY_BUTTON_BORDER_RADIUS = 6;
 export const SUZY_ELEVATION_LIGHTBOX = {"color":"#00000014","type":"dropShadow","x":0,"y":3,"blur":64,"spread":0};
 export const SUZY_ELEVATION_E1 = {"color":"#0000003d","type":"dropShadow","x":0,"y":0.08,"blur":3,"spread":0};
 export const SUZY_ELEVATION_E2 = {"color":"#00000029","type":"dropShadow","x":0,"y":2,"blur":6,"spread":2};

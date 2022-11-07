@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 07 Nov 2022 18:11:30 GMT
+ * Generated on Mon, 07 Nov 2022 19:36:16 GMT
  */
 
 module.exports = {
@@ -52,7 +52,40 @@ module.exports = {
         "tokenSetOrder",
         "2"
       ]
+    },
+    "3": {
+      "value": "borderRadius",
+      "type": "other",
+      "filePath": "src/input/transformed-tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "borderRadius",
+        "type": "other"
+      },
+      "name": "SUZY_TOKEN_SET_ORDER_3",
+      "attributes": {},
+      "path": [
+        "tokenSetOrder",
+        "3"
+      ]
     }
+  },
+  "primary-button-border-radius": {
+    "value": 6,
+    "type": "borderRadius",
+    "description": "Border radius for primary button component.",
+    "filePath": "src/input/transformed-tokens.json",
+    "isSource": true,
+    "original": {
+      "value": 6,
+      "type": "borderRadius",
+      "description": "Border radius for primary button component."
+    },
+    "name": "SUZY_PRIMARY_BUTTON_BORDER_RADIUS",
+    "attributes": {},
+    "path": [
+      "primary-button-border-radius"
+    ]
   },
   "Elevation": {
     "Lightbox": {
