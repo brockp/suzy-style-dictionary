@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 07 Nov 2022 19:39:09 GMT
+ * Generated on Tue, 08 Nov 2022 18:09:14 GMT
  */
 
 var _styleDictionary = {
@@ -68,7 +68,130 @@ var _styleDictionary = {
         "tokenSetOrder",
         "3"
       ]
+    },
+    "4": {
+      "value": "primaryButton",
+      "type": "other",
+      "filePath": "src/input/transformed-tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "primaryButton",
+        "type": "other"
+      },
+      "name": "SUZY_TOKEN_SET_ORDER_4",
+      "attributes": {},
+      "path": [
+        "tokenSetOrder",
+        "4"
+      ]
     }
+  },
+  "primary-button-background-default": {
+    "value": "#6a33d4",
+    "type": "color",
+    "description": "Default background color for the primary button component",
+    "filePath": "src/input/transformed-tokens.json",
+    "isSource": true,
+    "original": {
+      "value": "#6a33d4",
+      "type": "color",
+      "description": "Default background color for the primary button component"
+    },
+    "name": "SUZY_PRIMARY_BUTTON_BACKGROUND_DEFAULT",
+    "attributes": {},
+    "path": [
+      "primary-button-background-default"
+    ]
+  },
+  "primary-button-font-family": {
+    "value": "Roboto",
+    "type": "fontFamilies",
+    "filePath": "src/input/transformed-tokens.json",
+    "isSource": true,
+    "original": {
+      "value": "Roboto",
+      "type": "fontFamilies"
+    },
+    "name": "SUZY_PRIMARY_BUTTON_FONT_FAMILY",
+    "attributes": {},
+    "path": [
+      "primary-button-font-family"
+    ]
+  },
+  "primary-button-font-weight": {
+    "value": "Medium",
+    "type": "fontWeights",
+    "filePath": "src/input/transformed-tokens.json",
+    "isSource": true,
+    "original": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "name": "SUZY_PRIMARY_BUTTON_FONT_WEIGHT",
+    "attributes": {},
+    "path": [
+      "primary-button-font-weight"
+    ]
+  },
+  "primary-button-line-height": {
+    "value": "125%",
+    "type": "lineHeights",
+    "filePath": "src/input/transformed-tokens.json",
+    "isSource": true,
+    "original": {
+      "value": "125%",
+      "type": "lineHeights"
+    },
+    "name": "SUZY_PRIMARY_BUTTON_LINE_HEIGHT",
+    "attributes": {},
+    "path": [
+      "primary-button-line-height"
+    ]
+  },
+  "primary-button-letter-spacing": {
+    "value": "2%",
+    "type": "letterSpacing",
+    "filePath": "src/input/transformed-tokens.json",
+    "isSource": true,
+    "original": {
+      "value": "2%",
+      "type": "letterSpacing"
+    },
+    "name": "SUZY_PRIMARY_BUTTON_LETTER_SPACING",
+    "attributes": {},
+    "path": [
+      "primary-button-letter-spacing"
+    ]
+  },
+  "primary-button-text-color": {
+    "value": "#ffffff",
+    "type": "color",
+    "filePath": "src/input/transformed-tokens.json",
+    "isSource": true,
+    "original": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "name": "SUZY_PRIMARY_BUTTON_TEXT_COLOR",
+    "attributes": {},
+    "path": [
+      "primary-button-text-color"
+    ]
+  },
+  "primary-button-text-case": {
+    "value": "capitalize",
+    "type": "textCase",
+    "filePath": "src/input/transformed-tokens.json",
+    "isSource": true,
+    "original": {
+      "value": "capitalize",
+      "type": "textCase"
+    },
+    "name": "SUZY_PRIMARY_BUTTON_TEXT_CASE",
+    "attributes": {},
+    "path": [
+      "primary-button-text-case"
+    ]
   },
   "primary-button-border-radius": {
     "value": 6,

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 07 Nov 2022 19:39:09 GMT
+// Generated on Tue, 08 Nov 2022 18:09:14 GMT
 
 
 import SwiftUI
@@ -248,7 +248,14 @@ public class StyleDictionaryProperties {
     public static let suzyLinksTextLinkTextDecoration = underline
     public static let suzyParagraphIndent0 = 0
     public static let suzyParagraphSpacing0 = 0
+    public static let suzyPrimaryButtonBackgroundDefault = #6a33d4
     public static let suzyPrimaryButtonBorderRadius = 6
+    public static let suzyPrimaryButtonFontFamily = Roboto
+    public static let suzyPrimaryButtonFontWeight = Medium
+    public static let suzyPrimaryButtonLetterSpacing = 2%
+    public static let suzyPrimaryButtonLineHeight = 125%
+    public static let suzyPrimaryButtonTextCase = capitalize
+    public static let suzyPrimaryButtonTextColor = #ffffff
     public static let suzyRed100 = #fee4e2
     public static let suzyRed200 = #fecdca
     public static let suzyRed300 = #fda29b
@@ -298,6 +305,7 @@ public class StyleDictionaryProperties {
     public static let suzyTokenSetOrder1 = typography
     public static let suzyTokenSetOrder2 = shadows
     public static let suzyTokenSetOrder3 = borderRadius
+    public static let suzyTokenSetOrder4 = primaryButton
     public static let suzyWarm100 = #fffaeb
     public static let suzyWarm200 = #fef0c7
     public static let suzyWarm300 = #fedf89

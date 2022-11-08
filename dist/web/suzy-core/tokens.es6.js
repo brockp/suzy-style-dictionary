@@ -1,12 +1,20 @@
 /**
  * Do not edit directly
- * Generated on Mon, 07 Nov 2022 19:39:09 GMT
+ * Generated on Tue, 08 Nov 2022 18:09:14 GMT
  */
 
 export const SUZY_TOKEN_SET_ORDER_0 = "colors";
 export const SUZY_TOKEN_SET_ORDER_1 = "typography";
 export const SUZY_TOKEN_SET_ORDER_2 = "shadows";
 export const SUZY_TOKEN_SET_ORDER_3 = "borderRadius";
+export const SUZY_TOKEN_SET_ORDER_4 = "primaryButton";
+export const SUZY_PRIMARY_BUTTON_BACKGROUND_DEFAULT = "#6a33d4";
+export const SUZY_PRIMARY_BUTTON_FONT_FAMILY = "Roboto";
+export const SUZY_PRIMARY_BUTTON_FONT_WEIGHT = "Medium";
+export const SUZY_PRIMARY_BUTTON_LINE_HEIGHT = "125%";
+export const SUZY_PRIMARY_BUTTON_LETTER_SPACING = "2%";
+export const SUZY_PRIMARY_BUTTON_TEXT_COLOR = "#ffffff";
+export const SUZY_PRIMARY_BUTTON_TEXT_CASE = "capitalize";
 export const SUZY_PRIMARY_BUTTON_BORDER_RADIUS = 6;
 export const SUZY_ELEVATION_LIGHTBOX = {"color":"#00000014","type":"dropShadow","x":0,"y":3,"blur":64,"spread":0};
 export const SUZY_ELEVATION_E1 = {"color":"#0000003d","type":"dropShadow","x":0,"y":0.08,"blur":3,"spread":0};

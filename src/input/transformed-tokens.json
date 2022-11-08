@@ -15,7 +15,40 @@
     "3": {
       "value": "borderRadius",
       "type": "other"
+    },
+    "4": {
+      "value": "primaryButton",
+      "type": "other"
     }
+  },
+  "primary-button-background-default": {
+    "value": "#6a33d4",
+    "type": "color",
+    "description": "Default background color for the primary button component"
+  },
+  "primary-button-font-family": {
+    "value": "Roboto",
+    "type": "fontFamilies"
+  },
+  "primary-button-font-weight": {
+    "value": "Medium",
+    "type": "fontWeights"
+  },
+  "primary-button-line-height": {
+    "value": "125%",
+    "type": "lineHeights"
+  },
+  "primary-button-letter-spacing": {
+    "value": "2%",
+    "type": "letterSpacing"
+  },
+  "primary-button-text-color": {
+    "value": "#ffffff",
+    "type": "color"
+  },
+  "primary-button-text-case": {
+    "value": "capitalize",
+    "type": "textCase"
   },
   "primary-button-border-radius": {
     "value": 6,
