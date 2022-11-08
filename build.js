@@ -210,8 +210,49 @@ StyleDictionaryPackage.registerTransform({
 	name: "+/sans-serif",
 	type: "value",
 	transitive: true,
-	matcher: (token) => ["fontFamily"].includes(token.type),
+	matcher: (token) =>
+		[
+			"Heading",
+			"Body Copy",
+			"Buttons",
+			"Links",
+			"fontFamily",
+			"fontFamilies"
+		].includes(token.type),
 	transformer: (token) => token.value + ", sans-serif"
+});
+
+StyleDictionaryPackage.registerTransform({
+	name: "font-weight",
+	type: "value",
+	transitive: true,
+	matcher: (token) =>
+		[
+			"Heading",
+			"Body Copy",
+			"Buttons",
+			"Links",
+			"fontWeights",
+			"fontWeight"
+		].includes(token.type),
+	transformer: function (token) {
+		if (token.value === "Medium") {
+			token.value = 500;
+			return token.value;
+		}
+		if (token.value === "Bold") {
+			token.value = 700;
+			return token.value;
+		}
+		if (token.value === "SemiBold") {
+			token.value = 600;
+			return token.value;
+		}
+		if (token.value === "Regular") {
+			token.value = 400;
+			return token.value;
+		}
+	}
 });
 
 StyleDictionaryPackage.registerTransformGroup({
@@ -250,7 +291,8 @@ StyleDictionaryPackage.registerTransformGroup({
 		"color/css",
 		"shadow/scss",
 		"+/px",
-		"+/sans-serif"
+		"+/sans-serif",
+		"font-weight"
 	]
 });
 
@@ -264,7 +306,8 @@ StyleDictionaryPackage.registerTransformGroup({
 		"color/css",
 		"+/px",
 		"+/sans-serif",
-		"shadow/scss"
+		"shadow/scss",
+		"font-weight"
 	]
 });
 
