@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Tue, 08 Nov 2022 18:09:14 GMT
+  Generated on Tue, 08 Nov 2022 18:38:42 GMT
 -->
 <resources>
   <string name="suzy_token_set_order_0">colors</string>
@@ -11,12 +11,13 @@
   <string name="suzy_token_set_order_3">borderRadius</string>
   <string name="suzy_token_set_order_4">primaryButton</string>
   <string name="suzy_primary_button_background_default">#6a33d4</string>
-  <string name="suzy_primary_button_font_family">Roboto</string>
-  <string name="suzy_primary_button_font_weight">Medium</string>
+  <string name="suzy_primary_button_font_family">"Inter", Roboto, sans-serif</string>
+  <string name="suzy_primary_button_font_weight">400</string>
   <string name="suzy_primary_button_line_height">125%</string>
-  <string name="suzy_primary_button_letter_spacing">2%</string>
+  <string name="suzy_primary_button_letter_spacing">0.02em</string>
   <string name="suzy_primary_button_text_color">#ffffff</string>
   <string name="suzy_primary_button_text_case">capitalize</string>
+  <string name="suzy_primary_button_border_width">0</string>
   <string name="suzy_primary_button_border_radius">6</string>
   <string name="suzy_elevation_lightbox">[object Object]</string>
   <string name="suzy_elevation_e1">[object Object]</string>

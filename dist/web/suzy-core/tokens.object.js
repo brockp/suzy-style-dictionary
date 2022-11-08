@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 08 Nov 2022 18:09:14 GMT
+ * Generated on Tue, 08 Nov 2022 18:38:42 GMT
  */
 
 var _styleDictionary = {
@@ -104,12 +104,12 @@ var _styleDictionary = {
     ]
   },
   "primary-button-font-family": {
-    "value": "Roboto",
+    "value": "\"Inter\", Roboto, sans-serif",
     "type": "fontFamilies",
     "filePath": "src/input/transformed-tokens.json",
     "isSource": true,
     "original": {
-      "value": "Roboto",
+      "value": "\"Inter\", Roboto, sans-serif",
       "type": "fontFamilies"
     },
     "name": "SUZY_PRIMARY_BUTTON_FONT_FAMILY",
@@ -119,12 +119,12 @@ var _styleDictionary = {
     ]
   },
   "primary-button-font-weight": {
-    "value": "Medium",
+    "value": 400,
     "type": "fontWeights",
     "filePath": "src/input/transformed-tokens.json",
     "isSource": true,
     "original": {
-      "value": "Medium",
+      "value": 400,
       "type": "fontWeights"
     },
     "name": "SUZY_PRIMARY_BUTTON_FONT_WEIGHT",
@@ -149,12 +149,12 @@ var _styleDictionary = {
     ]
   },
   "primary-button-letter-spacing": {
-    "value": "2%",
+    "value": "0.02em",
     "type": "letterSpacing",
     "filePath": "src/input/transformed-tokens.json",
     "isSource": true,
     "original": {
-      "value": "2%",
+      "value": "0.02em",
       "type": "letterSpacing"
     },
     "name": "SUZY_PRIMARY_BUTTON_LETTER_SPACING",
@@ -191,6 +191,21 @@ var _styleDictionary = {
     "attributes": {},
     "path": [
       "primary-button-text-case"
+    ]
+  },
+  "primary-button-border-width": {
+    "value": 0,
+    "type": "borderWidth",
+    "filePath": "src/input/transformed-tokens.json",
+    "isSource": true,
+    "original": {
+      "value": 0,
+      "type": "borderWidth"
+    },
+    "name": "SUZY_PRIMARY_BUTTON_BORDER_WIDTH",
+    "attributes": {},
+    "path": [
+      "primary-button-border-width"
     ]
   },
   "primary-button-border-radius": {

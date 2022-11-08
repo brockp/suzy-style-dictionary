@@ -27,11 +27,11 @@
     "description": "Default background color for the primary button component"
   },
   "primary-button-font-family": {
-    "value": "Roboto",
+    "value": "\"Inter\", Roboto, sans-serif",
     "type": "fontFamilies"
   },
   "primary-button-font-weight": {
-    "value": "Medium",
+    "value": 400,
     "type": "fontWeights"
   },
   "primary-button-line-height": {
@@ -39,7 +39,7 @@
     "type": "lineHeights"
   },
   "primary-button-letter-spacing": {
-    "value": "2%",
+    "value": "0.02em",
     "type": "letterSpacing"
   },
   "primary-button-text-color": {
@@ -49,6 +49,10 @@
   "primary-button-text-case": {
     "value": "capitalize",
     "type": "textCase"
+  },
+  "primary-button-border-width": {
+    "value": 0,
+    "type": "borderWidth"
   },
   "primary-button-border-radius": {
     "value": 6,

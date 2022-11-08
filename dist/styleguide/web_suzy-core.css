@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 08 Nov 2022 18:09:14 GMT
+ * Generated on Tue, 08 Nov 2022 18:38:42 GMT
  */
 
 :root {
@@ -10,12 +10,13 @@
   --suzy-token-set-order-3: borderRadius;
   --suzy-token-set-order-4: primaryButton;
   --suzy-primary-button-background-default: #6a33d4;
-  --suzy-primary-button-font-family: Roboto;
-  --suzy-primary-button-font-weight: Medium;
+  --suzy-primary-button-font-family: "Inter", Roboto, sans-serif;
+  --suzy-primary-button-font-weight: 400;
   --suzy-primary-button-line-height: 125%;
-  --suzy-primary-button-letter-spacing: 2%;
+  --suzy-primary-button-letter-spacing: 0.02em;
   --suzy-primary-button-text-color: #ffffff;
   --suzy-primary-button-text-case: capitalize;
+  --suzy-primary-button-border-width: 0;
   --suzy-primary-button-border-radius: 6;
   --suzy-elevation-lightbox: [object Object];
   --suzy-elevation-e1: [object Object];
