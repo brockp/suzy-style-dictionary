@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Tue, 08 Nov 2022 18:38:42 GMT
+  Generated on Tue, 08 Nov 2022 19:26:35 GMT
 -->
 <resources>
   <string name="suzy_token_set_order_0">colors</string>
@@ -18,7 +18,7 @@
   <string name="suzy_primary_button_text_color">#ffffff</string>
   <string name="suzy_primary_button_text_case">capitalize</string>
   <string name="suzy_primary_button_border_width">0</string>
-  <string name="suzy_primary_button_border_radius">6</string>
+  <string name="suzy_primary_button_border_radius">8</string>
   <string name="suzy_elevation_lightbox">[object Object]</string>
   <string name="suzy_elevation_e1">[object Object]</string>
   <string name="suzy_elevation_e2">[object Object]</string>

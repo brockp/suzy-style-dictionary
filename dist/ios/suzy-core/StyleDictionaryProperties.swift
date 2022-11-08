@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 08 Nov 2022 18:38:42 GMT
+// Generated on Tue, 08 Nov 2022 19:26:35 GMT
 
 
 import SwiftUI
@@ -249,7 +249,7 @@ public class StyleDictionaryProperties {
     public static let suzyParagraphIndent0 = 0
     public static let suzyParagraphSpacing0 = 0
     public static let suzyPrimaryButtonBackgroundDefault = #6a33d4
-    public static let suzyPrimaryButtonBorderRadius = 6
+    public static let suzyPrimaryButtonBorderRadius = 8
     public static let suzyPrimaryButtonBorderWidth = 0
     public static let suzyPrimaryButtonFontFamily = "Inter", Roboto, sans-serif
     public static let suzyPrimaryButtonFontWeight = 400

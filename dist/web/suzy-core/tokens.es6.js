@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 08 Nov 2022 18:38:42 GMT
+ * Generated on Tue, 08 Nov 2022 19:26:35 GMT
  */
 
 export const SUZY_TOKEN_SET_ORDER_0 = "colors";
@@ -16,7 +16,7 @@ export const SUZY_PRIMARY_BUTTON_LETTER_SPACING = "0.02em";
 export const SUZY_PRIMARY_BUTTON_TEXT_COLOR = "#ffffff";
 export const SUZY_PRIMARY_BUTTON_TEXT_CASE = "capitalize";
 export const SUZY_PRIMARY_BUTTON_BORDER_WIDTH = 0;
-export const SUZY_PRIMARY_BUTTON_BORDER_RADIUS = 6;
+export const SUZY_PRIMARY_BUTTON_BORDER_RADIUS = 8;
 export const SUZY_ELEVATION_LIGHTBOX = {"color":"#00000014","type":"dropShadow","x":0,"y":3,"blur":64,"spread":0};
 export const SUZY_ELEVATION_E1 = {"color":"#0000003d","type":"dropShadow","x":0,"y":0.08,"blur":3,"spread":0};
 export const SUZY_ELEVATION_E2 = {"color":"#00000029","type":"dropShadow","x":0,"y":2,"blur":6,"spread":2};

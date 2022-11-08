@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 08 Nov 2022 18:38:42 GMT
+ * Generated on Tue, 08 Nov 2022 19:26:35 GMT
  */
 
 module.exports = {
@@ -209,13 +209,13 @@ module.exports = {
     ]
   },
   "primary-button-border-radius": {
-    "value": 6,
+    "value": 8,
     "type": "borderRadius",
     "description": "Border radius for primary button component.",
     "filePath": "src/input/transformed-tokens.json",
     "isSource": true,
     "original": {
-      "value": 6,
+      "value": 8,
       "type": "borderRadius",
       "description": "Border radius for primary button component."
     },

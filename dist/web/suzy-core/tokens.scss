@@ -1,26 +1,26 @@
+
 // Do not edit directly
-// Generated on Tue, 08 Nov 2022 18:38:42 GMT
+// Generated on Tue, 08 Nov 2022 19:26:35 GMT
 
 $suzy-token-set-order-0: colors;
 $suzy-token-set-order-1: typography;
 $suzy-token-set-order-2: shadows;
 $suzy-token-set-order-3: borderRadius;
-$suzy-token-set-order-4: primaryButtons;
+$suzy-token-set-order-4: primaryButton;
 $suzy-primary-button-background-default: #6a33d4;
-$suzy-primary-button-font-family: "Inter", Roboto,
-	sans-serif;
-$suzy-primary-button-font-weight: 400;
+$suzy-primary-button-font-family: "Inter", Roboto, sans-serif, sans-serif;
+$suzy-primary-button-font-weight: undefined;
 $suzy-primary-button-line-height: 125%;
 $suzy-primary-button-letter-spacing: 0.02em;
 $suzy-primary-button-text-color: #ffffff;
 $suzy-primary-button-text-case: capitalize;
 $suzy-primary-button-border-width: 0;
-$suzy-primary-button-border-radius: 6px;
+$suzy-primary-button-border-radius: 8px;
 $suzy-elevation-lightbox: 0px 3px 64px 0px #00000014;
 $suzy-elevation-e1: 0px 0.08px 3px 0px #0000003d;
 $suzy-elevation-e2: 0px 2px 6px 2px #00000029;
 $suzy-elevation-e3: 0px 3px 6px 0px #0000003d;
-$suzy-font-families-roboto: Roboto;
+$suzy-font-families-roboto: Roboto, sans-serif;
 $suzy-line-heights-0: 117%;
 $suzy-line-heights-1: 125%;
 $suzy-line-heights-2: 135%;
@@ -30,10 +30,10 @@ $suzy-line-heights-5: 150%;
 $suzy-line-heights-6: 145%;
 $suzy-line-heights-7: 100%;
 $suzy-line-heights-8: 140%;
-$suzy-font-weights-roboto-0: Medium;
-$suzy-font-weights-roboto-1: Bold;
-$suzy-font-weights-roboto-2: Regular;
-$suzy-font-weights-roboto-3: SemiBold;
+$suzy-font-weights-roboto-0: 500;
+$suzy-font-weights-roboto-1: 700;
+$suzy-font-weights-roboto-2: 400;
+$suzy-font-weights-roboto-3: 600;
 $suzy-font-size-0: 10px;
 $suzy-font-size-1: 12px;
 $suzy-font-size-2: 14px;
@@ -53,7 +53,7 @@ $suzy-text-case-capitalize: capitalize;
 $suzy-text-decoration-none: none;
 $suzy-text-decoration-underline: underline;
 $suzy-heading-h1-font-family: Roboto, sans-serif;
-$suzy-heading-h1-font-weight: Medium;
+$suzy-heading-h1-font-weight: 500;
 $suzy-heading-h1-line-height: 117%;
 $suzy-heading-h1-font-size: 48px;
 $suzy-heading-h1-letter-spacing: 0%;
@@ -62,7 +62,7 @@ $suzy-heading-h1-paragraph-indent: 0;
 $suzy-heading-h1-text-case: none;
 $suzy-heading-h1-text-decoration: none;
 $suzy-heading-h2-font-family: Roboto, sans-serif;
-$suzy-heading-h2-font-weight: Medium;
+$suzy-heading-h2-font-weight: 500;
 $suzy-heading-h2-line-height: 125%;
 $suzy-heading-h2-font-size: 32px;
 $suzy-heading-h2-letter-spacing: 0%;
@@ -71,7 +71,7 @@ $suzy-heading-h2-paragraph-indent: 0;
 $suzy-heading-h2-text-case: none;
 $suzy-heading-h2-text-decoration: none;
 $suzy-heading-h3-font-family: Roboto, sans-serif;
-$suzy-heading-h3-font-weight: Medium;
+$suzy-heading-h3-font-weight: 500;
 $suzy-heading-h3-line-height: 135%;
 $suzy-heading-h3-font-size: 24px;
 $suzy-heading-h3-letter-spacing: 0%;
@@ -80,7 +80,7 @@ $suzy-heading-h3-paragraph-indent: 0;
 $suzy-heading-h3-text-case: none;
 $suzy-heading-h3-text-decoration: none;
 $suzy-heading-h4-font-family: Roboto, sans-serif;
-$suzy-heading-h4-font-weight: Bold;
+$suzy-heading-h4-font-weight: 700;
 $suzy-heading-h4-line-height: 135%;
 $suzy-heading-h4-font-size: 18px;
 $suzy-heading-h4-letter-spacing: 0%;
@@ -89,7 +89,7 @@ $suzy-heading-h4-paragraph-indent: 0;
 $suzy-heading-h4-text-case: none;
 $suzy-heading-h4-text-decoration: none;
 $suzy-heading-h5-font-family: Roboto, sans-serif;
-$suzy-heading-h5-font-weight: Bold;
+$suzy-heading-h5-font-weight: 700;
 $suzy-heading-h5-line-height: 115%;
 $suzy-heading-h5-font-size: 14px;
 $suzy-heading-h5-letter-spacing: 4%;
@@ -98,7 +98,7 @@ $suzy-heading-h5-paragraph-indent: 0;
 $suzy-heading-h5-text-case: uppercase;
 $suzy-heading-h5-text-decoration: none;
 $suzy-heading-eyebrow-font-family: Roboto, sans-serif;
-$suzy-heading-eyebrow-font-weight: Medium;
+$suzy-heading-eyebrow-font-weight: 500;
 $suzy-heading-eyebrow-line-height: 135%;
 $suzy-heading-eyebrow-font-size: 12px;
 $suzy-heading-eyebrow-letter-spacing: 10%;
@@ -107,7 +107,7 @@ $suzy-heading-eyebrow-paragraph-indent: 0;
 $suzy-heading-eyebrow-text-case: uppercase;
 $suzy-heading-eyebrow-text-decoration: none;
 $suzy-body-copy-large-font-family: Roboto, sans-serif;
-$suzy-body-copy-large-font-weight: Regular;
+$suzy-body-copy-large-font-weight: 400;
 $suzy-body-copy-large-line-height: 148%;
 $suzy-body-copy-large-font-size: 18px;
 $suzy-body-copy-large-letter-spacing: 0%;
@@ -116,7 +116,7 @@ $suzy-body-copy-large-paragraph-indent: 0;
 $suzy-body-copy-large-text-case: none;
 $suzy-body-copy-large-text-decoration: none;
 $suzy-body-copy-regular-font-family: Roboto, sans-serif;
-$suzy-body-copy-regular-font-weight: Regular;
+$suzy-body-copy-regular-font-weight: 400;
 $suzy-body-copy-regular-line-height: 150%;
 $suzy-body-copy-regular-font-size: 16px;
 $suzy-body-copy-regular-letter-spacing: 0%;
@@ -125,7 +125,7 @@ $suzy-body-copy-regular-paragraph-indent: 0;
 $suzy-body-copy-regular-text-case: none;
 $suzy-body-copy-regular-text-decoration: none;
 $suzy-body-copy-bold-font-family: Roboto, sans-serif;
-$suzy-body-copy-bold-font-weight: Bold;
+$suzy-body-copy-bold-font-weight: 700;
 $suzy-body-copy-bold-line-height: 150%;
 $suzy-body-copy-bold-font-size: 16px;
 $suzy-body-copy-bold-letter-spacing: 0%;
@@ -134,7 +134,7 @@ $suzy-body-copy-bold-paragraph-indent: 0;
 $suzy-body-copy-bold-text-case: none;
 $suzy-body-copy-bold-text-decoration: none;
 $suzy-body-copy-medium-font-family: Roboto, sans-serif;
-$suzy-body-copy-medium-font-weight: Medium;
+$suzy-body-copy-medium-font-weight: 500;
 $suzy-body-copy-medium-line-height: 150%;
 $suzy-body-copy-medium-font-size: 16px;
 $suzy-body-copy-medium-letter-spacing: 0%;
@@ -143,7 +143,7 @@ $suzy-body-copy-medium-paragraph-indent: 0;
 $suzy-body-copy-medium-text-case: none;
 $suzy-body-copy-medium-text-decoration: none;
 $suzy-body-copy-small-font-family: Roboto, sans-serif;
-$suzy-body-copy-small-font-weight: Regular;
+$suzy-body-copy-small-font-weight: 400;
 $suzy-body-copy-small-line-height: 145%;
 $suzy-body-copy-small-font-size: 14px;
 $suzy-body-copy-small-letter-spacing: 0%;
@@ -152,7 +152,7 @@ $suzy-body-copy-small-paragraph-indent: 0;
 $suzy-body-copy-small-text-case: none;
 $suzy-body-copy-small-text-decoration: none;
 $suzy-body-copy-small-bold-font-family: Roboto, sans-serif;
-$suzy-body-copy-small-bold-font-weight: Bold;
+$suzy-body-copy-small-bold-font-weight: 700;
 $suzy-body-copy-small-bold-line-height: 145%;
 $suzy-body-copy-small-bold-font-size: 14px;
 $suzy-body-copy-small-bold-letter-spacing: 0%;
@@ -161,7 +161,7 @@ $suzy-body-copy-small-bold-paragraph-indent: 0;
 $suzy-body-copy-small-bold-text-case: none;
 $suzy-body-copy-small-bold-text-decoration: none;
 $suzy-body-copy-caption-font-family: Roboto, sans-serif;
-$suzy-body-copy-caption-font-weight: Regular;
+$suzy-body-copy-caption-font-weight: 400;
 $suzy-body-copy-caption-line-height: 135%;
 $suzy-body-copy-caption-font-size: 12px;
 $suzy-body-copy-caption-letter-spacing: 0%;
@@ -169,9 +169,8 @@ $suzy-body-copy-caption-paragraph-spacing: 0;
 $suzy-body-copy-caption-paragraph-indent: 0;
 $suzy-body-copy-caption-text-case: none;
 $suzy-body-copy-caption-text-decoration: none;
-$suzy-body-copy-assistive-text-font-family: Roboto,
-	sans-serif;
-$suzy-body-copy-assistive-text-font-weight: Regular;
+$suzy-body-copy-assistive-text-font-family: Roboto, sans-serif;
+$suzy-body-copy-assistive-text-font-weight: 400;
 $suzy-body-copy-assistive-text-line-height: 100%;
 $suzy-body-copy-assistive-text-font-size: 10px;
 $suzy-body-copy-assistive-text-letter-spacing: 0%;
@@ -180,7 +179,7 @@ $suzy-body-copy-assistive-text-paragraph-indent: 0;
 $suzy-body-copy-assistive-text-text-case: none;
 $suzy-body-copy-assistive-text-text-decoration: none;
 $suzy-buttons-button-text-font-family: Roboto, sans-serif;
-$suzy-buttons-button-text-font-weight: Medium;
+$suzy-buttons-button-text-font-weight: 500;
 $suzy-buttons-button-text-line-height: 125%;
 $suzy-buttons-button-text-font-size: 16px;
 $suzy-buttons-button-text-letter-spacing: 2%;
@@ -188,9 +187,8 @@ $suzy-buttons-button-text-paragraph-spacing: 0;
 $suzy-buttons-button-text-paragraph-indent: 0;
 $suzy-buttons-button-text-text-case: capitalize;
 $suzy-buttons-button-text-text-decoration: none;
-$suzy-buttons-button-text-small-font-family: Roboto,
-	sans-serif;
-$suzy-buttons-button-text-small-font-weight: SemiBold;
+$suzy-buttons-button-text-small-font-family: Roboto, sans-serif;
+$suzy-buttons-button-text-small-font-weight: 600;
 $suzy-buttons-button-text-small-line-height: 140%;
 $suzy-buttons-button-text-small-font-size: 14px;
 $suzy-buttons-button-text-small-letter-spacing: 2%;
@@ -199,7 +197,7 @@ $suzy-buttons-button-text-small-paragraph-indent: 0;
 $suzy-buttons-button-text-small-text-case: capitalize;
 $suzy-buttons-button-text-small-text-decoration: none;
 $suzy-links-text-link-font-family: Roboto, sans-serif;
-$suzy-links-text-link-font-weight: Medium;
+$suzy-links-text-link-font-weight: 500;
 $suzy-links-text-link-line-height: 145%;
 $suzy-links-text-link-font-size: 16px;
 $suzy-links-text-link-letter-spacing: 0%;
@@ -208,7 +206,7 @@ $suzy-links-text-link-paragraph-indent: 0;
 $suzy-links-text-link-text-case: none;
 $suzy-links-text-link-text-decoration: underline;
 $suzy-links-text-link-small-font-family: Roboto, sans-serif;
-$suzy-links-text-link-small-font-weight: Medium;
+$suzy-links-text-link-small-font-weight: 500;
 $suzy-links-text-link-small-line-height: 145%;
 $suzy-links-text-link-small-font-size: 14px;
 $suzy-links-text-link-small-letter-spacing: 0%;
@@ -298,36 +296,10 @@ $suzy-green-600: #039855;
 $suzy-green-700: #027a48;
 $suzy-green-800: #05603a;
 $suzy-green-900: #054f31;
-$suzy-gradient-1: linear-gradient(
-	180deg,
-	#4e1276 0%,
-	#191460 51.56%
-);
-$suzy-gradient-2: linear-gradient(
-	-28deg,
-	#ee73bc 0%,
-	#9347a0 0.01%,
-	#653191 26.7%,
-	#432187 53.97%,
-	#331966 78.81%
-);
-$suzy-gradient-3: linear-gradient(
-	49deg,
-	#6923b7 0%,
-	#6622b3 23%,
-	#6021a9 41%,
-	#552098 58%,
-	#451e81 73%,
-	#311b62 88%,
-	#1e1945 100%
-);
-$suzy-gradient-4: linear-gradient(
-	126deg,
-	#6b17b8 9.57%,
-	#6c16b8 50.81%,
-	#9a18cc 73.39%,
-	#b71fd9 88.2%
-);
+$suzy-gradient-1: linear-gradient(180deg, #4e1276 0%, #191460 51.56%);
+$suzy-gradient-2: linear-gradient(-28deg, #ee73bc 0%, #9347a0 0.01%, #653191 26.7%, #432187 53.97%, #331966 78.81%);
+$suzy-gradient-3: linear-gradient(49deg, #6923b7 0%, #6622b3 23%, #6021a9 41%, #552098 58%, #451e81 73%, #311b62 88%, #1e1945 100%);
+$suzy-gradient-4: linear-gradient(126deg, #6b17b8 9.57%, #6c16b8 50.81%, #9a18cc 73.39%, #b71fd9 88.2%);
 $suzy-suzy-pink-50: #fff2fa;
 $suzy-suzy-pink-100: #fad5f9;
 $suzy-suzy-pink-200: #f8c7f3;

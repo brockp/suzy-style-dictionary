@@ -55,7 +55,7 @@
     "type": "borderWidth"
   },
   "primary-button-border-radius": {
-    "value": 6,
+    "value": 8,
     "type": "borderRadius",
     "description": "Border radius for primary button component."
   },
