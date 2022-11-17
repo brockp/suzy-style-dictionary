@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 17 Nov 2022 18:10:05 GMT
+ * Generated on Thu, 17 Nov 2022 18:47:13 GMT
  */
 
 export const SUZY_TOKEN_SET_ORDER_0 = "colors";
@@ -237,6 +237,16 @@ export const SUZY_SUZY_PURPLE_600 = "#4d2599";
 export const SUZY_SUZY_PURPLE_700 = "#331966";
 export const SUZY_SUZY_PURPLE_800 = "#291257";
 export const SUZY_SUZY_PURPLE_900 = "#1a0c33";
+export const SUZY_SUZY_PINK_50 = "#fff2fa";
+export const SUZY_SUZY_PINK_100 = "#fad5f9";
+export const SUZY_SUZY_PINK_200 = "#f8c7f3";
+export const SUZY_SUZY_PINK_300 = "#f5abee";
+export const SUZY_SUZY_PINK_400 = "#f179f3";
+export const SUZY_SUZY_PINK_500 = "#e473ee";
+export const SUZY_SUZY_PINK_600 = "#d159ee";
+export const SUZY_SUZY_PINK_700 = "#bb55df";
+export const SUZY_SUZY_PINK_800 = "#b03cdd";
+export const SUZY_SUZY_PINK_900 = "#8332a5";
 export const SUZY_CORE_BLUE_50 = "#f4f6ff";
 export const SUZY_CORE_BLUE_100 = "#edeffb";
 export const SUZY_CORE_BLUE_200 = "#dbdef6";
@@ -257,16 +267,6 @@ export const SUZY_BLUE_600 = "#417bd4";
 export const SUZY_BLUE_700 = "#3160a9";
 export const SUZY_BLUE_800 = "#20467e";
 export const SUZY_BLUE_900 = "#183869";
-export const SUZY_SUZY_LIVE_PINK_50 = "#fff2fa";
-export const SUZY_SUZY_LIVE_PINK_100 = "#fad5eb";
-export const SUZY_SUZY_LIVE_PINK_200 = "#f8c7e4";
-export const SUZY_SUZY_LIVE_PINK_300 = "#f5abd7";
-export const SUZY_SUZY_LIVE_PINK_400 = "#f18fc9";
-export const SUZY_SUZY_LIVE_PINK_500 = "#ee73bc";
-export const SUZY_SUZY_LIVE_PINK_600 = "#d55fa5";
-export const SUZY_SUZY_LIVE_PINK_700 = "#bd4b8e";
-export const SUZY_SUZY_LIVE_PINK_800 = "#a43678";
-export const SUZY_SUZY_LIVE_PINK_900 = "#982c6c";
 export const SUZY_RED_50 = "#fef3f2";
 export const SUZY_RED_100 = "#fee4e2";
 export const SUZY_RED_200 = "#fecdca";
@@ -301,13 +301,3 @@ export const SUZY_GRADIENT_1 = "linear-gradient(180deg, #4e1276 0%, #191460 51.5
 export const SUZY_GRADIENT_2 = "linear-gradient(-28deg, #ee73bc 0%, #9347a0 0.01%, #653191 26.7%, #432187 53.97%, #331966 78.81%)";
 export const SUZY_GRADIENT_3 = "linear-gradient(49deg, #6923b7 0%, #6622b3 23%, #6021a9 41%, #552098 58%, #451e81 73%, #311b62 88%, #1e1945 100%)";
 export const SUZY_GRADIENT_4 = "linear-gradient(126deg, #6b17b8 9.57%, #6c16b8 50.81%, #9a18cc 73.39%, #b71fd9 88.2%)";
-export const SUZY_SUZY_PINK_50 = "#fff2fa";
-export const SUZY_SUZY_PINK_100 = "#fad5f9";
-export const SUZY_SUZY_PINK_200 = "#f8c7f3";
-export const SUZY_SUZY_PINK_300 = "#f5abee";
-export const SUZY_SUZY_PINK_400 = "#f179f3";
-export const SUZY_SUZY_PINK_500 = "#e473ee";
-export const SUZY_SUZY_PINK_600 = "#d159ee";
-export const SUZY_SUZY_PINK_700 = "#bb55df";
-export const SUZY_SUZY_PINK_800 = "#b03cdd";
-export const SUZY_SUZY_PINK_900 = "#8332a5";

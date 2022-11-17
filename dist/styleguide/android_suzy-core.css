@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 17 Nov 2022 18:10:05 GMT
+ * Generated on Thu, 17 Nov 2022 18:47:13 GMT
  */
 
 :root {
@@ -238,6 +238,16 @@
   --suzy-suzy-purple-700: #331966;
   --suzy-suzy-purple-800: #291257;
   --suzy-suzy-purple-900: #1a0c33;
+  --suzy-suzy-pink-50: #fff2fa;
+  --suzy-suzy-pink-100: #fad5f9;
+  --suzy-suzy-pink-200: #f8c7f3;
+  --suzy-suzy-pink-300: #f5abee;
+  --suzy-suzy-pink-400: #f179f3;
+  --suzy-suzy-pink-500: #e473ee;
+  --suzy-suzy-pink-600: #d159ee;
+  --suzy-suzy-pink-700: #bb55df;
+  --suzy-suzy-pink-800: #b03cdd;
+  --suzy-suzy-pink-900: #8332a5;
   --suzy-core-blue-50: #f4f6ff;
   --suzy-core-blue-100: #edeffb;
   --suzy-core-blue-200: #dbdef6;
@@ -258,16 +268,6 @@
   --suzy-blue-700: #3160a9;
   --suzy-blue-800: #20467e;
   --suzy-blue-900: #183869;
-  --suzy-suzy-live-pink-50: #fff2fa;
-  --suzy-suzy-live-pink-100: #fad5eb;
-  --suzy-suzy-live-pink-200: #f8c7e4;
-  --suzy-suzy-live-pink-300: #f5abd7;
-  --suzy-suzy-live-pink-400: #f18fc9;
-  --suzy-suzy-live-pink-500: #ee73bc;
-  --suzy-suzy-live-pink-600: #d55fa5;
-  --suzy-suzy-live-pink-700: #bd4b8e;
-  --suzy-suzy-live-pink-800: #a43678;
-  --suzy-suzy-live-pink-900: #982c6c;
   --suzy-red-50: #fef3f2;
   --suzy-red-100: #fee4e2;
   --suzy-red-200: #fecdca;
@@ -302,14 +302,4 @@
   --suzy-gradient-2: linear-gradient(-28deg, #ee73bc 0%, #9347a0 0.01%, #653191 26.7%, #432187 53.97%, #331966 78.81%);
   --suzy-gradient-3: linear-gradient(49deg, #6923b7 0%, #6622b3 23%, #6021a9 41%, #552098 58%, #451e81 73%, #311b62 88%, #1e1945 100%);
   --suzy-gradient-4: linear-gradient(126deg, #6b17b8 9.57%, #6c16b8 50.81%, #9a18cc 73.39%, #b71fd9 88.2%);
-  --suzy-suzy-pink-50: #fff2fa;
-  --suzy-suzy-pink-100: #fad5f9;
-  --suzy-suzy-pink-200: #f8c7f3;
-  --suzy-suzy-pink-300: #f5abee;
-  --suzy-suzy-pink-400: #f179f3;
-  --suzy-suzy-pink-500: #e473ee;
-  --suzy-suzy-pink-600: #d159ee;
-  --suzy-suzy-pink-700: #bb55df;
-  --suzy-suzy-pink-800: #b03cdd;
-  --suzy-suzy-pink-900: #8332a5;
 }

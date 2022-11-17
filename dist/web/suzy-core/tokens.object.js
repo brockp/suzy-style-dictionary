@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 17 Nov 2022 18:10:05 GMT
+ * Generated on Thu, 17 Nov 2022 18:47:13 GMT
  */
 
 var _styleDictionary = {
@@ -4029,6 +4029,168 @@ var _styleDictionary = {
       ]
     }
   },
+  "Suzy Pink": {
+    "50": {
+      "value": "#fff2fa",
+      "type": "color",
+      "filePath": "src/input/transformed-tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#fff2fa",
+        "type": "color"
+      },
+      "name": "SUZY_SUZY_PINK_50",
+      "attributes": {},
+      "path": [
+        "Suzy Pink",
+        "50"
+      ]
+    },
+    "100": {
+      "value": "#fad5f9",
+      "type": "color",
+      "filePath": "src/input/transformed-tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#fad5f9",
+        "type": "color"
+      },
+      "name": "SUZY_SUZY_PINK_100",
+      "attributes": {},
+      "path": [
+        "Suzy Pink",
+        "100"
+      ]
+    },
+    "200": {
+      "value": "#f8c7f3",
+      "type": "color",
+      "filePath": "src/input/transformed-tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#f8c7f3",
+        "type": "color"
+      },
+      "name": "SUZY_SUZY_PINK_200",
+      "attributes": {},
+      "path": [
+        "Suzy Pink",
+        "200"
+      ]
+    },
+    "300": {
+      "value": "#f5abee",
+      "type": "color",
+      "filePath": "src/input/transformed-tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#f5abee",
+        "type": "color"
+      },
+      "name": "SUZY_SUZY_PINK_300",
+      "attributes": {},
+      "path": [
+        "Suzy Pink",
+        "300"
+      ]
+    },
+    "400": {
+      "value": "#f179f3",
+      "type": "color",
+      "filePath": "src/input/transformed-tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#f179f3",
+        "type": "color"
+      },
+      "name": "SUZY_SUZY_PINK_400",
+      "attributes": {},
+      "path": [
+        "Suzy Pink",
+        "400"
+      ]
+    },
+    "500": {
+      "value": "#e473ee",
+      "type": "color",
+      "filePath": "src/input/transformed-tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#e473ee",
+        "type": "color"
+      },
+      "name": "SUZY_SUZY_PINK_500",
+      "attributes": {},
+      "path": [
+        "Suzy Pink",
+        "500"
+      ]
+    },
+    "600": {
+      "value": "#d159ee",
+      "type": "color",
+      "filePath": "src/input/transformed-tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#d159ee",
+        "type": "color"
+      },
+      "name": "SUZY_SUZY_PINK_600",
+      "attributes": {},
+      "path": [
+        "Suzy Pink",
+        "600"
+      ]
+    },
+    "700": {
+      "value": "#bb55df",
+      "type": "color",
+      "filePath": "src/input/transformed-tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#bb55df",
+        "type": "color"
+      },
+      "name": "SUZY_SUZY_PINK_700",
+      "attributes": {},
+      "path": [
+        "Suzy Pink",
+        "700"
+      ]
+    },
+    "800": {
+      "value": "#b03cdd",
+      "type": "color",
+      "filePath": "src/input/transformed-tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#b03cdd",
+        "type": "color"
+      },
+      "name": "SUZY_SUZY_PINK_800",
+      "attributes": {},
+      "path": [
+        "Suzy Pink",
+        "800"
+      ]
+    },
+    "900": {
+      "value": "#8332a5",
+      "type": "color",
+      "filePath": "src/input/transformed-tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#8332a5",
+        "type": "color"
+      },
+      "name": "SUZY_SUZY_PINK_900",
+      "attributes": {},
+      "path": [
+        "Suzy Pink",
+        "900"
+      ]
+    }
+  },
   "Core Blue": {
     "50": {
       "value": "#f4f6ff",
@@ -4349,168 +4511,6 @@ var _styleDictionary = {
       "attributes": {},
       "path": [
         "Blue",
-        "900"
-      ]
-    }
-  },
-  "Suzy Live Pink": {
-    "50": {
-      "value": "#fff2fa",
-      "type": "color",
-      "filePath": "src/input/transformed-tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#fff2fa",
-        "type": "color"
-      },
-      "name": "SUZY_SUZY_LIVE_PINK_50",
-      "attributes": {},
-      "path": [
-        "Suzy Live Pink",
-        "50"
-      ]
-    },
-    "100": {
-      "value": "#fad5eb",
-      "type": "color",
-      "filePath": "src/input/transformed-tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#fad5eb",
-        "type": "color"
-      },
-      "name": "SUZY_SUZY_LIVE_PINK_100",
-      "attributes": {},
-      "path": [
-        "Suzy Live Pink",
-        "100"
-      ]
-    },
-    "200": {
-      "value": "#f8c7e4",
-      "type": "color",
-      "filePath": "src/input/transformed-tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#f8c7e4",
-        "type": "color"
-      },
-      "name": "SUZY_SUZY_LIVE_PINK_200",
-      "attributes": {},
-      "path": [
-        "Suzy Live Pink",
-        "200"
-      ]
-    },
-    "300": {
-      "value": "#f5abd7",
-      "type": "color",
-      "filePath": "src/input/transformed-tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#f5abd7",
-        "type": "color"
-      },
-      "name": "SUZY_SUZY_LIVE_PINK_300",
-      "attributes": {},
-      "path": [
-        "Suzy Live Pink",
-        "300"
-      ]
-    },
-    "400": {
-      "value": "#f18fc9",
-      "type": "color",
-      "filePath": "src/input/transformed-tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#f18fc9",
-        "type": "color"
-      },
-      "name": "SUZY_SUZY_LIVE_PINK_400",
-      "attributes": {},
-      "path": [
-        "Suzy Live Pink",
-        "400"
-      ]
-    },
-    "500": {
-      "value": "#ee73bc",
-      "type": "color",
-      "filePath": "src/input/transformed-tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#ee73bc",
-        "type": "color"
-      },
-      "name": "SUZY_SUZY_LIVE_PINK_500",
-      "attributes": {},
-      "path": [
-        "Suzy Live Pink",
-        "500"
-      ]
-    },
-    "600": {
-      "value": "#d55fa5",
-      "type": "color",
-      "filePath": "src/input/transformed-tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#d55fa5",
-        "type": "color"
-      },
-      "name": "SUZY_SUZY_LIVE_PINK_600",
-      "attributes": {},
-      "path": [
-        "Suzy Live Pink",
-        "600"
-      ]
-    },
-    "700": {
-      "value": "#bd4b8e",
-      "type": "color",
-      "filePath": "src/input/transformed-tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#bd4b8e",
-        "type": "color"
-      },
-      "name": "SUZY_SUZY_LIVE_PINK_700",
-      "attributes": {},
-      "path": [
-        "Suzy Live Pink",
-        "700"
-      ]
-    },
-    "800": {
-      "value": "#a43678",
-      "type": "color",
-      "filePath": "src/input/transformed-tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#a43678",
-        "type": "color"
-      },
-      "name": "SUZY_SUZY_LIVE_PINK_800",
-      "attributes": {},
-      "path": [
-        "Suzy Live Pink",
-        "800"
-      ]
-    },
-    "900": {
-      "value": "#982c6c",
-      "type": "color",
-      "filePath": "src/input/transformed-tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#982c6c",
-        "type": "color"
-      },
-      "name": "SUZY_SUZY_LIVE_PINK_900",
-      "attributes": {},
-      "path": [
-        "Suzy Live Pink",
         "900"
       ]
     }
@@ -5064,168 +5064,6 @@ var _styleDictionary = {
       "path": [
         "Gradient",
         "4"
-      ]
-    }
-  },
-  "Suzy Pink": {
-    "50": {
-      "value": "#fff2fa",
-      "type": "color",
-      "filePath": "src/input/transformed-tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#fff2fa",
-        "type": "color"
-      },
-      "name": "SUZY_SUZY_PINK_50",
-      "attributes": {},
-      "path": [
-        "Suzy Pink",
-        "50"
-      ]
-    },
-    "100": {
-      "value": "#fad5f9",
-      "type": "color",
-      "filePath": "src/input/transformed-tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#fad5f9",
-        "type": "color"
-      },
-      "name": "SUZY_SUZY_PINK_100",
-      "attributes": {},
-      "path": [
-        "Suzy Pink",
-        "100"
-      ]
-    },
-    "200": {
-      "value": "#f8c7f3",
-      "type": "color",
-      "filePath": "src/input/transformed-tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#f8c7f3",
-        "type": "color"
-      },
-      "name": "SUZY_SUZY_PINK_200",
-      "attributes": {},
-      "path": [
-        "Suzy Pink",
-        "200"
-      ]
-    },
-    "300": {
-      "value": "#f5abee",
-      "type": "color",
-      "filePath": "src/input/transformed-tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#f5abee",
-        "type": "color"
-      },
-      "name": "SUZY_SUZY_PINK_300",
-      "attributes": {},
-      "path": [
-        "Suzy Pink",
-        "300"
-      ]
-    },
-    "400": {
-      "value": "#f179f3",
-      "type": "color",
-      "filePath": "src/input/transformed-tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#f179f3",
-        "type": "color"
-      },
-      "name": "SUZY_SUZY_PINK_400",
-      "attributes": {},
-      "path": [
-        "Suzy Pink",
-        "400"
-      ]
-    },
-    "500": {
-      "value": "#e473ee",
-      "type": "color",
-      "filePath": "src/input/transformed-tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#e473ee",
-        "type": "color"
-      },
-      "name": "SUZY_SUZY_PINK_500",
-      "attributes": {},
-      "path": [
-        "Suzy Pink",
-        "500"
-      ]
-    },
-    "600": {
-      "value": "#d159ee",
-      "type": "color",
-      "filePath": "src/input/transformed-tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#d159ee",
-        "type": "color"
-      },
-      "name": "SUZY_SUZY_PINK_600",
-      "attributes": {},
-      "path": [
-        "Suzy Pink",
-        "600"
-      ]
-    },
-    "700": {
-      "value": "#bb55df",
-      "type": "color",
-      "filePath": "src/input/transformed-tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#bb55df",
-        "type": "color"
-      },
-      "name": "SUZY_SUZY_PINK_700",
-      "attributes": {},
-      "path": [
-        "Suzy Pink",
-        "700"
-      ]
-    },
-    "800": {
-      "value": "#b03cdd",
-      "type": "color",
-      "filePath": "src/input/transformed-tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#b03cdd",
-        "type": "color"
-      },
-      "name": "SUZY_SUZY_PINK_800",
-      "attributes": {},
-      "path": [
-        "Suzy Pink",
-        "800"
-      ]
-    },
-    "900": {
-      "value": "#8332a5",
-      "type": "color",
-      "filePath": "src/input/transformed-tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "#8332a5",
-        "type": "color"
-      },
-      "name": "SUZY_SUZY_PINK_900",
-      "attributes": {},
-      "path": [
-        "Suzy Pink",
-        "900"
       ]
     }
   }

@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Thu, 17 Nov 2022 18:10:05 GMT
+  Generated on Thu, 17 Nov 2022 18:47:13 GMT
 -->
 <resources>
   <string name="suzy_token_set_order_0">colors</string>
@@ -239,6 +239,16 @@
   <string name="suzy_suzy_purple_700">#331966</string>
   <string name="suzy_suzy_purple_800">#291257</string>
   <string name="suzy_suzy_purple_900">#1a0c33</string>
+  <string name="suzy_suzy_pink_50">#fff2fa</string>
+  <string name="suzy_suzy_pink_100">#fad5f9</string>
+  <string name="suzy_suzy_pink_200">#f8c7f3</string>
+  <string name="suzy_suzy_pink_300">#f5abee</string>
+  <string name="suzy_suzy_pink_400">#f179f3</string>
+  <string name="suzy_suzy_pink_500">#e473ee</string>
+  <string name="suzy_suzy_pink_600">#d159ee</string>
+  <string name="suzy_suzy_pink_700">#bb55df</string>
+  <string name="suzy_suzy_pink_800">#b03cdd</string>
+  <string name="suzy_suzy_pink_900">#8332a5</string>
   <string name="suzy_core_blue_50">#f4f6ff</string>
   <string name="suzy_core_blue_100">#edeffb</string>
   <string name="suzy_core_blue_200">#dbdef6</string>
@@ -259,16 +269,6 @@
   <string name="suzy_blue_700">#3160a9</string>
   <string name="suzy_blue_800">#20467e</string>
   <string name="suzy_blue_900">#183869</string>
-  <string name="suzy_suzy_live_pink_50">#fff2fa</string>
-  <string name="suzy_suzy_live_pink_100">#fad5eb</string>
-  <string name="suzy_suzy_live_pink_200">#f8c7e4</string>
-  <string name="suzy_suzy_live_pink_300">#f5abd7</string>
-  <string name="suzy_suzy_live_pink_400">#f18fc9</string>
-  <string name="suzy_suzy_live_pink_500">#ee73bc</string>
-  <string name="suzy_suzy_live_pink_600">#d55fa5</string>
-  <string name="suzy_suzy_live_pink_700">#bd4b8e</string>
-  <string name="suzy_suzy_live_pink_800">#a43678</string>
-  <string name="suzy_suzy_live_pink_900">#982c6c</string>
   <string name="suzy_red_50">#fef3f2</string>
   <string name="suzy_red_100">#fee4e2</string>
   <string name="suzy_red_200">#fecdca</string>
@@ -303,15 +303,5 @@
   <string name="suzy_gradient_2">linear-gradient(-28deg, #ee73bc 0%, #9347a0 0.01%, #653191 26.7%, #432187 53.97%, #331966 78.81%)</string>
   <string name="suzy_gradient_3">linear-gradient(49deg, #6923b7 0%, #6622b3 23%, #6021a9 41%, #552098 58%, #451e81 73%, #311b62 88%, #1e1945 100%)</string>
   <string name="suzy_gradient_4">linear-gradient(126deg, #6b17b8 9.57%, #6c16b8 50.81%, #9a18cc 73.39%, #b71fd9 88.2%)</string>
-  <string name="suzy_suzy_pink_50">#fff2fa</string>
-  <string name="suzy_suzy_pink_100">#fad5f9</string>
-  <string name="suzy_suzy_pink_200">#f8c7f3</string>
-  <string name="suzy_suzy_pink_300">#f5abee</string>
-  <string name="suzy_suzy_pink_400">#f179f3</string>
-  <string name="suzy_suzy_pink_500">#e473ee</string>
-  <string name="suzy_suzy_pink_600">#d159ee</string>
-  <string name="suzy_suzy_pink_700">#bb55df</string>
-  <string name="suzy_suzy_pink_800">#b03cdd</string>
-  <string name="suzy_suzy_pink_900">#8332a5</string>
   
 </resources>
