@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 08 Nov 2022 19:26:35 GMT
+ * Generated on Thu, 17 Nov 2022 18:10:05 GMT
  */
 
 export const SUZY_TOKEN_SET_ORDER_0 = "colors";
@@ -101,7 +101,7 @@ export const SUZY_HEADING_H5_TEXT_DECORATION = "none";
 export const SUZY_HEADING_EYEBROW_FONT_FAMILY = "Roboto";
 export const SUZY_HEADING_EYEBROW_FONT_WEIGHT = "Medium";
 export const SUZY_HEADING_EYEBROW_LINE_HEIGHT = "135%";
-export const SUZY_HEADING_EYEBROW_FONT_SIZE = 12;
+export const SUZY_HEADING_EYEBROW_FONT_SIZE = 18;
 export const SUZY_HEADING_EYEBROW_LETTER_SPACING = "10%";
 export const SUZY_HEADING_EYEBROW_PARAGRAPH_SPACING = 0;
 export const SUZY_HEADING_EYEBROW_PARAGRAPH_INDENT = 0;

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 08 Nov 2022 19:26:35 GMT
+// Generated on Thu, 17 Nov 2022 18:10:05 GMT
 
 
 import SwiftUI
@@ -162,7 +162,7 @@ public class StyleDictionaryProperties {
     public static let suzyGrey700 = #757a83
     public static let suzyGrey800 = #4e5258
     public static let suzyHeadingEyebrowFontFamily = Roboto
-    public static let suzyHeadingEyebrowFontSize = 12
+    public static let suzyHeadingEyebrowFontSize = 18
     public static let suzyHeadingEyebrowFontWeight = Medium
     public static let suzyHeadingEyebrowLetterSpacing = 10%
     public static let suzyHeadingEyebrowLineHeight = 135%

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 08 Nov 2022 19:26:35 GMT
+ * Generated on Thu, 17 Nov 2022 18:10:05 GMT
  */
 
 var _styleDictionary = {
@@ -1704,12 +1704,12 @@ var _styleDictionary = {
         ]
       },
       "fontSize": {
-        "value": 12,
+        "value": 18,
         "type": "fontSize",
         "filePath": "src/input/transformed-tokens.json",
         "isSource": true,
         "original": {
-          "value": 12,
+          "value": 18,
           "type": "fontSize"
         },
         "name": "SUZY_HEADING_EYEBROW_FONT_SIZE",
