@@ -19,11 +19,11 @@ jobs:
           personal_token: ${{ secrets.SEND_TO_STORYBOOK }}
           # This is the branch that has the code for this article
           src_branch: main
-          src_path: dist/web/suzy-core/tokens.scss
+          src_path: dist/web/suzy-core/tokens.json
           dst_owner: brockp
-          dst_repo_name: suzy.exd.storybook
+          dst_repo_name: suzy.storybook
           dst_branch: main
-          dst_path: tokens/_variables.scss
+          dst_path: tokens/tokens.json
           username: brockp
           email: brock.prescott@gmail.com
           commit_message: Update platform deliverable to Storybook
