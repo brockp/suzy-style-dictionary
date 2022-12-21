@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 17 Nov 2022 18:47:13 GMT
+ * Generated on Wed, 21 Dec 2022 14:52:39 GMT
  */
 
 var _styleDictionary = {
@@ -3933,12 +3933,12 @@ var _styleDictionary = {
       ]
     },
     "400": {
-      "value": "#a383e0",
+      "value": "#900",
       "type": "color",
       "filePath": "src/input/transformed-tokens.json",
       "isSource": true,
       "original": {
-        "value": "#a383e0",
+        "value": "#900",
         "type": "color"
       },
       "name": "SUZY_SUZY_PURPLE_400",
