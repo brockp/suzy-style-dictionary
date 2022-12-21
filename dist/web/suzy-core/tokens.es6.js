@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 21 Dec 2022 14:52:39 GMT
+ * Generated on Wed, 21 Dec 2022 15:34:10 GMT
  */
 
 export const SUZY_TOKEN_SET_ORDER_0 = "colors";
@@ -231,7 +231,7 @@ export const SUZY_SUZY_PURPLE_50 = "#f7f2ff";
 export const SUZY_SUZY_PURPLE_100 = "#f0ebfa";
 export const SUZY_SUZY_PURPLE_200 = "#e0d6f5";
 export const SUZY_SUZY_PURPLE_300 = "#c2adeb";
-export const SUZY_SUZY_PURPLE_400 = "#900";
+export const SUZY_SUZY_PURPLE_400 = "#A383E0";
 export const SUZY_SUZY_PURPLE_500 = "#6a33d4";
 export const SUZY_SUZY_PURPLE_600 = "#4d2599";
 export const SUZY_SUZY_PURPLE_700 = "#331966";

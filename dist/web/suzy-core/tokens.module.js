@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 21 Dec 2022 14:52:39 GMT
+ * Generated on Wed, 21 Dec 2022 15:34:10 GMT
  */
 
 module.exports = {
@@ -3933,12 +3933,12 @@ module.exports = {
       ]
     },
     "400": {
-      "value": "#900",
+      "value": "#A383E0",
       "type": "color",
       "filePath": "src/input/transformed-tokens.json",
       "isSource": true,
       "original": {
-        "value": "#900",
+        "value": "#A383E0",
         "type": "color"
       },
       "name": "SUZY_SUZY_PURPLE_400",
