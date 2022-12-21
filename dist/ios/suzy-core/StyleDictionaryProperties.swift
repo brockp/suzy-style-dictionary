@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 21 Dec 2022 15:34:10 GMT
+// Generated on Wed, 21 Dec 2022 16:47:39 GMT
 
 
 import SwiftUI
@@ -280,7 +280,7 @@ public class StyleDictionaryProperties {
     public static let suzySuzyPurple100 = #f0ebfa
     public static let suzySuzyPurple200 = #e0d6f5
     public static let suzySuzyPurple300 = #c2adeb
-    public static let suzySuzyPurple400 = #A383E0
+    public static let suzySuzyPurple400 = #900
     public static let suzySuzyPurple50 = #f7f2ff
     public static let suzySuzyPurple500 = #6a33d4
     public static let suzySuzyPurple600 = #4d2599

@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 21 Dec 2022 15:34:10 GMT
+  Generated on Wed, 21 Dec 2022 16:47:39 GMT
 -->
 <resources>
   <string name="suzy_token_set_order_0">colors</string>
@@ -233,7 +233,7 @@
   <string name="suzy_suzy_purple_100">#f0ebfa</string>
   <string name="suzy_suzy_purple_200">#e0d6f5</string>
   <string name="suzy_suzy_purple_300">#c2adeb</string>
-  <string name="suzy_suzy_purple_400">#A383E0</string>
+  <string name="suzy_suzy_purple_400">#900</string>
   <string name="suzy_suzy_purple_500">#6a33d4</string>
   <string name="suzy_suzy_purple_600">#4d2599</string>
   <string name="suzy_suzy_purple_700">#331966</string>
